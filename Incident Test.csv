@@ -1,0 +1,1144 @@
+﻿ConfigItemDisplayName,IncidentOutageStart,IncidentOutageEnd,OutageDuration,Category,Impact,OwnedByTeam
+ACORD Commission Data Feed,2019-02-01 09:36:00,2019-02-01 11:36:00,120,Application Support,Widespread,IT Incident Managers
+ACORD Commission Data Feed,2019-02-16 09:20:00,2019-02-16 10:24:00,64,Application Support,Widespread,IT Incident Managers
+ACORD Commission Data Feed System,2019-05-01 06:00:00,2019-05-06 15:30:00,7770,Application Support,Widespread,IT Incident Managers
+Admin Launcher,2019-07-09 06:06:00,2019-07-09 09:30:00,204,Application Support,Large,IT Incident Managers
+Admin Launcher,2019-07-09 06:06:00,2019-07-09 09:30:00,204,Application Support,Widespread,IT Incident Managers
+Advisor Hub,2019-04-01 12:34:59,2019-04-01 17:18:00,283,Business Acquistion,Large,IT Incident Managers
+Advisor Hub,2019-07-27 02:47:00,2019-07-27 06:30:00,223,Business Acquistion,Widespread,Enterprise Data  and Applications
+Advisor Search Portlet,2019-09-12 20:00:00,2019-09-13 15:00:00,1140,Business Acquistion,Widespread,EDA Advisor
+Advisor web,2018-07-17 07:41:00,2018-07-17 08:30:00,49,Application Support,Widespread,Availability Management Team
+Advisor web,2018-10-03 20:35:00,2018-10-04 04:20:00,465,Application Support,Large,IT Incident Managers
+Advisor web,2018-10-04 05:25:00,2018-10-04 05:29:00,4,Application Support,Large,IT Incident Managers
+Advisor web,2018-10-04 05:29:00,2018-10-04 06:43:00,74,Application Support,Widespread,IT Incident Managers
+AH00,2018-08-02 07:00:00,2018-08-02 12:15:00,315,Application Support,Large,IT Incident Managers
+Akumina Interchange,2019-05-02 14:45:00,2019-05-02 00:00:00,885,Internet Connectivity,Widespread,CSS HR IT
+API Admin Server,2019-10-29 03:31:00,2019-10-29 10:03:00,392,Application Support,Widespread,IT Incident Managers
+Apigee API Management,2019-04-29 12:09:00,2019-04-29 13:35:00,86,Application Support,Widespread,IT Incident Managers
+Apigee API Management,2019-06-11 13:28:00,2019-06-11 13:36:00,8,API Management,Large,IS APS – API
+Apigee API Management,2019-08-30 12:16:00,2019-08-30 12:38:00,22,API Management,Widespread,IS APS – API
+Apigee API Management,2019-09-03 11:05:00,2019-09-03 15:00:00,235,Web Infrastructure,Widespread,IS APS - Web Hosting
+Avaya Call Management System,2019-10-01 08:00:00,2019-10-01 14:00:00,720,Voice,Widespread,PGI ITSM
+Avaya Call Management System (CMS),2019-02-13 15:25:00,2019-02-13 16:11:00,46,Application Support,Large,IT Incident Managers
+Avaya Communication Manager,2019-10-01 12:03:44,2019-10-01 22:35:00,631,Application Support,Widespread,IT Incident Managers
+Avaya Communication Manager (CM),2019-02-28 15:22:00,2019-02-28 16:15:00,53,Application Support,Large,IT Incident Managers
+Avaya Communication Manager (CM),2019-02-28 15:22:00,2019-02-28 16:15:00,159,Application Support,Widespread,IT Incident Managers
+Avaya Communication Manager (CM),2019-04-10 11:53:55,2019-04-11 00:00:00,726,Desk Phones,Widespread,IS Workspace Communication and Collaboration
+Avaya Communication Manager (CM),2019-04-10 11:55:00,2019-04-11 00:00:00,725,Application Support,Widespread,IT Incident Managers
+Avaya Communication Manager (CM),2019-05-16 13:15:00,2019-05-16 15:30:00,540,Application Support,Widespread,IT Incident Managers
+Avaya System Administration (ASA),2019-04-09 09:27:47,2019-04-12 00:00:00,3752,Desk Phones,Widespread,IS Workspace Endpoint
+Avaya System Administration (ASA),2019-04-09 09:37:00,2019-04-09 12:15:00,158,Application Support,Widespread,IT Incident Managers
+Avaya System Administration (ASA),2019-04-10 11:55:00,2019-04-11 00:29:00,1508,Application Support,Widespread,IT Incident Managers
+Avaya System Administration (ASA),2019-04-10 14:15:02,2019-04-11 00:29:00,614,Generic,Widespread,IT Incident Managers
+Avaya System Administration (ASA),2019-04-10 14:23:20,2019-04-11 00:29:00,606,Generic,Widespread,IT Incident Managers
+Avaya System Administration (ASA),2019-04-10 14:24:55,2019-04-11 00:29:00,604,Generic,Widespread,IT Incident Managers
+Avaya System Administration (ASA),2019-04-10 23:55:00,2019-04-11 00:29:00,34,Application Support,Widespread,IT Incident Managers
+Bank Authentication,2019-08-04 07:00:00,2019-08-05 21:00:00,2280,Infrastructure,Widespread,Bank IT
+Bind DNS,2019-10-23 07:49:39,2019-10-23 09:00:00,70,Application Support,Widespread,IS Network Data
+Blackrock Aladdin OMS (Saas),2019-04-16 01:00:00,2019-04-16 16:00:00,900,Application Support,Large,PGI ITSM
+Blackrock Aladdin Risk,2018-08-21 20:00:00,2018-08-22 10:00:00,840,Research Systems,Widespread,PGI IT Support Services
+Blackrock Aladdin Risk,2018-08-27 23:00:00,2018-08-28 15:00:00,960,Regulatory Systems,Widespread,PGI IT Support Services
+Blackrock Aladdin Risk,2018-09-06 00:00:00,2018-09-06 09:00:00,540,Trade Settlement Systems,Widespread,PGI IT Support Services
+Blackrock Aladdin Risk,2018-09-06 10:59:45,2018-09-06 12:01:00,61,Trade Settlement Systems,Widespread,PGI IT Support Services
+Blackrock Aladdin Risk,2019-02-01 00:00:00,2019-02-05 19:00:00,6900,Analytics and Risk Systems,Large,PGI ITSM
+Blackrock Aladdin Risk,2019-02-12 09:30:00,2019-02-13 08:00:00,1350,Portfolio Management Systems,Widespread,PGI Investment Operations
+Blackrock Aladdin Risk,2019-07-12 07:30:00,2019-07-12 16:53:00,563,Analytics and Risk Systems,Large,PGI ITSM
+Bloomberg AIM,2019-07-15 23:00:00,2019-07-17 23:00:00,2880,Portfolio Management Systems,Widespread,PGI ITSM
+BloomBerg Service,2019-10-02 12:49:51,2019-10-02 14:39:00,109,Research Systems,Widespread,PGI Workspace - SEA
+Booklet and Contracts,2018-11-30 16:51:00,2018-12-03 08:00:00,3789,Application Support,Large,IT Incident Managers
+Box,2019-09-12 11:30:00,2019-09-12 12:30:00,60,Application Support,Widespread,IT Incident Managers
+BPM Distribution Processing Service,2019-07-03 10:20:00,2019-07-03 12:10:00,110,Recordkeeping Systems,Widespread,RIS Shared Services
+BPM-DistributionProcessing-Service,2019-04-05 13:15:00,2019-04-05 14:05:00,50,Generic,Widespread,IT Incident Managers
+BPM-DistributionProcessing-Service,2019-04-25 08:50:13,1900-01-01 00:00:00,0,Generic,Widespread,IT Incident Managers
+Brava,2018-06-20 15:30:00,2018-06-21 03:00:00,690,Application Support,Large,IT Incident Managers
+Bridger Insight XG,2019-05-08 08:15:00,2019-05-08 13:15:00,300,Treasury Operations,Widespread,IT Incident Managers
+Broker Bonus,2019-10-02 09:30:00,2019-10-04 10:20:00,2930,Application Support,Widespread,IT Incident Managers
+BTIVA,2019-07-27 07:30:00,2019-08-02 18:15:00,9285,Application Support,Widespread,IT Incident Managers
+Building Automation System,2018-08-20 13:12:00,2018-08-20 13:40:00,28,Property Management,Widespread,CSS CRE IT
+Building Automation System,2019-02-02 06:30:00,2019-02-02 09:03:00,153,Deliver Document,Widespread,IT Incident Managers
+Building Automation System,2019-02-21 10:45:00,2019-02-21 10:56:00,11,Property Management,Widespread,CSS CRE IT
+Building Automation System,2019-05-01 13:49:00,2019-05-01 13:52:00,3,Property Management,Large,CSS CRE IT
+Building Automation System,2019-05-20 22:14:00,2019-05-20 22:20:00,6,Property Management,Widespread,CSS CRE IT
+Building Automation System,2019-06-05 14:35:00,2019-06-05 14:39:00,4,Property Management,Widespread,IT Incident Managers
+Building Automation System,2019-07-10 12:50:00,2019-07-10 12:56:00,6,Property Management,Widespread,CSS CRE IT
+Building Automation System,2019-07-12 07:33:00,2019-07-12 07:38:00,5,Property Management,Widespread,CSS CRE IT
+Building Automation System,2019-08-27 08:20:00,2019-08-27 11:24:00,184,Property Management,Large,CSS CRE IT
+Building Automation System,2019-09-03 13:00:00,2019-09-03 17:10:00,250,Property Management,Widespread,CSS CRE IT
+Building Automation System,2019-09-24 17:31:00,2019-09-24 17:51:00,20,Property Management,Widespread,CSS CRE IT
+Business Manager,2019-10-23 10:45:00,2019-10-23 12:40:00,115,Deliver Document,Widespread,IS Network Data
+Business Process Management Service,2018-03-03 14:50:00,2018-03-03 14:53:00,3,Application Support,Widespread,USIS DTS
+Business Process Management Service,2018-03-04 12:32:00,2018-03-04 12:34:00,2,Application Support,Widespread,USIS DTS
+Business Process Management Service,2018-03-04 12:54:00,2018-03-04 12:56:00,2,Application Support,Widespread,USIS DTS
+Business Process Management Service,2018-03-05 16:11:00,2018-03-05 16:48:00,37,Application Support,Widespread,USIS DTS
+Business Process Management Service,2018-03-20 04:04:00,2018-03-20 05:39:00,95,Application Support,Widespread,USIS DTS
+Business Process Management Service,2018-11-02 09:46:00,2018-11-02 15:40:00,354,Application Support,Widespread,IT Incident Managers
+Business Process Management Service,2018-11-05 08:08:00,2018-11-09 08:00:00,5752,Application Support,Widespread,IT Incident Managers
+Business Process Management Service,2018-11-26 13:32:00,2018-11-26 15:20:00,108,Application Support,Widespread,IT Incident Managers
+Business Process Management Service,2018-11-29 13:57:00,2018-11-29 15:40:00,103,Application Support,Widespread,USIS IDI
+Business Process Management Service,2018-12-18 09:33:00,2018-12-18 15:07:00,668,Application Support,Large,IT Incident Managers
+Business Process Management Service,2018-12-21 09:00:00,2018-12-21 09:51:00,51,Application Support,Widespread,IT Incident Managers
+Business Process Management Service,2019-05-28 07:00:00,2019-05-28 08:55:00,115,Application Support,Widespread,IT Incident Managers
+Business Process Management Service,2019-08-16 04:30:00,2019-08-16 12:15:00,465,Application Support,Widespread,IT Incident Managers
+Business Process Management Service,2019-08-28 05:02:00,2019-08-28 11:59:00,417,Application Support,Widespread,USIS Group Benefits
+Capture,2019-07-27 06:00:00,2019-07-27 07:30:00,90,Application Support,Widespread,IT Incident Managers
+CC Central - Bank Customization,2019-05-28 07:00:00,2019-05-28 07:32:00,32,Contact Center Infrastructure,Widespread,IT Incident Managers
+CC Central - RIS Customization,2019-11-08 08:37:00,2019-11-08 08:44:00,7,Retirement Service Center,Widespread,IT Incident Managers
+CCA,2019-02-02 05:11:00,2019-02-02 15:40:00,629,Application Support,Large,IT Incident Managers
+CCA - Payments,2019-04-02 12:08:00,2019-04-02 12:50:00,42,Application Support,Widespread,IT Incident Managers
+Charles River Investment Management System,2018-09-06 04:36:00,2018-09-06 07:00:00,144,Order and Execution Systems,Large,PGI IT Support Services
+Charles River Investment Management System,2018-09-07 06:00:00,2018-09-07 09:04:00,184,Order and Execution Systems,Large,PGI IT Support Services
+Charles River Investment Management System,2018-09-11 07:00:00,2018-09-11 08:02:00,62,Order and Execution Systems,Large,PGI IT Support Services
+Charles River Investment Management System,2018-09-26 15:12:00,2018-09-26 18:52:00,220,Portfolio Management Systems,Widespread,PGI IT Support Services
+Charles River Investment Management System,2018-10-08 08:00:00,2018-10-08 10:23:00,143,Order and Execution Systems,Large,PGI IT Support Services
+Charles River Investment Management System,2018-10-10 00:39:00,2018-10-10 07:30:00,411,Trade Settlement Systems,Widespread,PGI IT Support Services
+Charles River Investment Management System,2018-10-17 23:00:00,2018-10-18 10:57:00,717,Portfolio Management Systems,Widespread,PGI IT Support Services
+Charles River Investment Management System,2018-11-07 16:00:00,2018-11-08 02:45:00,645,Portfolio Management Systems,Widespread,PGI IT Support Services
+Charles River Investment Management System,2018-12-27 17:24:00,2018-12-27 20:45:00,201,Portfolio Management Systems,Widespread,PGI Investment Operations
+Charles River Investment Management System,2019-01-14 05:41:00,2019-01-14 07:27:00,106,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-02-28 09:15:00,2019-02-28 10:00:00,45,Portfolio Management Systems,Large,PGI ITSM
+Charles River Investment Management System,2019-03-11 22:00:00,2019-03-12 05:21:00,441,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-03-19 04:00:00,2019-03-19 06:55:00,175,Order and Execution Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-03-22 05:09:00,2019-03-22 07:43:00,154,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-03-31 15:00:00,2019-04-01 10:15:00,1155,Order and Execution Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-04-09 02:30:00,2019-04-09 06:00:00,210,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-04-12 10:30:00,2019-04-12 13:16:00,166,Portfolio Management Systems,Large,PGI ITSM
+Charles River Investment Management System,2019-05-02 07:01:00,2019-05-03 06:38:00,1417,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-05-03 06:59:00,2019-05-03 08:11:00,72,Portfolio Management Systems,Large,PGI ITSM
+Charles River Investment Management System,2019-05-20 18:00:00,2019-05-20 20:06:00,126,Portfolio Management Systems,Widespread,PGI Gen Account Finance
+Charles River Investment Management System,2019-05-23 23:00:00,2019-05-24 01:00:00,120,Portfolio Management Systems,Large,PGI ITSM
+Charles River Investment Management System,2019-06-04 08:08:00,2019-06-04 23:00:00,892,Portfolio Management Systems,Large,PGI Gen Account Finance
+Charles River Investment Management System,2019-06-07 07:00:00,2019-06-07 08:15:00,75,Portfolio Management Systems,Widespread,IT Incident Managers
+Charles River Investment Management System,2019-06-14 04:12:00,2019-06-14 09:15:00,303,Portfolio Management Systems,Widespread,IT Incident Managers
+Charles River Investment Management System,2019-06-17 05:45:00,2019-06-17 07:08:00,83,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-06-17 07:11:00,2019-06-17 09:15:00,124,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-06-26 08:20:00,2019-06-26 09:30:00,70,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-07-09 06:10:00,2019-07-09 07:38:00,88,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-07-11 23:00:00,2019-07-12 02:03:00,183,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-07-23 19:35:00,2019-07-24 01:50:00,375,Portfolio Management Systems,Widespread,IT Incident Managers
+Charles River Investment Management System,2019-07-31 23:00:00,2019-08-01 03:01:00,241,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-08-01 23:00:00,2019-08-02 23:23:00,1463,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-08-06 09:37:00,2019-08-06 10:13:00,36,Trade Settlement Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-08-06 09:37:53,2019-08-06 10:13:00,35,Portfolio Management Systems,Large,IS Network Data
+Charles River Investment Management System,2019-08-07 23:00:00,2019-08-08 01:10:00,130,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-08-15 23:00:00,2019-08-16 00:23:00,83,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-08-25 16:00:00,2019-08-25 17:17:00,77,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-08-26 04:30:00,2019-08-26 07:30:00,180,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-08-28 06:30:00,2019-08-28 09:17:00,167,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-08-28 06:30:00,2019-08-28 09:17:00,167,Trade Settlement Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-09-05 16:00:00,2019-09-06 00:25:00,505,Portfolio Management Systems,Large,PGI ITSM
+Charles River Investment Management System,2019-09-06 05:30:00,2019-09-06 07:26:00,116,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-09-09 06:30:00,2019-09-09 07:13:00,43,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-09-11 03:00:00,2019-09-12 00:30:00,1290,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-09-11 23:00:00,2019-09-12 00:34:00,94,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-09-17 06:28:00,2019-09-17 08:44:00,136,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-09-23 03:58:00,2019-09-23 10:15:00,377,Portfolio Management Systems,Large,PGI ITSM
+Charles River Investment Management System,2019-10-01 07:00:00,2019-10-01 22:12:00,912,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-10-01 23:00:00,2019-10-02 00:19:00,79,Portfolio Management Systems,Large,PGI IT Trading
+Charles River Investment Management System,2019-10-03 05:30:00,2019-10-03 08:10:00,160,Portfolio Management Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-10-08 05:30:00,2019-10-08 19:43:00,853,Portfolio Management Systems,Large,PGI IT Trading
+Charles River Investment Management System,2019-10-14 05:23:00,2019-10-14 09:47:00,264,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-10-16 09:00:00,2019-10-16 11:41:00,161,Trade Settlement Systems,Widespread,PGI ITSM
+Charles River Investment Management System,2019-10-21 06:30:00,2019-10-21 08:52:00,142,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-10-21 09:20:00,2019-10-21 10:10:00,50,Trade Settlement Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-10-31 23:00:00,2019-11-01 01:10:00,130,Portfolio Management Systems,Widespread,PGI IT Trading
+Charles River Investment Management System,2019-11-03 22:30:00,2019-11-04 22:35:00,1445,Portfolio Management Systems,Large,PGI ITSM
+Charles River Investment Management System,2019-11-26 05:00:00,2019-11-26 07:07:00,127,Portfolio Management Systems,Large,PGI IT Trading
+Charles River Investment Management System,2019-12-10 06:30:00,2019-12-10 10:27:00,237,Portfolio Management Systems,Widespread,PGI ITSM
+Cherwell,2018-04-13 13:20:00,2018-04-13 14:15:00,55,IT Service Management,Widespread,IS Portfolio and Software Support
+Cherwell,2018-08-08 14:20:00,2018-08-08 16:20:00,120,Automated Solution,Large,IS ITSM and ESM Support Team
+Cherwell,2019-03-09 02:00:00,2019-03-11 14:42:00,3642,IT Service Management,Widespread,IS ITSM Process Owners
+Cherwell,2019-05-24 02:17:00,2019-05-24 15:16:00,779,System Event Management,Widespread,IS Portfolio and Software Support
+Cisco Prime,2019-04-01 06:00:00,2019-04-01 13:30:00,450,Application Support,Widespread,IS Network Data
+Citrix XenDesktop,2019-04-06 20:00:00,2019-04-09 09:35:00,3695,Virtual Desktops,Widespread,IS Workspace Communication and Collaboration
+Citrix XenDesktop,2019-04-29 15:15:22,2019-04-29 17:03:00,108,Virtual Desktops,Widespread,IS Workspace Communication and Collaboration
+Citrix XenDesktop,2019-05-28 08:56:00,2019-05-28 10:47:00,111,Data Connectivity,Widespread,IS Network Data
+Citrix XenDesktop,2019-06-05 10:00:00,2019-06-05 16:00:00,360,Virtual Desktops,Widespread,IS Workspace Endpoint
+Citrix XenDesktop,2019-09-12 16:30:00,2019-09-13 18:00:00,1530,Application Support,Widespread,IS Workspace Endpoint
+Citrix XenDesktop,2019-10-01 08:00:00,2019-10-01 19:00:00,660,VM,Large,PGI ITSM
+Citrix XenDesktop,2019-10-17 03:56:00,2019-10-17 07:42:00,226,Host,Widespread,PGS Server Support
+Citrix XenDesktop,2019-10-27 21:13:00,2019-10-28 03:15:00,362,Virtual Desktops,Large,IS Workspace Communication and Collaboration
+Client Correspondence,2019-05-03 09:45:00,2019-05-03 09:52:00,7,Application Support,Widespread,IT Incident Managers
+Client Hub UI (CIC),2019-04-01 07:00:00,2019-04-01 15:00:00,480,Accounting Systems,Widespread,PGI Investment Operations
+Client Hub UI (CIC),2019-07-29 06:00:00,2019-07-30 06:00:00,1440,Distributions systems,Widespread,PGI ITSM
+Code-1 Plus,2019-02-15 00:31:00,2019-02-15 10:11:00,580,Mainframe Transaction Processing,Widespread,IS MF App Hosting and Dist MQ
+COMPASS Admin,2018-12-29 04:36:00,2018-12-29 12:15:00,459,Application Support,Widespread,IT Incident Managers
+COMPASS Admin Compass Billing,2018-12-22 00:00:00,2018-12-26 11:00:00,6420,Application Support,Large,IT Incident Managers
+COMPASS Admin Compass Billing,2019-01-08 16:01:00,2019-01-10 16:01:00,2880,Application Support,Widespread,IT Incident Managers
+COMPASS Admin eFile,2018-08-28 13:00:00,2018-08-28 14:45:00,105,Application Support,Large,Availability Management Team
+COMPASS eFile,2018-11-14 00:00:00,2018-11-14 04:00:00,240,Application Support,Large,IT Incident Managers
+Compensation Reporting and Statements,2019-05-01 06:00:00,2019-05-02 07:47:00,1547,Application Support,Widespread,IT Incident Managers
+Compensation Reporting and Statements,2019-06-16 06:00:00,2019-06-18 06:00:00,2880,Application Support,Widespread,IT Incident Managers
+Compensation Reporting and Statements,2019-06-24 16:25:00,2019-06-25 07:00:00,875,Application Support,Widespread,IT Incident Managers
+Compensation Reporting and Statements,2019-07-09 09:00:00,2019-07-09 09:45:00,45,Application Support,Widespread,IT Incident Managers
+Compensation Reporting and Statements,2019-07-10 09:00:00,2019-07-10 10:57:00,117,Application Support,Widespread,IT Incident Managers
+Compensation Reporting and Statements,2019-09-16 09:35:00,2019-09-16 12:32:00,177,Application Support,Widespread,IS Balancing and Scheduling
+Compensation Statements UI,2019-03-23 02:00:00,2019-03-28 10:45:00,7725,Application Support,Widespread,IT Incident Managers
+Consolidated View,2019-07-27 02:47:00,2019-07-27 07:53:00,306,Web,Widespread,IT Incident Managers
+Consolidated View,2019-10-01 14:34:02,2019-10-01 22:04:00,450,Web,Widespread,IT Incident Managers
+Consolidated View,2019-10-21 11:26:03,2019-10-21 14:00:00,154,Web,Large,Enterprise Data  and Applications
+Content Manager Batch Services,2019-08-15 21:08:00,2019-08-15 21:19:19,11,Content Management,Widespread,IS APS – CMB
+Continuum,2019-08-05 13:31:00,2019-08-05 14:57:00,86,Global Security & Business Continuity,Large,CSS Global Security IT
+Continuum,2019-08-07 11:23:00,2019-08-07 14:48:00,205,Global Security & Business Continuity,Widespread,CSS Global Security IT
+Continuum,2019-09-18 21:17:00,2019-09-19 00:07:00,170,Data Connectivity,Large,CSS Global Security IT
+Continuum,2019-11-02 16:49:00,2019-11-02 18:47:00,118,Data Connectivity,Large,CSS Global Security IT
+Contributions Loans Web App,2018-05-01 12:27:00,2018-05-01 12:31:00,4,SponsorSite,Widespread,RIS PSTPA
+Contributions Loans Web App,2018-06-17 23:14:00,2018-06-17 23:22:00,8,SponsorSite,Widespread,RIS PSTPA
+Contributions Loans Web App,2018-06-21 21:57:00,2019-03-05 15:26:36,99999,SponsorSite,Widespread,IS Service Desk
+Contributions Loans Web App,2018-06-30 05:22:00,2018-06-30 05:34:00,12,SponsorSite,Widespread,RIS PSTPA
+Contributions Loans Web App,2018-06-30 06:23:00,2018-06-30 06:24:00,1,SponsorSite,Widespread,RIS PSTPA
+Contributions Loans Web App,2018-06-30 07:00:00,2019-03-05 15:28:00,99999,SponsorSite,Widespread,IS Service Desk
+Contributions Loans Web App,2018-06-30 08:01:00,2018-06-30 08:05:00,4,SponsorSite,Widespread,RIS PSTPA
+Contributions Loans Web App,2018-06-30 09:00:00,2018-06-30 09:06:00,6,SponsorSite,Widespread,RIS PSTPA
+CUPRUM Public Site,2019-09-02 09:54:00,2019-09-02 12:17:00,143,Windows,Widespread,IS APS - CMB
+Data Warehouse,2019-02-13 02:00:00,2019-02-13 16:00:00,840,Enterprise Shared Data Systems,Widespread,PGI Securities Front Office
+Data Warehouse,2019-03-11 17:00:00,2019-03-12 10:49:00,1069,Enterprise Shared Data Systems,Large,PGI ITSM
+Data Warehouse,2019-04-01 07:00:00,2019-04-01 15:00:00,480,Enterprise Shared Data Systems,Large,PGI ITSM
+Data Warehouse,2019-04-02 08:59:13,2019-04-02 15:45:00,406,Enterprise Shared Data Systems,Large,PGI ITSM
+Data Warehouse,2019-04-02 10:00:00,2019-04-02 15:45:00,345,Reporting Systems,Large,PGI Investment Operations
+Data Warehouse,2019-04-04 10:00:00,2019-04-04 13:25:00,205,Reporting Systems,Widespread,IT Incident Managers
+Data Warehouse,2019-06-04 07:00:00,2019-06-04 12:19:00,319,Enterprise Shared Data Systems,Large,PGI Developer Support
+Data Warehouse,2019-06-17 05:45:00,2019-06-17 07:17:00,92,Enterprise Shared Data Systems,Widespread,PGI ITSM
+Data Warehouse,2019-06-25 10:25:00,2019-06-25 12:18:00,113,Enterprise Shared Data Systems,Widespread,PGI IT Enterprise Data
+Data Warehouse,2019-07-28 10:18:00,2019-07-29 04:30:00,1092,Enterprise Shared Data Systems,Widespread,PGI ITSM
+Data Warehouse,2019-10-16 00:00:00,2019-10-16 11:41:00,701,Enterprise Shared Data Systems,Widespread,PGI IT Enterprise Data
+Data Warehouse,2019-10-23 09:35:00,2019-10-23 10:56:00,81,Enterprise Shared Data Systems,Large,PGI IT Enterprise Data
+Data Warehouse,2019-11-01 06:36:00,2019-11-01 09:41:00,185,Enterprise Shared Data Systems,Large,PGI IT Enterprise Data
+Data Warehouse,2019-11-12 12:27:55,2019-11-12 15:52:00,204,Enterprise Shared Data Systems,Widespread,PGI IT Enterprise Data
+Data Warehouse,2019-12-04 05:00:00,2019-12-04 10:14:00,314,Enterprise Shared Data Systems,Large,PGI ITSM
+Database Change Request,2019-03-15 12:34:00,2019-03-15 14:34:00,120,Database Change Systems,Widespread,PGI Investment Operations
+Database Change Request,2019-05-20 09:30:00,2019-05-20 12:40:00,190,Database Change Systems,Widespread,PGI ITSM
+delinquency-letter-handler,2019-08-04 20:15:00,2019-08-05 09:30:00,795,Application Support,Widespread,IT Incident Managers
+Dental PPO System,2019-11-26 06:30:00,2019-11-26 16:59:00,629,Application Support,Large,USIS Group Benefits
+DIA Service,2019-05-24 08:50:00,2019-05-24 13:01:00,251,Internet Connectivity,Large,IS IOC
+DIA Service,2019-07-03 15:48:31,2019-07-03 16:40:00,51,Browser & OS,Widespread,IS Network Data
+Distributed Batch,2019-06-30 18:04:00,2019-06-30 22:19:00,255,Java Batch,Widespread,IS APS - Application Hosting
+Distributed MQ,2019-08-28 06:10:00,2019-08-28 06:23:15,13,Mainframe Transaction Processing,Widespread,IS MF App Hosting and Dist MQ
+Distribution Partner Qualification,2019-01-25 12:00:00,2019-01-25 14:40:00,160,Application Support,Large,IT Incident Managers
+Distribution Partner Service,2019-04-21 06:00:00,2019-04-22 05:43:00,1423,Application Support,Widespread,IT Incident Managers
+Document Delivery Aggregator Service,2019-10-01 14:31:06,2019-10-01 22:00:00,449,Deliver Document,Widespread,CSS Ent Docs IT
+Document Order Service,2019-07-11 10:36:27,1900-01-01 00:00:00,0,Generic,Widespread,IT Incident Managers
+"DST Applications (TA2000/AWD/SDCM(same day cash), Encore)",2018-09-04 09:35:16,2018-09-04 09:40:00,5,Funds Accounting Systems,Widespread,PGI IT Support Services
+"DST Applications (TA2000/AWD/SDCM(same day cash), Encore, InfoDisc)",2019-02-20 08:30:00,2019-02-20 08:54:00,24,Portfolio Management Systems,Large,PGI ITSM
+DST Vision,2019-08-05 14:23:00,2019-08-05 17:00:00,157,Funds Accounting Systems,Large,PGI Global Platform
+DTCC Commission Data Feed - Annuities,2018-11-07 09:00:00,2018-11-07 18:00:00,540,Application Support,Large,IT Incident Managers
+DTCC Commission Data Feed - Annuities,2018-12-14 02:00:00,2018-12-18 02:00:00,5760,Application Support,Widespread,IT Incident Managers
+DTCC Commission Data Feed - Annuities,2019-01-03 15:16:00,2019-01-07 12:00:00,5564,Application Support,Large,IT Incident Managers
+DTCC Commission Data Feed - Individual DSO,2019-04-05 04:17:00,2019-04-09 07:00:00,5923,Application Support,Widespread,IT Incident Managers
+DTCC Commission Data Feed - PCS,2018-09-04 07:00:00,2018-09-04 15:45:00,525,Application Support,Large,Availability Management Team
+DTCC Commission Data Feed - PPN,2018-10-10 08:25:00,2018-10-10 08:29:00,4,Application Support,Large,IT Incident Managers
+DTCC Commission Data Feed - PPN,2018-12-05 00:00:00,2018-12-31 11:30:00,38130,Application Support,Large,IT Incident Managers
+DTCC In-Force Transactions Data Feed,2018-07-06 08:00:00,2018-07-06 12:25:00,265,Application Support,Large,Availability Management Team
+DTCC Settlement and Reporting System,2019-07-02 07:00:00,2019-07-02 13:00:00,360,Application Support,Widespread,IT Incident Managers
+DTCC Settlement and Reporting System,2019-09-18 09:53:51,2019-09-18 14:41:00,287,Application Support,Widespread,IT Incident Managers
+DVCN - SkyGen Enterprise System,2019-04-11 12:45:00,2019-04-11 13:45:00,60,Application Support,Widespread,IT Incident Managers
+DVCN - SkyGen Enterprise System,2019-04-11 12:45:00,2019-04-11 19:00:00,375,Application Support,Large,IT Incident Managers
+DVCN Claim Fair Health,2018-07-25 12:30:00,2018-07-25 14:10:00,100,Application Support,Large,Availability Management Team
+DVCN Claim Fair Health,2018-08-06 13:09:00,2018-08-06 22:30:00,561,Application Support,Large,Availability Management Team
+DVCN Claims Admin,2019-01-28 15:00:00,2019-01-28 15:15:00,15,Application Support,Widespread,IT Incident Managers
+DVCN Claims Input,2018-07-03 11:10:00,2018-07-03 11:50:00,40,Application Support,Large,Availability Management Team
+Dynatrace Application Performance Monitoring,2019-10-08 02:30:00,2019-10-08 07:55:00,325,Application Performance Monitoring,Widespread,IS APS - CMB
+eAdmin - Compare UI,2019-07-06 09:01:00,2019-07-06 12:19:00,198,Application Support,Widespread,IT Incident Managers
+Eagle Accounting,2019-03-11 15:00:00,2019-03-12 07:12:00,972,Portfolio Accounting Systems,Widespread,PGI ITSM
+Eagle Accounting,2019-03-15 14:38:00,2019-03-15 18:30:00,232,Portfolio Accounting Systems,Widespread,PGI ITSM
+Eagle Accounting,2019-03-27 18:30:00,2019-03-27 20:30:00,120,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-03-27 22:30:00,2019-03-28 01:46:00,196,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-04-02 10:00:00,2019-04-03 23:00:00,2220,Portfolio Accounting Systems,Large,PGI Investment Operations
+Eagle Accounting,2019-04-02 10:08:24,2019-04-03 13:00:00,1612,Portfolio Accounting Systems,Widespread,PGI ITSM
+Eagle Accounting,2019-04-12 10:17:00,2019-04-12 13:15:00,178,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-04-22 08:30:00,2019-04-22 09:15:00,45,Portfolio Accounting Systems,Widespread,PGI ITSM
+Eagle Accounting,2019-04-30 16:00:00,2019-04-30 17:07:00,67,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-05-01 21:30:00,2019-05-02 00:30:00,180,Portfolio Accounting Systems,Large,PGI Investment Operations
+Eagle Accounting,2019-05-01 21:30:00,2019-05-02 00:30:00,180,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-05-02 20:51:00,2019-05-02 22:30:00,99,Portfolio Accounting Systems,Widespread,PGI ITSM
+Eagle Accounting,2019-05-02 21:09:00,2019-05-02 22:34:00,85,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-05-14 14:00:00,2019-05-14 16:09:00,129,Portfolio Accounting Systems,Large,IT Incident Managers
+Eagle Accounting,2019-05-15 19:30:00,2019-05-15 22:38:00,188,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-05-17 04:30:00,2019-05-17 05:00:00,30,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-05-17 19:30:00,2019-05-17 20:21:00,51,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-05-20 17:00:00,2019-05-20 17:15:00,15,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-05-21 22:30:00,2019-05-21 22:39:00,9,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-05-22 09:19:39,2019-05-22 10:35:00,75,Portfolio Accounting Systems,Large,PGI Investment Operations
+Eagle Accounting,2019-05-23 20:06:00,2019-05-23 22:36:00,150,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-05-30 17:00:00,2019-05-30 17:37:00,37,Trade Compliance Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-06-03 19:30:00,2019-06-03 20:36:00,66,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-06-03 22:30:00,2019-06-04 11:32:00,782,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-06-05 14:30:00,2019-06-05 15:15:00,45,Portfolio Accounting Systems,Widespread,PGI ITSM
+Eagle Accounting,2019-06-07 21:45:00,2019-06-07 23:05:00,80,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-06-07 23:05:00,2019-06-08 00:19:00,74,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+Eagle Accounting,2019-06-10 19:57:00,2019-06-10 20:27:00,30,Portfolio Accounting Systems,Widespread,PGI IT Accounting and Recon
+Eagle Accounting,2019-06-21 21:46:12,2019-06-21 22:45:00,59,Portfolio Accounting Systems,Large,PGI IT Accounting and Recon
+Eagle Accounting,2019-06-24 22:30:00,2019-06-25 11:20:00,770,Portfolio Accounting Systems,Widespread,PGI ITSM
+Eagle Accounting,2019-06-26 21:00:00,2019-06-26 22:20:00,80,Portfolio Accounting Systems,Large,PGI IT Accounting and Recon
+Eagle Accounting,2019-06-26 22:49:03,2019-06-27 01:15:00,146,Portfolio Accounting Systems,Large,PGI IT Accounting and Recon
+Eagle Accounting,2019-06-28 22:45:57,2019-06-29 00:44:00,118,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-07-02 21:00:00,2019-07-03 00:15:00,195,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-07-03 16:22:00,2019-07-03 16:50:00,28,Portfolio Accounting Systems,Large,PGI IT Accounting and Recon
+Eagle Accounting,2019-07-03 19:16:00,2019-07-04 14:00:00,1124,Portfolio Accounting Systems,Large,PGI IT Accounting and Recon
+Eagle Accounting,2019-07-08 22:30:00,2019-07-09 00:22:00,112,Portfolio Accounting Systems,Large,PGI IT Accounting and Recon
+Eagle Accounting,2019-07-13 15:00:00,2019-07-15 10:00:00,2580,Portfolio Accounting Systems,Widespread,PGI IT Accounting and Recon
+Eagle Accounting,2019-07-14 15:00:00,2019-07-15 10:00:00,1140,Portfolio Accounting Systems,Widespread,PGI IT Accounting and Recon
+Eagle Accounting,2019-07-15 21:47:00,2019-07-16 00:47:00,180,Portfolio Accounting Systems,Widespread,PGI ITSM
+Eagle Accounting,2019-07-18 04:04:00,2019-07-19 16:31:00,2187,Portfolio Accounting Systems,Widespread,PGI IT Accounting and Recon
+Eagle Accounting,2019-07-23 19:00:00,2019-07-24 23:30:00,1710,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-07-30 22:30:00,2019-07-31 02:37:00,247,Portfolio Accounting Systems,Large,PGI IT Accounting and Recon
+Eagle Accounting,2019-08-01 20:25:00,2019-08-01 23:23:00,178,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-08-05 13:45:00,2019-08-05 14:53:00,68,Portfolio Accounting Systems,Widespread,PGI ITSM
+Eagle Accounting,2019-08-06 10:00:00,2019-08-06 11:30:00,90,Portfolio Accounting Systems,Large,PGI IT Accounting and Recon
+Eagle Accounting,2019-08-07 21:22:00,2019-08-08 01:10:00,228,Portfolio Accounting Systems,Widespread,PGI ITSM
+Eagle Accounting,2019-08-08 21:00:00,2019-08-08 21:22:00,22,Portfolio Accounting Systems,Widespread,PGI IT Accounting and Recon
+Eagle Accounting,2019-08-15 21:00:00,2019-08-16 00:30:00,210,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-08-28 06:15:00,2019-08-30 09:30:00,3075,Portfolio Accounting Systems,Widespread,PGI IT Accounting and Recon
+Eagle Accounting,2019-09-11 03:00:00,2019-09-12 00:30:00,1290,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-09-11 20:30:00,2019-09-12 00:34:00,244,Portfolio Accounting Systems,Widespread,PGI IT Accounting and Recon
+Eagle Accounting,2019-09-19 22:06:00,2019-09-19 23:40:00,94,Portfolio Accounting Systems,Large,PGI ITSM
+Eagle Accounting,2019-10-01 20:55:00,2019-10-02 00:01:00,186,Portfolio Accounting Systems,Widespread,PGI IT Accounting and Recon
+Eagle Accounting,2019-11-03 15:30:00,2019-11-04 22:35:00,1865,Portfolio Accounting Systems,Widespread,IT Incident Managers
+eApplication,2018-10-08 10:46:00,2018-10-08 14:50:00,244,Application Support,Large,IT Incident Managers
+eCounsel,2019-04-01 10:10:53,2019-04-01 14:30:00,259,Generic,Widespread,CSS LGR
+eCounsel,2019-04-01 10:49:21,2019-04-01 17:11:00,382,Generic,Widespread,IT Incident Managers
+E-Delivery Service (EDF),2019-04-01 17:59:00,2019-04-01 18:03:00,4,Generic,Widespread,IT Incident Managers
+EFT Batch (GB),2019-08-05 08:28:00,2019-08-06 11:56:00,1648,Application Support,Widespread,USIS Group Benefits
+EFT Handler (GB),2019-11-29 04:41:00,2019-11-30 23:59:00,2598,Application Support,Large,IT Incident Managers
+EFT UI (Admin Web) (GB),2018-11-08 06:15:00,2018-11-08 13:15:00,420,Application Support,Large,IT Incident Managers
+Electra Recon,2019-05-29 01:00:00,2019-05-29 08:00:00,420,Reconciliation Systems,Widespread,PGI Investment Operations
+Electra Recon,2019-05-30 03:00:00,2019-05-30 07:00:00,240,Reconciliation Systems,Large,IT Incident Managers
+Electra Stars Reconciliation,2019-03-31 22:08:00,2019-04-01 10:00:00,712,Reconciliation Systems,Widespread,PGI ITSM
+Electronic Application System,2019-09-30 15:30:00,2019-10-08 16:13:00,11563,Application Support,Widespread,IT Incident Managers
+Electronic Document Capture MDB,2018-09-15 11:30:00,2018-09-15 11:04:00,26,Application Support,Large,IT Incident Managers
+Employer Services,2019-12-12 11:40:00,2019-12-12 12:34:00,54,Application Support,Widespread,USIS Group Benefits
+Employer Services,2019-12-27 05:11:00,2019-12-27 13:38:00,507,Application Support,Widespread,IT Incident Managers
+Employer Web,2018-03-24 08:33:00,2018-03-28 14:30:00,6117,Application Support,Widespread,Availability Management Team
+Employer Web (new),2019-01-12 10:48:00,2019-01-12 11:58:00,70,Application Support,Large,IT Incident Managers
+Employer Web (new),2019-01-31 14:29:00,2019-01-31 18:17:00,228,Application Support,Widespread,IT Incident Managers
+Employer Web (new),2019-06-11 14:07:48,2019-06-11 14:13:00,5,Application Support,Widespread,IT Incident Managers
+Employer Web (new),2019-11-11 15:09:09,2019-11-11 17:28:00,139,Application Support,Widespread,USIS IND Life Ops IT
+Employer Web System,2019-11-25 02:00:00,2019-11-25 08:44:00,404,Application Support,Large,USIS Group Benefits
+Employer Web System,2019-12-05 07:26:26,2019-12-05 07:05:00,21,Application Support,Widespread,IT Incident Managers
+Enrollment Materials,2019-07-11 16:04:35,2019-07-13 07:00:00,2335,Application Support,Large,USIS Group Benefits
+Enterprise Manager,2019-04-01 04:35:00,2019-04-01 04:55:00,20,Deliver Document,Widespread,CSS Ent Docs IT
+Enterprise Manager,2019-04-10 09:44:00,1900-01-01 00:00:00,0,Generic,Widespread,IT Incident Managers
+Enterprise MDM to Salesforce US CRM FP Integration,2019-03-01 07:00:00,2019-03-01 15:40:00,520,Data Connectivity,Widespread,IT Incident Managers
+Enterprise!,2019-11-01 02:00:00,2019-11-01 09:30:00,450,Debt Systems,Widespread,PGI ITSM
+Essbase,2019-06-04 08:00:00,2019-06-04 11:15:00,195,Accounting Management,Widespread,IT Incident Managers
+Essbase,2019-10-01 09:00:00,2019-10-01 21:00:00,720,Financial Management Reporting,Widespread,Enterprise Data  and Applications
+eStatements WebFOCUS App,2019-05-24 02:00:00,2019-05-25 13:00:00,2100,Business Intelligence,Widespread,IS Bus Intelligence
+eSubmission,2019-09-22 14:00:00,2019-09-24 09:45:00,2625,Application Support,Large,IT Incident Managers
+ETF Pricing load process,2018-12-28 07:26:00,2018-12-28 10:30:00,184,Funds Research & Analysis Systems,Widespread,PGI IT Support Services
+E-Worksheet,2018-02-14 13:34:00,2018-02-14 13:55:00,21,Application Support,Widespread,USIS DTS
+E-Worksheet,2018-02-14 13:35:00,2018-02-14 13:50:00,15,Application Support,Widespread,USIS DTS
+E-Worksheet,2018-02-14 13:41:00,2018-02-14 13:50:00,9,Application Support,Widespread,USIS DTS
+E-Worksheet,2018-03-16 09:25:00,2018-03-16 09:26:00,1,Application Support,Widespread,USIS DTS
+E-Worksheet,2018-03-25 10:12:00,2018-03-25 10:13:00,1,Application Support,Widespread,USIS DTS
+E-Worksheet,2018-09-21 05:20:00,2018-09-21 06:15:43,56,Application Support,Widespread,Availability Management Team
+E-Worksheet,2019-07-15 08:51:17,2019-07-15 09:18:00,27,Application Support,Widespread,IT Incident Managers
+E-Worksheet,2019-08-19 10:38:00,2019-08-19 11:31:00,53,Application Support,Widespread,USIS Group Benefits
+E-Worksheet,2019-08-19 11:32:00,2019-08-19 12:10:00,38,Application Support,Widespread,USIS Group Benefits
+E-Worksheet,2019-10-07 02:20:00,2019-10-16 08:01:37,13302,Application Support,Widespread,USIS DTS
+Exchange Des Moines Public Folders,2019-10-01 08:00:00,2019-10-01 19:30:00,690,Collaboration Tools,Widespread,PGI ITSM
+Exp AG - MKS Deployment,2018-06-26 08:30:00,2018-06-26 11:13:00,163,Application Support,Large,Availability Management Team
+FactSet,2019-01-24 07:52:00,2019-01-24 11:19:00,207,Analytics and Risk Systems,Widespread,PGI ITSM
+FactSet,2019-02-13 09:30:00,2019-02-13 11:59:00,149,Research Systems,Widespread,PGI Securities Front Office
+FDH - New Dental Choice Member Portal,2019-07-22 08:55:04,2019-07-22 11:35:00,160,Application Support,Widespread,IT Incident Managers
+FDM (Financial Data Quality Management),2019-06-17 06:00:00,2019-06-29 08:00:00,17400,Generic,Widespread,CSS Finance IT
+Fee Data,2019-04-02 09:00:00,2019-04-03 17:00:00,1920,Accounting Systems,Large,PGI ITSM
+Fee Data,2019-07-02 08:10:00,2019-07-02 09:40:00,90,Accounting Systems,Large,PGI ITSM
+Fee Data,2019-10-16 09:00:00,2019-10-16 13:30:00,270,Accounting Systems,Widespread,PGI ITSM
+File Services - Remote Servers (Non-IND),2019-06-04 10:10:36,2019-06-04 10:41:00,30,Network Drives,Widespread,IS Server Intel
+"File Services (U:, S:, M:) - Des Moines",2019-08-05 12:15:00,2019-08-05 14:57:00,162,Infrastructure,Widespread,PGI ITSM
+Financial Professional Credential Services,2018-08-06 09:20:00,2018-08-06 09:40:00,20,Application Support,Large,Availability Management Team
+Fineos 4.2,2019-04-07 00:00:00,2019-04-30 00:00:00,33120,Application Support,Widespread,IT Incident Managers
+Fineos 4.2,2019-08-08 06:40:00,2019-08-08 07:27:00,47,Application Support,Widespread,IT Incident Managers
+Fineos 4.2,2019-08-28 07:00:00,2019-08-28 08:29:00,89,Application Support,Widespread,IT Incident Managers
+Fineos 4.2,2019-11-08 06:00:00,2019-11-08 07:30:00,90,Application Support,Widespread,IT Incident Managers
+Fineos 5.4,2018-09-17 14:40:00,2018-09-17 17:40:00,180,Application Support,Large,Availability Management Team
+Fineos 5.4,2018-09-24 15:30:00,2018-09-24 16:45:00,75,Application Support,Large,IT Incident Managers
+Fineos 5.4,2018-10-15 14:31:00,2018-10-16 13:10:00,1359,Application Support,Widespread,IT Incident Managers
+Fineos 5.4,2018-10-16 09:34:00,2018-10-16 10:34:00,60,Application Support,Large,IT Incident Managers
+Fineos 5.4,2018-10-18 18:23:00,2018-10-18 18:41:00,18,Application Support,Large,IT Incident Managers
+Fineos 5.4,2019-07-09 06:06:00,2019-07-09 08:55:00,169,Application Support,Widespread,IT Incident Managers
+Fineos 5.4,2019-08-28 06:30:00,2019-08-28 08:30:00,120,Application Support,Widespread,IT Incident Managers
+FINEOS Claims Management System,2018-12-16 14:03:00,2018-12-16 18:30:00,267,Application Support,Widespread,IT Incident Managers
+FINEOS Claims Management System,2019-08-12 20:24:00,2019-08-13 08:54:00,750,Application Support,Widespread,IT Incident Managers
+FINEOS Claims Management System,2019-10-08 14:44:00,2019-10-08 15:24:00,40,Application Support,Widespread,IT Incident Managers
+FINEOS Claims Management System v8.x,2018-09-05 23:30:00,2018-09-06 07:40:00,490,Application Support,Large,Availability Management Team
+FinScan,2019-04-01 13:00:50,2019-04-01 17:16:00,255,Generic,Widespread,IT Incident Managers
+Firm Contact Application,2019-10-18 08:45:00,2019-10-18 12:18:00,213,Business Acquistion,Large,IT Incident Managers
+FIS Apex Collateral Management,2018-12-19 06:40:00,2018-12-19 10:20:00,220,Trade Settlement Systems,Large,PGI Investment Operations
+FIS Apex Collateral Management,2019-01-04 06:22:00,2019-01-04 09:12:00,170,Trade Settlement Systems,Large,PGI ITSM
+FIS Apex Collateral Management,2019-06-03 08:30:00,2019-06-03 11:16:00,166,Trade Settlement Systems,Large,PGI Investment Operations
+FIS Apex Collateral Management,2019-11-14 06:21:00,2019-11-14 11:58:00,337,Trade Settlement Systems,Widespread,PGI IT Accounting and Recon
+FSA Account Search Web App,2019-04-05 13:15:00,2019-04-05 14:05:00,50,Generic,Widespread,IT Incident Managers
+FSA Account Search Web App,2019-07-09 06:06:00,2019-07-09 07:45:00,99,Recordkeeping Systems,Widespread,RIS Shared Services
+FSA Account Search Web App,2019-08-07 05:00:00,2019-08-07 08:45:00,225,Recordkeeping Systems,Widespread,RIS Shared Services
+FSA Account Search Web App,2019-08-30 12:16:00,2019-08-30 12:38:00,22,Generic,Widespread,RIS Shared Services
+FSA Account Search Web App,2019-10-30 10:29:17,2019-10-30 10:12:00,17,Recordkeeping Systems,Widespread,RIS Shared Services
+FTP File Gateway,2019-10-02 16:45:00,2019-10-03 13:40:00,1255,Managed File Transfer,Widespread,IS APS - Integration
+Fulfillment,2019-02-26 06:55:00,2019-02-26 10:19:00,204,Application Support,Large,IT Incident Managers
+Fulfillment (System),2018-12-17 13:50:00,2018-12-17 16:06:00,136,Application Support,Widespread,IT Incident Managers
+Fulfillment (System),2019-04-02 08:48:00,2019-04-02 09:15:00,27,Application Support,Widespread,IT Incident Managers
+GB Service Console,2019-03-18 10:16:00,2019-03-18 13:48:00,212,Application Support,Large,IT Incident Managers
+Generic Accessory,2018-11-06 06:39:00,2018-11-06 08:05:00,86,Application Support,Widespread,IT Incident Managers
+Generic Accessory,2018-12-03 10:41:00,2018-12-03 12:18:00,97,Application Support,Widespread,IT Incident Managers
+Generic Application,2018-05-30 01:00:00,2018-06-01 17:00:00,3840,Application Support,Large,Availability Management Team
+Generic Application,2018-08-02 08:30:00,2018-08-02 09:45:00,75,Generic,Large,Availability Management Team
+Generic Application,2018-08-07 09:00:00,2018-08-09 15:45:00,3285,Application Support,Large,Availability Management Team
+Generic Application,2018-09-04 07:09:00,2018-09-04 08:45:00,96,Application Support,Widespread,IT Incident Managers
+Generic Application,2018-09-05 12:20:00,2018-09-05 14:35:00,135,Generic,Large,Availability Management Team
+Generic Application,2018-09-12 09:40:00,2018-09-12 12:40:00,180,Generic,Large,IT Incident Managers
+Generic Application,2018-09-18 12:30:00,2018-09-18 14:10:00,100,Application Support,Large,IT Incident Managers
+Generic Application,2018-10-08 06:00:00,2018-10-08 11:52:00,352,Generic,Large,IT Incident Managers
+Generic Application,2018-10-29 07:30:00,2018-10-29 10:35:00,185,Application Support,Large,IT Incident Managers
+Generic Application,2018-11-06 06:39:00,2018-11-06 08:05:00,258,Application Support,Widespread,IT Incident Managers
+Generic Application,2018-11-06 06:45:00,2018-11-06 08:05:00,80,Application Support,Widespread,IT Incident Managers
+Generic Application,2018-12-10 14:44:00,2018-12-10 15:27:00,43,Generic,Widespread,IT Incident Managers
+Generic Application,2018-12-14 08:40:00,2018-12-14 14:04:00,1296,Application Support,Large,IT Incident Managers
+Generic Application,2018-12-14 08:40:00,2018-12-14 14:04:00,324,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-01-28 14:55:00,2019-01-28 15:48:00,53,Application Support,Large,IT Incident Managers
+Generic Application,2019-01-28 14:55:00,2019-01-28 15:48:00,106,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-02-02 06:23:00,2019-02-02 09:42:00,597,Application Support,Large,IT Incident Managers
+Generic Application,2019-02-02 08:01:00,2019-02-02 09:42:00,101,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-02-13 15:25:00,2019-02-13 16:11:00,46,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-02-21 08:16:00,2019-02-21 11:45:00,209,Application Support,Widespread,IS Workspace Communication and Collaboration
+Generic Application,2019-03-31 16:17:00,2019-04-01 21:52:00,1775,Global Security & Business Continuity,Large,CSS Global Security IT
+Generic Application,2019-04-01 07:41:15,2019-04-01 14:30:00,409,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-04-01 07:46:54,2019-04-01 14:30:00,403,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-04-01 07:53:10,2019-04-01 14:30:00,397,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-04-01 07:57:43,2019-04-01 14:30:00,392,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-04-05 15:28:20,2019-04-05 14:03:00,85,Generic,Widespread,IT Incident Managers
+Generic Application,2019-04-11 06:15:00,2019-04-11 09:00:00,165,Generic,Large,IT Incident Managers
+Generic Application,2019-04-11 06:30:00,2019-04-11 10:00:00,210,Generic,Large,IT Incident Managers
+Generic Application,2019-04-22 04:00:00,2019-04-23 11:01:00,1861,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-04-29 13:13:04,2019-04-29 17:30:00,257,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-06-14 11:31:00,2019-06-14 14:02:00,151,Application Support,Widespread,USIS Group Benefits
+Generic Application,2019-06-14 21:12:00,2019-06-14 23:27:00,135,API & Web Services,Widespread,IS ISR Access Mgmt
+Generic Application,2019-06-16 01:30:00,2019-06-18 15:37:00,3727,API & Web Services,Large,IS ISR Access Mgmt
+Generic Application,2019-07-02 06:04:00,2019-07-02 20:42:00,878,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-07-02 07:00:00,2019-07-02 11:00:00,240,Application Support,Large,IT Incident Managers
+Generic Application,2019-07-02 09:10:00,2019-07-02 11:18:00,128,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-07-03 15:35:00,2019-07-03 17:23:00,108,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-10-01 06:00:00,2019-10-01 09:34:00,214,Application Support,Large,IT Incident Managers
+Generic Application,2019-10-01 09:35:00,2019-10-01 22:35:00,780,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-10-01 10:45:25,2019-10-01 22:35:00,710,Application Support,Large,IT Incident Managers
+Generic Application,2019-10-01 10:49:27,2019-10-01 22:35:00,706,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-10-01 10:50:58,2019-10-01 22:35:00,704,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-10-01 11:50:07,2019-10-01 14:15:00,145,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-10-21 08:05:00,2019-10-21 13:17:00,936,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-10-21 12:05:00,2019-10-21 13:17:00,72,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-10-24 08:00:00,2019-10-24 09:27:00,87,Application Support,Large,IT Incident Managers
+Generic Application,2019-10-24 08:00:00,2019-10-24 09:27:00,261,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-10-24 08:05:00,2019-10-24 09:37:00,92,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-10-24 08:42:39,2019-10-24 09:27:00,44,Application Support,Large,IT Incident Managers
+Generic Application,2019-10-24 08:45:34,2019-10-24 09:27:00,41,Application Support,Large,IT Incident Managers
+Generic Application,2019-10-29 09:05:28,2019-10-29 13:30:00,265,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-10-30 13:50:00,2019-10-30 14:17:00,135,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-11-25 14:00:00,2019-11-25 14:35:00,140,Application Support,Widespread,IS IOC
+Generic Application,2019-12-09 15:22:54,2019-12-09 18:23:00,180,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-12-11 12:10:50,2019-12-12 14:07:00,1556,Application Support,Widespread,USIS Group Benefits
+Generic Application,2019-12-11 12:16:29,2019-12-12 14:07:00,1551,Application Support,Widespread,USIS Group Benefits
+Generic Application,2019-12-12 08:01:00,2019-12-12 08:11:00,10,Application Support,Widespread,IT Incident Managers
+Generic Application,2019-12-17 12:14:00,2019-12-17 17:26:00,312,Application Support,Widespread,IS IOC
+Generic Configuration Item,2018-04-06 21:15:00,2018-04-06 22:01:00,46,Authentication & Authorization,Widespread,IS ISR Access Mgmt
+Generic Configuration Item,2018-04-27 21:08:37,2018-04-27 21:52:00,43,Authentication & Authorization,Widespread,IS ISR Access Mgmt
+Generic Configuration Item,2018-05-23 08:00:00,2018-05-23 17:00:00,540,Authentication & Authorization,Widespread,IS ISR Access Mgmt
+Generic Configuration Item,2018-06-18 11:04:00,2018-06-18 12:04:00,60,Mainframe Database,Widespread,IS MF DB2 Subsystem
+Generic Configuration Item,2018-08-02 08:42:00,2018-08-02 09:41:00,59,Windows,Widespread,IS Dist App Hosting Adv
+Generic Configuration Item,2018-09-15 10:47:00,2018-09-15 20:50:00,603,MQ,Large,IS MF App Hosting and Dist MQ
+Generic Configuration Item,2019-01-28 14:40:00,2019-01-28 15:45:00,65,Authentication & Authorization,Large,IS ISR Access Mgmt
+Generic Database Instance - DB2,2018-03-05 09:37:00,2018-03-05 09:49:00,12,Mainframe Database,Large,IS MF DB2 Subsystem
+Generic Database Instance - DB2,2018-06-22 21:29:00,2018-06-22 22:43:00,74,Mainframe Database,Widespread,IS DB2 Helpline and Tools Support
+Generic Database Instance - Other,2018-10-24 16:44:56,2018-10-24 17:00:00,15,Mainframe Database,Widespread,IS DB2 Helpline and Tools Support
+Generic Database Instance - SQL Server,2019-11-20 11:38:00,2019-11-20 15:00:00,202,Database Change Systems,Large,PGI ITSM
+Generic DWDM,2019-06-14 11:31:00,2019-06-15 13:10:00,1539,Data Connectivity,Widespread,IS Network Data
+Generic Endpoint Device - Desk Phone,2018-04-30 00:00:00,2018-05-02 08:00:00,3360,Voice Connectivity,Widespread,IS Workspace Communication and Collaboration
+Generic Endpoint Device - Desk Phone,2018-05-09 14:30:00,2018-05-09 16:00:00,90,Desk Phones,Widespread,IS Network Voice
+Generic Endpoint Device - Desk Phone,2019-04-10 11:45:00,2019-04-10 12:00:00,15,Voice,Widespread,PGI ITSM
+Generic Host - ESX,2019-10-01 09:00:00,2019-10-01 20:00:00,660,Host,Widespread,IS Server Virtualization
+Generic Host - Windows,2018-05-24 13:55:12,2018-05-25 21:12:00,1877,Data Connectivity,Widespread,IS IOC
+Generic Host - Windows,2018-05-29 11:02:00,2018-05-29 17:30:00,388,Data Connectivity,Widespread,IS Network Data
+Generic MKS Application,2019-10-01 09:36:00,2019-10-01 22:35:00,779,Application Support,Widespread,IT Incident Managers
+Generic NAS Array,2018-04-30 08:00:00,2018-04-30 09:30:00,90,Distributed Storage,Widespread,IS Dist Storage
+Generic NAS Array,2018-05-07 10:13:00,2018-05-07 10:30:00,17,Distributed Storage,Widespread,IS Dist Storage
+Generic NAS Array,2018-05-16 09:45:00,2018-05-17 11:03:00,1518,Distributed Storage,Widespread,IS Dist Storage
+Generic NAS Array,2018-12-10 23:21:00,2018-12-11 08:20:00,539,Trade Settlement Systems,Widespread,PGI IT Support Services
+Generic Print/Scan Device - MFP,2019-06-04 12:47:37,2019-06-04 14:23:00,95,MFP,Large,IS SD Hardware MFP
+Generic Print/Scan Device - MFP,2019-10-01 09:20:07,2019-10-02 13:05:00,1665,Devices & Accessories,Widespread,IS Service Desk
+Generic Proxy,2019-12-09 09:35:29,2019-12-12 00:00:00,3745,Internet Connectivity,Large,IS Network Data
+Generic Proxy,2019-12-13 11:53:06,2019-12-13 13:20:00,87,Internet Connectivity,Widespread,IS Network Data
+Generic RIS Application,2019-03-01 14:15:00,2019-03-01 15:05:00,50,Financial Systems,Widespread,RIS DevOps
+Generic RIS Application,2019-04-22 14:00:00,2019-04-23 14:30:00,1470,Generic,Widespread,RIS Shared Svcs DevOps
+Generic RIS Application,2019-06-14 11:31:00,2019-06-14 14:20:00,169,Recordkeeping Systems,Widespread,IS Problem Management Team
+Generic RIS Application,2019-06-19 23:00:00,2019-06-20 11:00:00,720,Recordkeeping Systems,Widespread,IT Incident Managers
+Generic RIS Application,2019-07-03 15:30:00,2019-07-03 17:15:00,105,Recordkeeping Systems,Widespread,RIS Shared Services
+Generic Router,2018-02-16 20:20:00,2018-02-17 07:08:00,648,Internet Connectivity,Widespread,IS Network Data
+Generic Router,2018-02-21 10:44:34,2018-02-21 11:57:00,72,Voice,Widespread,IS Network Voice
+Generic Router,2018-07-03 10:30:00,2018-07-03 14:39:00,249,Data Connectivity,Widespread,IS Network Data
+Generic Router,2018-11-27 07:19:00,2018-11-27 09:14:00,115,Generic - Tokyo,Widespread,IS Network Data
+Generic Router,2019-08-07 11:42:45,2019-08-07 14:47:00,184,Data Connectivity,Widespread,IS IOC
+Generic Router,2019-10-02 10:00:00,2019-10-02 11:30:00,90,Infrastructure,Widespread,PGI IT Infrastructure
+Generic Router,2019-10-02 12:23:55,2019-11-13 13:47:00,60563,Data Connectivity,Widespread,IS Network Data
+Generic Router,2019-12-09 12:55:00,2019-12-10 03:30:00,875,Infrastructure,Widespread,PGI Workspace - NYC
+Generic SAN Switch,2018-08-21 11:10:02,2018-08-21 11:30:00,20,IT Facilities,Widespread,IS Facilities
+Generic Server - zOS,2018-02-14 13:39:00,2018-02-14 13:46:00,7,Mainframe Subsystem,Large,IS MF zOS
+Generic Server - zOS,2018-03-05 09:37:00,2018-03-05 09:49:00,12,Mainframe Subsystem,Large,IS MF zOS
+Generic Server - zOS,2018-03-07 13:35:00,2018-03-07 14:11:00,36,Mainframe Subsystem,Large,IS MF zOS
+Generic Software,2018-02-07 07:36:24,2018-02-09 15:30:00,3354,Conferencing & Instant Messaging,Widespread,IS SD Meeting Room Support
+Generic Software,2018-03-23 02:00:00,2018-03-23 09:37:00,457,Workforce,Widespread,IS ISR Access Mgmt
+Generic Software,2018-05-16 12:59:40,2018-05-16 13:16:00,16,Computer-Based Phones,Large,IS Service Desk
+Generic Software,2018-05-23 16:40:44,2018-05-27 18:24:00,5863,Standard Applications,Large,IS Service Desk
+Generic Software,2018-06-28 03:00:00,2018-06-28 11:35:00,515,Email,Widespread,IS Network Data
+Generic Software,2018-08-23 13:57:47,2018-08-24 16:00:00,1562,Desk Phones,Widespread,IS Workspace Communication and Collaboration
+Generic Software,2018-10-15 07:00:00,2018-10-15 09:50:00,170,Remote Office Voice,Large,IS Workspace Communication and Collaboration
+Generic Storage Array,2019-05-30 03:33:00,2019-06-14 19:50:00,22577,Distributed Storage,Widespread,IS Dist Storage
+Generic Storage Array - DR,2019-05-07 00:12:00,2019-05-08 00:15:00,1443,Distributed Storage,Large,IS Dist Storage
+Generic SVC Cluster,2018-11-12 22:00:00,2018-11-13 15:30:00,1050,Distributed Storage,Large,IS Dist Storage
+Generic SVC Cluster,2018-11-13 11:24:00,2018-11-15 10:45:00,2841,Distributed Storage,Large,IS Dist Storage
+Generic SVC Cluster,2019-06-02 05:27:00,2019-06-05 00:15:00,4008,Distributed Storage,Large,IS Dist Storage
+Generic SVC Node,2019-01-11 07:00:00,2019-01-12 01:00:00,1080,Distributed Storage,Widespread,IS Dist Storage
+Generic Switch,2018-02-07 04:22:41,2018-02-07 07:48:00,205,Data Connectivity,Widespread,IS IOC
+Generic Switch,2018-06-22 21:32:00,2018-06-22 23:11:00,99,Data Connectivity,Widespread,IS Network Data
+Generic Switch,2018-07-30 11:42:36,2018-07-30 12:15:00,32,Data Connectivity,Large,IS Network Data
+Generic Switch,2018-08-01 14:00:00,2018-08-17 14:49:00,23089,Voice Infrastructure,Large,IS Network Voice
+Generic Wireless LAN Controller,2019-08-26 08:35:00,2019-08-26 11:54:00,199,Network Connection,Widespread,IS Service Desk Workspace
+Generic Wireless LAN Controller,2019-10-24 08:41:00,2019-10-24 12:00:00,398,Infrastructure,Widespread,PGI ITSM
+Generic Wireless LAN Controller,2019-10-24 08:41:00,2019-10-24 12:00:00,199,Infrastructure,Widespread,PGI Workspace - SEA
+Generic Wireless LAN Controller,2019-10-24 08:41:00,2019-10-24 12:00:00,199,Infrastructure,Widespread,PGI Workspace - DSM
+Genesys PureCloud Contact Center Platform,2019-10-01 10:01:00,2019-10-01 17:35:00,454,Voice,Widespread,Enterprise Data  and Applications
+Genesys PureCloud Contact Center Platform,2019-10-01 10:53:00,2019-10-01 10:53:00,0,Voice,Widespread,Enterprise Data  and Applications
+Genesys PureCloud Contact Center Platform,2019-11-13 00:08:00,2019-11-13 12:34:00,746,Retirement Service Center,Widespread,IS Balancing and Scheduling
+Genesys PureCloud Contact Center Platform,2019-11-13 12:08:00,2019-11-13 12:34:00,52,Application Support,Widespread,IT Incident Managers
+Genesys PureCloud Contact Center Platform,2019-11-13 12:08:00,2019-11-13 12:34:00,26,Customer Engagement,Widespread,IT Incident Managers
+Genesys PureCloud Contact Center Platform,2019-11-13 12:08:00,2019-11-13 12:34:00,26,Infrastructure,Widespread,IT Incident Managers
+Genesys PureCloud Contact Center Platform,2019-11-13 12:08:00,2019-11-13 12:34:00,26,Retirement Service Center,Widespread,IS Balancing and Scheduling
+Genesys PureCloud Contact Center Platform,2019-11-13 12:08:00,2019-11-13 12:34:00,26,Toll Free or Call Routing,Widespread,IS IOC
+Genesys PureCloud Contact Center Platform,2019-12-12 08:01:00,2019-12-12 08:11:00,10,Application Support,Widespread,IS IOC
+Genesys PureCloud Contact Center Platform,2019-12-12 08:01:00,2019-12-12 08:11:00,10,Toll Free or Call Routing,Widespread,EDA Infrastructure
+Genesys PureCloud Contact Center Platform,2019-12-12 10:23:22,1900-01-01 00:00:00,0,Toll Free or Call Routing,Widespread,IS Balancing and Scheduling
+Genetec,2019-03-30 22:54:00,2019-04-01 01:36:00,1602,Global Security & Business Continuity,Large,CSS Global Security IT
+GMM Cash Sweep,2019-04-23 14:30:00,2019-04-23 16:36:00,126,Distribution Systems,Large,PGI ITSM
+GMM Cash Sweep,2019-06-26 14:21:00,2019-06-26 15:05:00,44,Distribution Systems,Large,PGI ITSM
+GPS - Group Proposal System,2019-05-28 08:18:43,2019-05-28 09:00:00,41,Application Support,Widespread,IT Incident Managers
+Group Proposal System,2018-07-26 11:30:00,2018-07-26 14:30:00,180,Application Support,Large,Availability Management Team
+Group Proposal System Output,2018-08-26 06:00:00,2018-08-26 09:45:00,225,Application Support,Large,Availability Management Team
+Group Proposal System Output,2018-09-28 11:45:00,2018-09-28 13:45:00,120,Application Support,Large,IT Incident Managers
+Horizon,2019-04-01 09:25:01,2019-04-01 17:10:00,465,Generic,Widespread,IT Incident Managers
+Hyperion Financial Management (HFM),2019-02-05 07:00:00,2019-02-05 10:50:00,230,Generic,Widespread,CSS Finance IT
+IBM Business Process Server Advanced,2019-04-15 03:07:00,2019-04-15 09:45:00,398,BPM,Large,IS Dist App Hosting Adv
+IBM Business Process Server Advanced,2019-07-03 10:20:00,2019-07-03 12:10:00,110,BPM,Large,IS APS – API
+IBM Content Manager,2019-04-04 00:08:00,2019-04-08 04:49:11,6041,Content Management,Widespread,IS Content Management
+IBM Content Manager,2019-05-26 04:07:00,2019-05-27 15:30:00,2123,Content Management,Widespread,IS APS - CMB
+IBM Datacap,2019-04-26 08:45:00,2019-04-26 11:00:00,135,Deliver Document,Widespread,IT Incident Managers
+IBM Tivoli Workload Scheduler (TWS),2019-04-16 06:00:00,2019-04-17 01:23:00,1163,Job Scheduling,Large,IS ADS Scheduling Infrastructure
+IBM WebSphere Application Server Network Deployment,2019-05-04 23:30:00,2019-05-05 01:30:00,120,Shared WebSphere,Widespread,IS Dist App Hosting Standard
+IBM WebSphere Liberty Profile,2019-06-11 12:07:19,2019-06-11 12:40:00,33,Web Infrastructure,Widespread,IS APS - Application Hosting
+IBM WebSphere Liberty Profile,2019-08-08 13:30:00,2019-08-08 16:00:00,150,Liberty,Widespread,IS APS - Application Hosting
+IBPM Service,2019-07-02 08:03:00,2019-07-02 09:13:00,70,Recordkeeping Systems,Widespread,RIS Shared Services
+ID Cards - CGS,2019-12-11 08:40:42,2019-12-11 14:37:00,356,Application Support,Widespread,USIS Group Benefits
+ID Cards System,2019-12-13 10:00:00,2019-12-13 11:00:00,60,Application Support,Large,USIS Group Benefits
+ID Cards System,2019-12-18 10:00:00,2019-12-18 11:00:00,60,Application Support,Widespread,IT Incident Managers
+ID Cards System,2019-12-19 10:00:00,2019-12-19 18:20:00,500,Application Support,Widespread,IT Incident Managers
+IDI Admin System,2018-10-23 09:13:00,2018-10-23 10:29:00,76,Application Support,Large,IT Incident Managers
+IDI Admin System,2019-03-28 09:31:00,2019-03-28 17:49:00,498,Application Support,Widespread,IT Incident Managers
+IDI Admin System,2019-06-26 02:30:00,2019-06-26 09:37:00,427,Application Support,Widespread,IT Incident Managers
+IDI Admin System - Policy,2019-11-18 04:00:00,2019-11-18 05:15:00,75,Application Support,Widespread,IS IOC
+IDI Contract Summary - Advisor Web Application,2019-05-28 08:29:04,2019-05-28 09:00:00,31,Application Support,Widespread,IT Incident Managers
+IDI Contract Summary - Member Web Application,2019-01-13 12:19:00,2019-01-13 13:29:00,70,Application Support,Widespread,IT Incident Managers
+IDI eApplication,2018-11-15 09:03:00,2018-11-15 10:00:00,57,Application Support,Large,IT Incident Managers
+IDI Policy Packet Intake Service,2018-07-27 15:45:00,2018-07-27 21:25:00,340,Application Support,Large,Availability Management Team
+IDI Policy Packet Intake Service,2019-03-13 12:20:00,2019-03-13 14:45:00,145,Application Support,Large,IT Incident Managers
+IDI Policy Packet Intake Service,2019-06-18 13:45:00,2019-06-19 15:52:00,1567,Application Support,Widespread,IT Incident Managers
+Image/Workflow - Image (System),2019-11-07 09:10:00,2019-11-07 09:50:00,40,Application Support,Widespread,IT Incident Managers
+Image/Workflow - Image (System),2019-11-07 09:53:25,2019-11-07 10:14:00,21,Application Support,Large,IT Incident Managers
+Image/Workflow - Workflow (System),2019-07-02 08:14:00,2019-07-02 09:21:00,134,Application Support,Widespread,IT Incident Managers
+Image/Workflow - Workflow (System),2019-08-16 04:30:00,2019-08-16 12:15:00,465,Application Support,Widespread,IT Incident Managers
+Image/Workflow Electronic Document Capture (System),2018-10-15 07:36:00,2018-10-15 08:32:00,56,Application Support,Widespread,IT Incident Managers
+Individual Account Summary,2019-08-01 22:14:00,2019-08-01 22:22:00,8,Application Support,Large,IT Incident Managers
+Individual Contract Summary,2018-03-16 09:22:00,2018-03-16 09:38:00,16,Application Support,Widespread,USIS DTS
+Individual Contract Summary,2018-03-18 22:52:00,2018-03-18 22:53:00,1,Application Support,Widespread,USIS DTS
+Individual Financial Transactions,2019-01-24 08:16:00,2019-01-24 15:48:00,452,Application Support,Large,IT Incident Managers
+Individual Financial Transactions,2019-05-07 02:00:00,2019-05-07 11:20:00,560,Application Support,Widespread,IT Incident Managers
+Individual Financial Transactions,2019-05-07 11:02:00,2019-05-08 08:07:00,1265,Application Support,Widespread,IT Incident Managers
+Interaction Center,2019-06-13 12:00:00,2019-06-14 10:07:00,1327,Email,Widespread,IT Incident Managers
+Interaction Center,2019-10-01 10:00:00,2019-10-01 14:30:00,270,Contact Center Infrastructure,Large,Enterprise Data  and Applications
+Interested Party Application,2019-10-21 11:35:00,2019-10-21 13:11:00,96,Enterprise Shared Data Systems,Large,PGI IT Enterprise Data
+Interested Party Application,2019-11-27 10:04:52,2019-11-27 10:45:00,40,Securities Data Systems,Widespread,PGI IT Enterprise Data
+InvestOne,2018-10-29 17:30:00,2018-10-29 19:05:00,95,Distribution Systems,Large,PGI IT Support Services
+InvestOne,2019-04-17 12:30:00,2019-04-17 20:34:00,484,Funds Accounting Systems,Widespread,PGI ITSM
+IVR - Health Router,2019-10-01 10:00:00,2019-10-01 18:35:00,515,Voice Connectivity,Widespread,Enterprise Data  and Applications
+IVR - RIS Pension,2019-05-16 11:50:00,2019-05-16 14:57:00,187,Financial Systems,Widespread,RIS Shared Services
+IVRS,2019-10-24 08:36:00,2019-10-24 09:50:00,74,Financial Systems,Widespread,RIS Shared Services
+Knowledgebase,2019-10-01 09:32:00,2019-10-01 13:45:00,253,Contact Center Infrastructure,Large,Enterprise Data  and Applications
+LAN DMZ Service,2019-08-31 15:30:00,2019-08-31 19:17:00,227,Data Connectivity,Widespread,IS Network Data
+LHS Employer Web System,2019-02-05 09:14:00,2019-02-05 10:18:00,64,Application Support,Widespread,IT Incident Managers
+LHSFinancialProfessional GB,2019-10-29 09:14:00,2019-10-29 10:03:00,49,Application Support,Widespread,IT Incident Managers
+Liability Cache Prime Job,2019-01-17 12:16:00,2019-01-17 13:53:00,97,Application Support,Widespread,IT Incident Managers
+Liability Cache Prime Job,2019-10-11 06:00:00,2019-10-11 08:36:00,156,Application Support,Widespread,IT Incident Managers
+Life NB Case Management Product (System),2019-11-15 14:30:00,2019-11-15 16:15:00,105,Application Support,Widespread,IT Incident Managers
+LifePRO,2019-04-26 23:00:00,2019-04-29 15:00:00,3840,Application Support,Widespread,IT Incident Managers
+List Manager,2019-10-30 13:18:00,2019-10-30 16:06:00,168,Enterprise Shared Data Systems,Widespread,PGI IT Enterprise Data
+Manage My Delegates Portlet,2019-06-03 08:42:00,2019-06-03 11:40:00,178,Business Acquistion,Widespread,IT Incident Managers
+Marketer And Role Selection,2018-04-02 11:20:00,2018-04-02 18:00:00,400,Application Support,Widespread,Availability Management Team
+Marketer And Role Selection,2018-09-21 11:45:00,2018-09-21 15:06:00,201,Application Support,Large,IT Incident Managers
+Marketer Statements UI,2018-07-27 03:00:00,2018-07-27 11:40:00,520,Application Support,Large,Availability Management Team
+Markit EDM Data Management Interfaces,2018-09-05 13:40:00,2018-09-05 15:46:00,126,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-09-06 15:57:00,2018-09-06 16:13:00,16,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-09-06 18:24:00,2018-09-06 19:16:00,52,Securities Data Systems,Large,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-09-25 03:30:00,2018-09-25 03:58:00,28,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-09-25 19:45:00,2018-09-26 06:21:00,636,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-09-28 17:03:00,2018-09-28 18:07:00,64,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-10-03 07:17:00,2018-10-03 09:15:00,118,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-10-03 09:44:00,2018-10-03 11:00:00,76,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-10-05 09:39:00,2018-10-05 10:30:00,51,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-10-05 09:39:00,2018-10-05 10:58:00,79,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-10-07 19:48:00,2018-10-07 21:10:00,82,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-10-08 21:27:00,2018-10-08 22:34:00,67,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2018-11-19 19:24:00,2018-11-19 21:48:00,144,Securities Data Systems,Widespread,PGI IT Support Services
+Markit EDM Data Management Interfaces,2019-01-01 21:20:00,2019-01-02 00:15:00,175,Securities Data Systems,Large,PGI ITSM
+Markit EDM Data Management Interfaces,2019-01-14 03:34:00,2019-01-14 13:56:00,622,Securities Data Systems,Widespread,PGI Investment Operations
+Markit EDM Data Management Interfaces,2019-01-22 14:05:00,2019-01-22 14:20:00,15,Securities Data Systems,Widespread,PGI ITSM
+Markit EDM Data Management Interfaces,2019-01-24 22:00:00,2019-01-24 23:30:00,90,Securities Data Systems,Widespread,PGI ITSM
+Markit EDM Data Management Interfaces,2019-03-12 01:00:00,2019-03-12 04:39:00,219,Securities Data Systems,Large,PGI ITSM
+Markit EDM Data Management Interfaces,2019-06-02 08:00:00,2019-06-03 04:00:00,1200,Securities Data Systems,Large,PGI ITSM
+Markit EDM Data Management Interfaces,2019-06-04 15:24:00,2019-06-04 15:33:00,9,Securities Data Systems,Widespread,IT Incident Managers
+Markit EDM Data Management Interfaces,2019-07-08 10:06:00,2019-07-08 10:53:00,47,Enterprise Shared Data Systems,Widespread,PGI ITSM
+Markit EDM Data Management Interfaces,2019-07-11 17:00:00,2019-07-12 17:00:00,1440,Enterprise Shared Data Systems,Widespread,PGI ITSM
+Markit EDM Data Management Interfaces,2019-08-28 05:49:00,2019-08-28 08:38:00,169,Securities Data Systems,Widespread,PGI IT Enterprise Data
+Markit EDM Data Management Interfaces,2019-09-09 08:56:00,2019-09-09 10:06:00,70,Securities Data Systems,Large,IT Incident Managers
+Markit EDM Data Management Interfaces,2019-10-01 09:02:00,2019-10-01 15:30:00,388,Securities Data Systems,Widespread,PGI IT Enterprise Data
+Markit EDM Data Management Interfaces,2019-10-14 05:23:00,2019-10-14 09:47:00,264,Securities Data Systems,Widespread,PGI IT Enterprise Data
+MCS Management Compensation,2018-08-31 23:55:00,2018-09-13 12:00:00,18005,Application Support,Large,IT Incident Managers
+Member Subscription UI,2019-05-28 06:56:00,2019-05-28 07:57:00,61,Web,Widespread,IT Incident Managers
+Member Web - Personal Health,2018-08-21 13:05:00,2018-08-22 11:35:00,1350,Application Support,Large,Availability Management Team
+Member Web - Rebranded (new),2019-01-13 13:45:00,2019-01-13 14:32:00,47,Application Support,Widespread,IT Incident Managers
+Member Web System,2019-07-11 10:32:00,2019-07-11 11:07:00,35,Application Support,Widespread,IT Incident Managers
+Member Web System,2019-10-04 23:27:00,2019-10-05 23:42:00,1455,Application Support,Widespread,IT Incident Managers
+Message Center UI,2019-10-01 14:00:00,2019-10-02 13:30:00,1410,Web,Widespread,Enterprise Data  and Applications
+Microsoft Exchange Online,2019-11-01 13:00:00,2019-11-06 12:18:00,7158,Filtering/Blocking,Widespread,IS Workspace Communication and Collaboration
+Microsoft Exchange Online,2019-11-04 23:03:00,2019-11-05 00:06:08,63,Filtering/Blocking,Widespread,IS Workspace Communication and Collaboration
+Microsoft Exchange Server,2019-10-01 10:54:00,2019-10-01 19:15:00,501,Email,Widespread,IS Workspace Communication and Collaboration
+Microsoft Internet Information Services,2019-06-15 08:30:00,2019-06-16 02:00:00,1050,Application Support,Widespread,IS Server Intel
+Microsoft Internet Information Services,2019-06-17 08:00:00,2019-06-17 20:00:00,720,Application Support,Widespread,IS ISR Directory Services
+Microsoft Internet Information Services,2019-06-21 09:20:00,2019-06-21 23:34:00,854,Application Support,Widespread,PI MX Infrastructure Support
+Microsoft Intune,2019-12-30 12:51:59,2019-12-30 16:24:00,212,Desktop Security,Widespread,IS Workspace Communication and Collaboration
+Microsoft Outlook,2019-02-15 19:00:00,2019-02-18 03:00:00,10080,Collaboration Tools,Widespread,PGI ITSM
+Microsoft Outlook,2019-04-29 09:29:53,2019-05-02 00:00:00,3750,Email,Widespread,IS Workspace Communication and Collaboration
+Microsoft Sharepoint Online,2019-05-02 14:47:00,2019-05-02 16:40:00,113,Collaboration Tools,Widespread,IS Workspace Communication and Collaboration
+Microsoft Sharepoint Online,2019-05-02 15:30:00,2019-05-02 16:44:00,74,Application Support,Widespread,IT Incident Managers
+Microsoft SharePoint Server,2019-11-14 07:00:00,2019-11-14 07:45:00,45,Collaboration Tools,Widespread,IS Workspace Communication and Collaboration
+Microsoft Skype for Business Online,2019-06-13 08:00:00,2019-06-13 13:30:00,330,Video Conferencing,Large,IS Workspace Communication and Collaboration
+MKS Pay and Statements Load,2019-01-22 08:16:00,2019-02-21 04:47:00,42991,Application Support,Large,IT Incident Managers
+MVSB,2018-06-18 11:04:00,2018-06-18 11:56:00,52,Mainframe Server,Widespread,IS MF zOS
+MVSC,2019-03-16 09:34:00,2019-03-16 10:30:00,56,Mainframe Server,Widespread,IS MF zOS
+MX1,2018-07-09 16:15:00,2018-07-11 00:00:00,1905,Email,Large,IS Workspace Communication and Collaboration
+My Access,2019-04-05 07:05:35,2019-04-12 11:54:00,10368,Security Access,Widespread,IS ISR Identity Mgmt
+Netcool OMNIbus,2019-03-30 21:15:00,2019-04-01 16:00:00,2565,System Event Management,Large,IS Portfolio and Software Support
+Netcool OMNIbus,2019-11-02 22:15:00,2019-11-03 05:10:00,415,System Event Management,Large,IS Portfolio and Software Support
+Network Attach Storage (NAS),2019-07-08 10:06:00,2019-07-08 10:53:00,47,Network Drives,Widespread,PGI ITSM
+NQ Balance Updater Processor,2019-10-31 07:52:00,2019-10-31 08:30:00,38,Application Support,Widespread,IT Incident Managers
+Online Application,2019-08-02 02:00:00,2019-08-14 01:00:00,17220,Application Support,Widespread,IT Incident Managers
+Online Application,2019-10-30 08:19:32,2019-10-30 08:38:00,18,Application Support,Widespread,IT Incident Managers
+Online Application Submission Service,2019-04-11 00:00:00,2019-04-11 19:16:00,1156,Application Support,Large,IT Incident Managers
+Online Enrollment web app,2019-01-28 14:40:00,2019-01-28 15:33:00,53,Application Support,Widespread,IT Incident Managers
+Oracle Access Manager,2019-08-01 22:14:00,2019-08-01 22:22:52,9,Authentication & Authorization,Widespread,IS ISR Access Mgmt
+Oracle HCM Cloud Suite,2019-04-01 11:03:09,2019-04-01 17:07:00,364,Generic,Widespread,IT Incident Managers
+PAM,2019-04-01 11:00:00,2019-04-01 22:00:00,660,Accounting Systems,Widespread,PGI ITSM
+PAM,2019-05-02 04:00:00,2019-05-02 06:45:00,165,Accounting Systems,Widespread,PGI ITSM
+PAM,2019-07-16 13:00:00,2019-07-17 10:00:00,1260,Accounting Systems,Widespread,PGI IT Accounting and Recon
+PAM,2019-12-03 20:00:00,2019-12-04 10:14:00,854,Accounting Systems,Widespread,PGI ITSM
+PAN Compensation Manager UI,2019-01-13 12:19:00,2019-01-13 13:29:00,70,Application Support,Large,IT Incident Managers
+PAN Salesforce,2019-11-04 10:51:00,2019-11-04 12:17:00,86,Application Support,Widespread,IT Incident Managers
+Participant Balance Web service,2019-10-11 08:15:00,2019-10-11 09:06:00,51,Application Support,Widespread,IT Incident Managers
+Participant Landing Page,2019-01-04 08:30:00,2019-01-04 09:44:00,74,Application Support,Widespread,IT Incident Managers
+Participant Retirement Service Center Web App,2019-06-11 13:28:00,2019-06-11 14:11:00,43,Financial Systems,Widespread,IS Problem Management Team
+Participant Retirement Service Center Web App,2019-07-02 09:30:00,2019-07-02 16:00:00,390,Financial Systems,Widespread,RIS Shared Services
+Participant Retirement Service Center Web App,2019-07-09 06:06:00,2019-07-09 07:00:00,54,Financial Systems,Widespread,RIS Shared Services
+Participant Retirement Service Center Web App,2019-07-11 10:00:00,2019-07-11 11:15:00,75,Financial Systems,Widespread,RIS Shared Services
+Participant Retirement Service Center Web App,2019-07-15 14:00:00,2019-07-15 16:10:00,130,Financial Systems,Widespread,RIS Shared Services
+Participant Retirement Service Center Web App,2019-07-23 11:34:00,2019-07-23 11:49:00,15,Financial Systems,Widespread,RIS Shared Services
+Participant Retirement Service Center Web App,2019-07-27 02:47:00,2019-07-27 07:53:00,306,Financial Systems,Widespread,RIS Shared Services
+Participant Retirement Service Center Web App,2019-08-01 22:14:00,2019-08-01 22:22:00,8,Financial Systems,Widespread,RIS WSRS Systems
+Participant Retirement Service Center Web App,2019-09-21 09:08:00,2019-09-21 10:34:00,86,Financial Systems,Large,RIS Shared Services
+Participant Retirement Service Center Web App,2019-10-21 09:00:00,2019-10-21 09:40:00,40,Financial Systems,Widespread,RIS Shared Services
+Participant Retirement Service Center Web App,2019-10-21 09:40:00,2019-10-21 15:00:00,320,Financial Systems,Widespread,RIS Shared Services
+Participant Retirement Service Center Web App,2019-10-30 09:47:20,2019-10-30 12:00:00,133,Financial Systems,Widespread,RIS Shared Services
+Participant Web Experience Web App,2018-06-23 07:08:00,2018-06-23 07:21:00,13,Retirement Service Center,Widespread,RIS Participant
+Participant Web Experience Web App,2018-06-25 07:55:00,2018-06-25 08:11:00,16,Retirement Service Center,Widespread,RIS Participant
+Participant Website,2019-01-13 12:19:00,2019-01-13 13:29:00,70,Application Support,Large,IT Incident Managers
+Participant Website,2019-07-02 06:00:00,2019-07-02 19:30:00,810,Application Support,Large,IT Incident Managers
+PCS CSV Marketer Statements,2019-03-16 07:00:00,2019-03-16 11:30:00,270,Application Support,Large,IT Incident Managers
+PCS Marketer Compensation Calculations,2019-04-01 16:15:33,2019-04-02 08:55:00,999,Application Support,Widespread,IT Incident Managers
+PCS Marketer Statements,2018-08-22 10:00:00,2018-08-22 15:00:00,300,Application Support,Large,Availability Management Team
+PCS Marketer Statements,2018-09-17 11:00:00,2018-09-17 12:07:00,67,Application Support,Large,IT Incident Managers
+PCS Marketer Statements,2019-02-16 09:12:00,2019-02-16 10:49:00,97,Application Support,Large,IT Incident Managers
+PCS Statements Service,2018-12-27 19:33:00,2018-12-28 08:30:00,777,Application Support,Widespread,IT Incident Managers
+Pending Business Report,2019-11-04 10:29:34,2019-11-05 11:41:00,1511,Application Support,Widespread,IT Incident Managers
+Pending Business Report,2019-11-04 10:34:00,2019-11-05 11:41:00,1507,Application Support,Widespread,IT Incident Managers
+Pension Express Client,2019-04-05 13:15:00,2019-04-05 14:05:00,50,Generic,Widespread,IS Service Desk
+Pension Express Mainframe,2019-07-09 06:06:00,2019-07-09 08:13:00,127,Recordkeeping Systems,Widespread,RIS Shared Services
+Pension Express Mainframe,2019-09-21 05:00:00,2019-09-21 06:21:00,81,Recordkeeping Systems,Large,RIS Shared Services
+Pension Express Mainframe,2019-10-21 09:00:00,2019-10-21 15:00:00,360,Recordkeeping Systems,Widespread,RIS Shared Services
+PeopleSoft Base HR,2019-11-11 07:39:18,2019-11-11 13:06:00,327,Generic,Widespread,IT Incident Managers
+PeopleSoft Enterprise Performance Management (EPM),2019-04-01 08:08:31,2019-04-01 18:10:00,601,Generic,Widespread,IT Incident Managers
+PeopleSoft Enterprise Performance Management (EPM),2019-04-01 09:11:05,2019-04-01 14:15:00,304,Generic,Widespread,CSS LGR
+PeopleSoft Financials Reporting,2019-06-04 08:00:00,2019-06-04 09:46:00,106,Accounting Management,Widespread,IT Incident Managers
+PFGDSMAPFPRD501,2019-09-21 00:12:00,2019-09-21 00:17:00,5,Windows,Widespread,PGS Server Support
+PFGDSMARM404,2018-05-02 10:47:00,2018-05-02 11:35:00,48,Windows,Large,IS Server Intel
+PFGDSMBATCHP850,2019-04-22 03:30:00,2019-04-22 05:40:00,130,Job Scheduling,Widespread,IS ADS Scheduling Infrastructure
+PFGDSMBATCHP850,2019-04-22 09:28:00,2019-04-22 10:07:20,39,Java Batch,Widespread,IS Dist App Hosting Adv
+PFGDSMBOP14,2018-06-26 01:48:00,2018-06-26 06:00:00,252,Business Intelligence,Large,IS Bus Intelligence
+PFGDSMCSSQLA031,2019-05-01 06:27:00,2019-05-01 13:14:00,407,Global Security & Business Continuity,Widespread,CSS Global Security IT
+PFGDSMCTXEDG001,2019-12-09 11:48:00,2019-12-09 17:38:00,350,Virtual Applications,Large,IS Workspace Endpoint
+PFGDSMCTXSTR001,2018-02-27 10:00:00,2018-02-27 23:50:00,830,Virtual Applications,Widespread,IS Enterprise Endpoint
+PFGDSMCTXSTR002,2018-11-06 10:21:58,2018-11-06 10:26:00,4,Data Backup,Widespread,IS Data Backup
+PFGDSMMSP03,2018-07-26 07:42:00,2018-07-26 08:25:00,43,Business Intelligence,Widespread,IS Bus Intelligence
+PFGDSMNETP16203,2019-10-30 13:18:00,2019-10-30 16:06:00,168,Web Infrastructure,Large,IS APS - Web Hosting
+PFGDSMSMARTAP01,2018-08-23 14:55:00,2018-08-24 22:30:00,1895,IOC,Widespread,IS Workspace Communication and Collaboration
+PFGDSMSOA056,2018-10-06 21:46:00,2018-10-06 22:16:00,30,API Management,Widespread,IS IOC
+PFGDSMVDIVC01,2019-12-11 10:36:00,2019-12-11 11:45:00,69,Virtual Desktops,Widespread,IS Workspace Endpoint
+PFGDSMWHOST01,2018-10-10 12:30:00,2018-10-10 14:20:00,110,IT Service Management,Widespread,IS Service Desk
+PFGHKGESXNBI001,2019-09-01 03:36:00,2019-09-01 21:33:00,1077,Host,Widespread,IS Network Data
+PFGPNEGENDIR01,2019-11-02 16:49:00,2019-11-02 18:47:00,118,Data Connectivity,Large,CSS Global Security IT
+PFunds Customer Information - Web App,2019-07-09 07:00:00,2019-07-10 13:47:00,1847,Distributions systems,Widespread,PGI ITSM
+PGI Accounting Transactions ESDL,2019-06-03 22:30:00,2019-06-04 11:00:00,750,Enterprise Shared Data Systems,Large,PGI Investment Operations
+PGI Analytics ESDL,2018-10-20 08:30:00,2018-10-22 06:30:00,2760,Securities Data Systems,Widespread,PGI IT Support Services
+PGI Bulk Retrieval Service,2019-01-26 21:00:00,2019-01-28 03:48:00,1848,Enterprise Shared Data Systems,Widespread,PGI ITSM
+PGI Bulk Retrieval Service,2019-10-02 16:00:00,2019-10-03 08:48:00,1008,Enterprise Shared Data Systems,Widespread,PGI IT Enterprise Data
+PGI Entitlement Service,2018-09-05 16:33:00,2018-09-05 17:48:00,75,Securities Data Systems,Widespread,PGI IT Support Services
+PGI Event Integration,2019-08-06 06:00:00,2019-08-06 12:55:00,415,Enterprise Shared Data Systems,Widespread,PGI IT Enterprise Data
+PGI Event Integration,2019-10-10 19:00:00,2019-10-11 22:11:00,1631,Enterprise Shared Data Systems,Widespread,PGI IT Enterprise Data
+PGI Intraday Accounting Orchestrator,2019-04-01 10:27:00,2019-04-01 22:03:00,696,Portfolio Accounting Systems,Widespread,PGI ITSM
+PGI Portfolio ESDL,2019-05-14 13:18:00,2019-05-14 16:00:00,162,Enterprise Shared Data Systems,Large,PGI ITSM
+PGI Positions ESDL,2018-09-06 08:56:08,2018-09-06 12:01:00,185,Securities Data Systems,Widespread,PGI IT Support Services
+PGI Positions ESDL,2018-09-06 09:01:32,2018-09-06 12:01:00,179,Securities Data Systems,Widespread,PGI IT Support Services
+PGI Positions ESDL,2019-02-13 09:15:00,2019-02-13 16:00:00,405,Enterprise Shared Data Systems,Widespread,PGI Investment Operations
+PGI Positions ESDL,2019-04-01 09:32:32,2019-04-01 22:20:00,767,Enterprise Shared Data Systems,Widespread,PGI ITSM
+PGI Positions ESDL,2019-05-23 22:30:00,2019-05-24 00:45:00,135,Enterprise Shared Data Systems,Widespread,PGI Investment Operations
+PGI Positions ESDL,2019-07-03 19:16:00,2019-07-04 14:00:00,1124,Enterprise Shared Data Systems,Widespread,PGI IT Enterprise Data
+PGI Positions ESDL,2019-12-09 21:00:00,2019-12-10 09:00:00,720,Enterprise Shared Data Systems,Widespread,PGI ITSM
+PGI Time Sensitive DataMart Integrations,2019-10-01 09:30:00,2019-10-02 00:01:00,871,Reporting Systems,Large,PGI ITSM
+PGI Time Sensitive DataMart Integrations,2019-10-10 19:00:00,2019-10-10 22:11:00,191,Reporting Systems,Widespread,PGI IT Client Experience
+PGI Trades ESDL,2019-07-11 17:00:00,2019-07-12 17:00:00,1440,Securities Data Systems,Widespread,PGI ITSM
+PGI Trades ESDL,2019-10-01 09:00:00,2019-10-01 16:15:00,435,Enterprise Shared Data Systems,Widespread,PGI IT Enterprise Data
+PGIDSMSQLAP091,2019-04-22 08:17:00,2019-04-22 09:15:00,58,Database Change Systems,Widespread,PGI ITSM
+PGIDSMSQLAP092,2019-04-11 23:00:00,2019-04-12 19:35:00,1235,Database Change Systems,Large,PGI ITSM
+PGIDSMSQLAP161,2019-07-27 22:38:00,2019-07-29 04:45:00,1807,Infrastructure,Widespread,PGI IT Infrastructure
+pibanderas1cl-mpls,2019-10-11 12:00:00,2019-10-11 15:29:00,209,Data Connectivity,Widespread,IS Network Data
+pichillan1cl-mpls,2019-08-02 17:03:00,2019-08-05 00:00:00,3297,Web Infrastructure,Widespread,IS APS - Web Hosting
+pihongkong3ch-vpn,2019-11-03 21:00:00,2019-11-03 22:02:00,62,Infrastructure,Large,PGI ITSM
+pimonterrey4mx-vpn,2019-10-02 11:26:19,2019-10-02 15:44:00,258,Data Connectivity,Widespread,IS Network Data
+Plan management (New),2019-11-04 06:22:00,2019-11-04 07:45:00,83,Application Support,Widespread,IT Incident Managers
+Plan Participant Experience (PPE),2018-01-19 16:50:00,2018-01-19 17:50:00,60,PPE,Widespread,IS ITSM and ESM Support Team
+Plan Participant Experience (PPE),2018-02-14 13:40:00,2018-02-14 13:52:00,12,PPE,Widespread,IS Service Desk
+Plan Participant Experience (PPE),2018-02-14 13:43:00,2018-02-14 13:51:00,8,PPE,Widespread,IS Service Desk
+Plan Participant Experience (PPE),2018-03-05 09:45:00,2018-03-05 09:49:00,4,PPE,Widespread,IS Service Desk
+Plan Participant Experience (PPE),2018-03-16 09:22:00,2018-03-16 09:52:00,30,PPE,Widespread,RIS Participant
+Plan Participant Experience (PPE),2018-03-16 09:27:00,2018-03-16 09:49:00,22,PPE,Widespread,RIS Participant
+Plan Participant Experience (PPE),2018-04-02 11:10:00,2018-04-02 11:11:00,1,PPE,Widespread,RIS Participant
+Plan Participant Experience (PPE),2018-05-09 09:05:00,2018-05-09 09:12:00,7,PPE,Widespread,RIS Participant
+Plan Participant Experience (PPE),2018-05-21 11:49:00,2018-05-21 11:51:00,2,PPE,Widespread,RIS Participant
+Plan Participant Experience (PPE),2018-05-21 13:12:00,2018-05-21 13:29:00,17,PPE,Widespread,RIS Participant
+Plan Participant Experience (PPE),2018-05-21 15:05:00,2018-05-21 15:10:00,5,PPE,Widespread,RIS Participant
+Plan Participant Experience (PPE),2018-05-27 20:32:00,2018-05-27 20:33:00,1,PPE,Widespread,RIS Participant
+Plan Participant Experience (PPE),2018-05-27 21:00:00,2018-05-27 21:02:00,2,PPE,Widespread,RIS Participant
+Plan Sponsor Website (new),2018-07-06 08:13:00,2018-07-06 15:20:00,427,Application Support,Large,Availability Management Team
+Plan Sponsor Website (new),2019-11-25 10:00:00,2019-11-25 11:55:00,115,Application Support,Large,USIS Group Benefits
+Plan Sponsor Website (new),2019-12-02 10:46:25,2019-12-02 18:25:00,459,Application Support,Widespread,IS IOC
+Portia,2018-12-03 07:03:00,2018-12-03 10:43:00,220,Generic,Widespread,PGI Investment Operations
+Portia,2019-02-12 17:30:00,2019-02-13 12:15:00,1125,Portfolio Accounting Systems,Widespread,PGI Investment Operations
+PowerBroker Password Safe,2019-06-17 14:11:00,2019-06-17 15:00:00,49,Standard Applications,Widespread,IS ISR Directory Services
+PowerBroker Password Safe,2019-06-18 08:19:00,2019-06-18 16:36:00,497,Directory,Widespread,IS ISR Directory Services
+PreCMS,2019-04-01 08:41:12,2019-04-01 17:04:00,503,Generic,Widespread,IT Incident Managers
+Prescription Drug History Service,2019-11-06 11:15:00,2019-11-06 21:02:00,1174,Application Support,Widespread,USIS IND USIS Shared Services
+Pricing - Mainframe,2019-08-01 09:05:00,2019-08-01 10:40:00,95,Funds Research & Analysis Systems,Large,PGI Global Platform
+Principal Illustration Edge,2019-01-13 12:19:00,2019-01-13 13:29:00,70,Application Support,Large,IT Incident Managers
+Principaletfs.com,2018-09-26 07:58:00,2018-09-26 15:52:00,474,Marketing systems,Widespread,PGI IT Support Services
+Principaletfs.com,2018-09-27 07:40:00,2018-09-27 15:59:00,499,Marketing systems,Widespread,PGI IT Support Services
+Principaletfs.com,2018-10-04 12:04:00,2018-10-04 13:27:00,83,Marketing systems,Widespread,PGI IT Support Services
+Principaletfs.com,2019-01-31 08:30:00,2019-02-04 09:27:00,5817,Marketing systems,Widespread,PGI ITSM
+Principaletfs.com,2019-03-18 08:30:00,2019-03-18 09:33:00,63,Distribution Systems,Large,PGI ITSM
+Principaletfs.com,2019-03-25 08:42:00,2019-03-25 09:21:00,39,Marketing systems,Widespread,PGI ITSM
+Principaletfs.com,2019-03-26 09:53:59,2019-03-26 10:42:00,48,Browser,Widespread,IS Network Data
+Principaletfs.com,2019-04-01 07:47:00,2019-04-01 18:45:00,658,Funds Research & Analysis Systems,Widespread,PGI ITSM
+PrincipalFunds Shareholder web,2019-11-18 11:03:00,2019-11-18 14:25:00,202,Distributions systems,Widespread,PGI ITSM
+Principalfunds.com,2019-10-21 13:05:00,2019-10-21 13:11:00,6,Marketing systems,Large,PGI ITSM
+PRINCIPALUSA - Active Directory,2019-11-07 08:33:00,2019-11-08 10:06:00,1533,LDAP Integration,Widespread,IS ISR Directory Services
+PRINCIPALUSA - Active Directory,2019-11-07 10:47:00,2019-11-10 04:00:00,3913,Network Drives,Widespread,PGI ITSM
+Producer Compensation System,2018-03-13 07:20:00,2018-03-13 08:00:00,40,Application Support,Widespread,USIS DTS
+Producer Compensation System,2018-04-02 11:28:00,2018-04-02 18:00:00,392,Application Support,Widespread,Availability Management Team
+Producer Compensation System,2018-11-01 02:00:00,2018-11-01 17:42:00,942,Application Support,Widespread,IT Incident Managers
+Producer Compensation System,2019-10-01 09:21:54,2019-10-02 21:10:00,2148,Application Support,Widespread,USIS MKTR SVCS IT External
+Provider Dental Service,2019-04-08 11:42:00,2019-04-09 08:14:00,1232,Application Support,Widespread,IT Incident Managers
+Provider Web,2019-04-02 09:11:31,2019-04-02 11:10:00,118,Application Support,Widespread,IT Incident Managers
+Provider Web,2019-06-11 13:00:00,2019-06-11 14:00:00,60,Application Support,Widespread,IT Incident Managers
+Provider Web,2019-08-08 14:00:00,2019-08-08 14:22:00,22,Application Support,Widespread,IT Incident Managers
+Provider Web,2019-09-23 09:57:00,2019-09-23 10:18:00,21,Application Support,Large,IT Incident Managers
+Recruiting  Internal (Self-Service),2019-09-16 08:50:00,2019-09-16 13:02:00,252,Talent Development,Widespread,CSS HR IT
+Recruiting  Internal (Self-Service),2019-10-07 12:30:00,2019-10-07 15:45:00,195,Generic,Widespread,CSS HR IT
+Recruiting External (Self-Service),2019-10-01 11:00:00,2019-10-01 18:30:00,450,Resource Planning & Placement,Widespread,CSS HR IT
+Remote DIA Service,2019-06-03 09:27:00,2019-06-04 09:40:00,1453,Data Connectivity,Widespread,IS Network Data
+Report Launcher,2019-07-20 22:00:00,2019-07-22 09:39:00,2139,Database Change Systems,Widespread,PGI ITSM
+Reporting Services Report Scheduler,2019-04-22 08:30:00,2019-04-22 09:15:00,45,Database Change Systems,Widespread,PGI ITSM
+Reporting Services Report Scheduler,2019-05-23 16:45:00,2019-05-24 09:45:00,1020,Database Change Systems,Large,IT Incident Managers
+Reporting Services Report Scheduler,2019-06-02 10:38:00,2019-06-03 04:00:00,1042,Database Change Systems,Large,IT Incident Managers
+Retirement Service Center,2019-04-05 13:15:00,2019-04-05 14:05:00,50,Generic,Widespread,IS Service Desk
+Retirement Service Center,2019-07-01 12:00:00,2019-07-01 17:05:00,305,Financial Systems,Widespread,IS APS – API
+Retirement Service Center,2019-07-01 12:00:00,2019-07-01 17:05:00,305,Financial Systems,Widespread,RIS Shared Services
+Retirement Service Center,2019-08-30 12:16:00,2019-08-30 12:38:00,22,Retirement Service Center,Large,RIS Shared Services
+Retirement Service Center,2019-09-03 11:05:00,2019-09-03 12:15:00,70,Generic,Widespread,RIS Shared Services
+Retirement Service Center,2019-09-04 10:30:00,2019-09-04 11:03:00,33,Generic,Widespread,RIS Shared Services
+Retirement Service Center,2019-09-05 08:22:00,2019-09-05 11:30:00,188,Generic,Widespread,RIS Shared Services
+Retirement Service Center,2019-09-19 07:05:00,2019-09-19 11:43:00,278,Generic,Widespread,RIS Shared Services
+Revenue Manager,2019-04-01 07:00:00,2019-04-01 17:30:00,630,Accounting Systems,Large,PGI ITSM
+RIA Fee Statements UI,2019-07-18 09:00:00,2019-07-18 13:20:00,260,Application Support,Widespread,USIS MKTR SVCS IT External
+RIA Statements Service,2019-01-08 12:11:00,2019-01-08 14:00:00,109,Application Support,Widespread,IT Incident Managers
+RIS System Web App,2019-02-08 03:36:00,2019-02-08 08:29:00,293,Generic,Widespread,RIS Shared Svcs DevOps
+RSC - Account History Summary,2018-01-29 10:31:00,2018-03-01 12:53:52,44783,Retirement Service Center,Widespread,RIS Participant
+RSC - Account History Summary,2018-02-14 13:35:00,2018-02-14 13:49:00,14,Retirement Service Center,Widespread,RIS Participant
+RSC - Account History Summary,2018-03-16 09:27:00,2018-03-16 09:48:00,21,Retirement Service Center,Widespread,RIS Participant
+RSC - Account History Summary,2018-03-29 16:04:00,2018-03-29 16:07:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC - Account History Summary,2018-04-02 11:09:00,2018-04-02 11:14:00,5,Retirement Service Center,Widespread,RIS Participant
+RSC - Account History Summary,2018-04-06 21:21:00,2018-04-06 21:23:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-01-30 08:18:00,2018-01-30 09:00:00,42,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-01-31 08:20:00,2018-01-31 09:00:00,40,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-02-01 08:18:00,2018-02-01 09:00:00,42,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-02-02 04:16:00,2018-02-02 04:30:00,14,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-02-02 08:18:00,2018-02-02 09:00:00,42,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-02-03 04:18:00,2018-02-03 06:00:00,102,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-02-03 08:17:00,2018-02-03 09:00:00,43,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-02-06 20:17:00,2018-02-06 21:00:00,43,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-02-14 13:34:00,2018-02-14 13:48:00,14,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-02-25 12:15:00,2018-02-25 12:18:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-01 03:31:00,2018-03-01 03:35:00,4,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-03 12:17:00,2018-03-03 12:28:00,11,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-05 16:30:00,2018-03-05 16:33:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-09 09:15:00,2018-03-09 09:16:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-09 09:21:00,2018-03-09 09:22:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-09 10:06:00,2018-03-09 10:20:00,14,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-09 20:24:00,2018-03-09 20:27:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-10 04:13:00,2018-03-10 04:31:00,18,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-16 09:22:00,2018-03-16 09:54:00,32,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-23 23:42:00,2018-03-23 23:44:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-26 08:16:00,2018-03-26 08:18:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-27 08:36:00,2018-03-27 08:45:00,9,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-27 09:52:00,2018-03-27 10:01:00,9,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-27 10:05:00,2018-03-27 10:07:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-28 08:18:00,2018-03-28 08:26:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-03-29 16:03:00,2018-03-29 16:04:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-04-02 11:01:00,2018-04-02 11:02:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-04-03 07:08:00,2018-04-03 07:26:00,18,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-04-03 07:30:00,2018-04-03 07:46:00,16,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-04-03 08:38:00,2018-04-03 08:54:00,16,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-04-04 04:15:00,2018-04-04 04:28:00,13,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-04-04 13:41:00,2018-04-04 13:43:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-04-30 22:40:00,2018-04-30 22:47:00,7,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-05-02 12:53:00,2018-05-02 12:55:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-05-02 16:33:00,2018-05-02 16:42:00,9,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-05-03 16:43:00,2018-05-03 16:49:00,6,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-05-05 12:22:00,2018-05-05 12:23:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-05-09 15:44:00,2018-05-09 15:45:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-05-09 15:49:00,2018-05-09 15:56:00,7,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-05-14 12:40:00,2018-05-14 12:43:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-05-17 20:17:00,2018-05-17 20:22:00,5,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-05-23 03:30:00,2018-05-23 03:39:00,9,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-06-02 16:22:00,2019-03-05 15:20:00,99999,Retirement Service Center,Widespread,IS Service Desk
+RSC - Benefit Plan Report,2018-06-15 23:56:00,2018-06-16 00:02:00,6,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-06-17 23:20:00,2019-03-05 15:20:38,99999,Retirement Service Center,Widespread,IS Service Desk
+RSC - Benefit Plan Report,2018-06-21 07:24:00,2018-06-21 07:34:00,10,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-06-21 21:57:00,2019-03-05 15:25:42,99999,Retirement Service Center,Widespread,IS Service Desk
+RSC - Benefit Plan Report,2018-06-22 22:38:00,2018-06-22 22:48:00,10,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-07-02 20:39:00,2019-03-05 15:34:15,99999,Retirement Service Center,Widespread,IS Service Desk
+RSC - Benefit Plan Report,2018-07-03 16:39:00,2019-03-05 15:35:07,99999,Retirement Service Center,Widespread,IS Service Desk
+RSC - Benefit Plan Report,2018-07-03 20:35:00,2018-07-03 20:36:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-07-03 20:43:00,2018-07-03 20:45:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-07-09 12:50:00,2018-07-09 12:51:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-07-12 05:06:00,2018-07-12 05:24:00,18,Retirement Service Center,Widespread,RIS Participant
+RSC - Benefit Plan Report,2018-07-12 11:13:00,2018-07-12 11:18:00,5,Retirement Service Center,Widespread,RIS Participant
+RSC - Contributions Summary,2018-02-14 13:36:00,2018-02-14 13:50:00,14,Retirement Service Center,Widespread,RIS Participant
+RSC - Contributions Summary,2018-03-16 09:22:00,2018-03-16 09:54:00,32,Retirement Service Center,Widespread,RIS Participant
+RSC - Contributions Summary,2018-03-25 22:49:00,2018-03-25 22:51:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Contributions Summary,2018-03-29 16:04:00,2018-03-29 16:05:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Contributions Summary,2018-04-03 08:37:00,2018-04-03 08:53:00,16,Retirement Service Center,Widespread,RIS Participant
+RSC - Contributions Summary,2018-04-13 16:16:00,2018-04-13 16:18:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Contributions Summary,2018-05-26 04:04:00,2018-05-26 04:06:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-02-14 13:35:00,2018-02-14 13:49:00,14,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-03-03 14:46:00,2018-03-03 14:54:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-03-10 11:18:00,2018-03-10 11:20:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-03-16 09:23:00,2018-03-16 09:51:00,28,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-03-18 22:49:00,2018-03-18 22:53:00,4,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-03-18 23:09:00,2018-03-18 23:10:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-03-29 10:51:00,2018-03-29 10:55:00,4,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-04-02 11:08:00,2018-04-02 11:15:00,7,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-04-03 08:37:00,2018-04-03 08:50:00,13,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-04-06 21:22:00,2018-04-06 21:23:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-05-09 23:33:00,2018-05-09 23:35:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-05-27 22:52:00,2018-05-27 22:53:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-05-27 22:58:00,2018-05-27 22:59:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-06-21 07:24:00,2018-06-21 07:27:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-06-21 07:34:00,2018-06-21 07:38:00,4,Retirement Service Center,Widespread,RIS Participant
+RSC - Investments Monthly Performance,2018-06-21 21:58:00,2019-03-05 15:27:14,99999,Retirement Service Center,Widespread,IS Service Desk
+RSC - Personalized Rate of Return,2018-03-03 14:47:00,2018-03-03 14:55:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC - Retirement Planner,2018-02-07 03:59:00,2018-02-07 04:07:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC - Retirement Planner,2018-03-16 09:28:00,2018-03-16 09:47:00,19,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-06 12:51:00,2018-02-06 13:01:00,10,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-06 12:54:00,2018-02-06 13:30:00,36,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-06 12:55:00,2018-02-06 13:03:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-06 13:02:00,2018-02-06 13:14:00,12,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-14 13:35:00,2018-02-14 13:43:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-14 13:36:00,2018-02-14 13:50:00,14,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-14 13:37:00,2018-02-14 13:38:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-14 13:53:00,2018-02-14 13:58:00,5,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-14 13:57:00,2018-02-14 13:58:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-21 18:43:00,2018-02-21 18:54:00,11,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-02-24 19:19:00,2018-02-24 19:21:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-01 17:25:00,2018-03-01 17:27:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-03 14:45:00,2018-03-03 14:52:00,7,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-03 14:48:00,2018-03-03 14:54:00,6,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-03 15:07:00,2018-03-03 15:09:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-05 09:42:00,2018-03-05 09:44:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-05 09:43:00,2018-03-05 09:45:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-05 09:47:00,2018-03-05 09:48:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 09:20:00,2018-03-09 09:21:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 09:27:00,2018-03-09 09:28:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 10:03:00,2018-03-09 10:04:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 10:11:00,2018-03-09 10:19:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 10:12:00,2018-03-09 10:20:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 10:13:00,2018-03-09 10:16:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 10:28:00,2018-03-09 10:32:00,4,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 10:29:00,2018-03-09 10:38:00,9,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 10:30:00,2018-03-09 10:34:00,4,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 10:36:00,2018-03-09 10:38:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 10:38:00,2018-03-09 10:46:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 10:39:00,2018-03-09 10:42:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-09 11:13:00,2018-03-09 11:23:00,10,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-12 17:34:00,2018-03-12 17:35:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-16 09:21:00,2018-03-16 09:25:00,4,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-16 09:22:00,2018-03-16 09:54:00,32,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-16 09:59:00,2018-03-16 10:06:00,7,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-16 10:03:00,2018-03-16 10:10:00,7,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-24 03:32:00,2018-03-24 03:35:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-24 05:19:00,2018-03-24 05:21:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-24 18:30:00,2018-03-24 18:32:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-24 19:19:00,2018-03-24 19:29:00,10,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-25 11:46:00,2018-03-25 11:48:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-25 11:55:00,2018-03-25 11:57:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-25 20:13:00,2018-03-25 20:15:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-26 09:10:00,2018-03-26 09:25:00,15,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-26 09:30:00,2018-03-26 09:31:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-26 10:11:00,2018-03-26 10:12:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-26 10:30:00,2018-03-26 10:32:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-26 10:36:00,2018-03-26 10:38:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-26 10:48:00,2018-03-26 10:51:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-26 10:55:00,2018-03-26 11:07:00,12,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-26 12:06:00,2018-03-26 15:21:00,195,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-26 15:26:00,2018-03-26 15:30:00,4,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-27 08:46:00,2018-03-27 09:13:00,27,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-27 08:52:00,2018-03-27 09:07:00,15,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-27 09:51:00,2018-03-27 09:53:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-27 09:53:00,2018-03-27 09:58:00,5,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-30 07:21:00,2018-03-30 07:47:00,26,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-03-30 07:23:00,2018-03-30 07:24:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-04-02 10:57:00,2018-04-02 10:58:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-04-02 11:07:00,2018-04-02 11:14:00,7,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-04-02 11:09:00,2018-04-02 11:10:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-04-03 07:12:00,2018-04-03 07:21:00,9,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-04-03 07:40:00,2018-04-03 07:42:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-04-03 08:42:00,2018-04-03 08:50:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-04-03 09:39:00,2018-04-03 09:47:00,8,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-04-03 09:54:00,2018-04-03 10:00:00,6,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-04-03 10:08:00,2018-04-03 10:09:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-04-03 15:29:00,2018-04-03 15:30:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-01 12:14:00,2018-05-01 12:17:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-03 16:03:00,2018-05-03 16:06:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-09 09:01:00,2018-05-09 09:12:00,11,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-09 09:02:00,2018-05-09 09:13:00,11,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-09 15:41:00,2018-05-09 15:58:00,17,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-15 18:26:00,2018-05-15 18:28:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-21 10:55:00,2018-05-21 10:56:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-21 11:01:00,2018-05-21 11:02:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-21 12:11:00,2018-05-21 12:13:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-21 13:36:00,2018-05-21 13:38:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-21 13:48:00,2018-05-21 13:54:00,6,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-21 14:52:00,2018-05-21 14:55:00,3,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-22 09:49:00,2018-05-22 09:50:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-22 13:49:00,2018-05-22 13:51:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-05-22 14:05:00,2018-05-22 14:07:00,2,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-06-12 15:40:00,2018-06-12 15:41:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-07-02 11:08:00,2018-07-02 11:12:00,4,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-07-09 12:14:00,2018-07-09 12:15:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-07-09 12:34:00,2018-07-09 12:35:00,1,Retirement Service Center,Widespread,RIS Participant
+RSC Investment Transfers,2018-07-09 16:12:00,2018-07-09 16:17:00,5,Retirement Service Center,Widespread,RIS Participant
+RSC/ Mobile App,2019-08-31 11:40:00,2019-08-31 19:17:00,457,Infrastructure,Widespread,IS Network Data
+Sales Management System,2019-03-22 00:00:00,2019-03-25 08:30:00,4830,Application Support,Large,IT Incident Managers
+Sales Management System,2019-04-29 09:00:23,2019-04-29 16:20:00,440,Application Support,Widespread,IT Incident Managers
+Salesforce - RIS instance,2019-04-01 11:15:37,1900-01-01 00:00:00,0,Generic,Widespread,RIS Shared Svcs DevOps
+Salesforce - RIS instance,2019-04-05 13:26:00,2019-04-05 02:03:00,683,Generic,Widespread,IT Incident Managers
+Salesforce - RIS instance,2019-10-21 11:00:00,2019-10-21 15:00:00,240,Recordkeeping Systems,Widespread,RIS Shared Services
+Salesforce AES Cloud Connector,2019-07-12 12:28:00,2019-07-12 14:45:00,137,Application Support,Large,IT Incident Managers
+Salesforce PI Mexico Org,2019-09-05 08:30:00,2019-09-05 09:55:00,85,Application Support,Widespread,IS Network Data
+Salesforce US CRM Org,2019-04-22 14:00:00,2019-04-23 14:30:00,1470,Generic,Widespread,IT Incident Managers
+Salesforce US CRM Org,2019-10-21 13:08:59,2019-10-21 14:00:00,51,Contact Center Infrastructure,Large,EDA Salesforce
+Scala,2019-04-01 00:00:00,2019-04-02 08:50:00,1970,Digital Signage,Widespread,IS Service Desk Workspace
+Scala,2019-10-15 04:00:00,2019-10-15 18:00:00,840,Digital Signage,Widespread,IS Workspace Communication and Collaboration
+Securities of Interest Processing System,2018-12-03 16:03:00,2018-12-03 18:02:00,119,Generic,Widespread,PGI Investment Operations
+Short Term Trading System,2019-04-22 08:30:00,2019-04-22 09:15:00,45,Order and Execution Systems,Widespread,PGI ITSM
+SkyGen TES (The Enterprise System),2019-06-18 12:22:00,2019-06-18 13:52:00,90,Application Support,Widespread,IT Incident Managers
+SkyGen TES (The Enterprise System),2019-08-02 08:09:00,2019-08-02 15:00:00,411,Application Support,Widespread,IT Incident Managers
+SkyGen TES (The Enterprise System),2019-10-17 09:36:00,2019-10-25 13:35:00,11759,Application Support,Widespread,IT Incident Managers
+SMS Producer Statements - WSRS and Group Benefits,2019-08-12 07:00:00,2019-08-12 15:50:00,530,Application Support,Widespread,USIS MKTR SVCS IT Disbursement
+SOA Software Service Manager,2019-05-28 06:56:00,2019-05-28 07:57:00,61,Retirement Service Center,Widespread,RIS Shared Services
+SOA Software Service Manager,2019-05-28 06:56:00,2019-05-28 07:57:53,62,API Management,Widespread,IS APS - Application Hosting
+Sonus Session Border Controller (SBC),2018-12-03 10:57:00,2018-12-03 12:10:00,73,Voice Infrastructure,Widespread,IS Workspace Communication and Collaboration
+Sonus Session Border Controller (SBC),2018-12-10 14:47:13,2018-12-10 15:47:00,60,Desk Phones,Large,IS Workspace Communication and Collaboration
+Sonus Session Border Controller (SBC),2018-12-10 14:48:57,2018-12-10 15:47:00,58,Toll Free or Call Routing,Widespread,IS Workspace Communication and Collaboration
+Sponsor Service Center,2018-02-14 13:43:00,2018-02-14 13:49:00,6,SponsorSite,Widespread,RIS PSTPA
+Sponsor Service Center,2018-03-16 09:29:00,2018-03-16 09:56:00,27,SponsorSite,Widespread,RIS PSTPA
+Sponsor Service Center,2018-10-28 00:36:00,2018-10-30 04:51:00,3135,Distribution Systems,Large,PGI IT Support Services
+Sponsor Service Center,2019-04-05 13:15:00,2019-04-05 14:05:00,50,Generic,Widespread,IT Incident Managers
+Sponsor Service Center,2019-06-11 13:28:00,2019-06-11 14:11:00,43,SponsorSite,Widespread,IS Problem Management Team
+Sponsor Service Center,2019-07-02 09:30:00,2019-07-02 16:00:00,390,Financial Systems,Widespread,RIS Shared Services
+Sponsor Service Center,2019-07-09 06:06:00,2019-07-09 07:00:00,54,Financial Systems,Widespread,RIS Shared Services
+Sponsor Service Center,2019-07-11 10:00:00,2019-07-11 11:15:00,75,Financial Systems,Widespread,RIS Shared Services
+Sponsor Service Center,2019-07-15 14:00:00,2019-07-15 16:10:00,130,Financial Systems,Widespread,RIS Shared Services
+Sponsor Service Center,2019-07-27 02:47:00,2019-07-27 07:53:00,306,Financial Systems,Widespread,RIS Shared Services
+Sponsor Service Center,2019-08-01 22:14:00,2019-08-01 22:22:00,8,Financial Systems,Widespread,RIS Shared Services
+Sponsor Service Center,2019-08-30 12:16:00,2019-08-30 12:38:00,22,SponsorSite,Widespread,RIS Shared Services
+Sponsor Service Center,2019-09-03 11:05:00,2019-09-03 12:15:00,70,Generic,Widespread,RIS Shared Services
+Sponsor Service Center,2019-09-04 10:30:00,2019-09-04 11:03:00,33,Generic,Widespread,RIS Shared Services
+Sponsor Service Center,2019-09-05 08:22:00,2019-09-05 11:30:00,188,Generic,Widespread,RIS Shared Services
+Sponsor Service Center,2019-09-19 07:05:00,2019-09-19 11:42:00,277,Generic,Widespread,RIS Shared Services
+Sponsor Service Center,2019-09-19 08:01:00,2019-09-19 11:42:00,221,Application Support,Widespread,IT Incident Managers
+Sponsor Service Center,2019-09-27 06:00:00,2019-09-27 09:00:00,180,Financial Systems,Large,RIS Shared Services
+Sponsor Service Center,2019-10-21 09:05:00,2019-10-21 09:40:00,35,Financial Systems,Widespread,RIS Shared Services
+Sponsor Service Center,2019-10-21 11:10:00,2019-10-21 15:00:00,230,Financial Systems,Widespread,RIS Shared Services
+SSC Payroll - Employee Information Web App,2018-05-03 14:33:00,2018-05-03 14:48:00,15,SponsorSite,Widespread,RIS PSTPA
+SSC Payroll - Employee Information Web App,2018-05-22 09:25:00,2018-05-22 09:26:00,1,SponsorSite,Widespread,RIS PSTPA
+SSC Payroll - Employee Information Web App,2018-05-22 09:33:00,2018-05-22 09:35:00,2,SponsorSite,Widespread,RIS PSTPA
+SSC Payroll - Employee Information Web App,2018-06-11 13:58:00,2018-06-11 14:01:00,3,SponsorSite,Widespread,RIS PSTPA
+SSC Payroll - Employee Information Web App,2018-06-17 23:22:00,2018-06-17 23:30:00,8,SponsorSite,Widespread,RIS PSTPA
+SSC Payroll - Employee Information Web App,2018-06-30 05:59:00,2018-06-30 06:08:00,9,SponsorSite,Widespread,RIS PSTPA
+SSC Payroll - Employee Information Web App,2018-06-30 06:21:00,2018-06-30 06:23:00,2,SponsorSite,Widespread,RIS PSTPA
+SSC Payroll - Employee Information Web App,2018-06-30 07:04:00,2019-03-05 15:28:44,99999,SponsorSite,Widespread,IS Service Desk
+SSC Payroll - Employee Information Web App,2018-06-30 07:23:00,2018-06-30 07:54:00,31,SponsorSite,Widespread,RIS PSTPA
+SSIS Export Utility,2019-07-23 13:00:00,2019-07-23 14:30:00,90,Infrastructure,Large,PGI IT Infrastructure
+Statements App (CORPRET),2019-07-11 16:00:00,2019-07-12 10:00:00,1080,Application Support,Widespread,IT Incident Managers
+Statements App (CORPRET),2019-07-12 10:28:00,2019-07-12 13:32:00,184,Application Support,Large,IT Incident Managers
+Summit,2019-07-02 08:10:00,2019-07-02 09:40:00,90,Accounting Systems,Large,PGI Gen Account Finance
+SVSCL02A,2019-12-12 06:40:00,1900-01-01 00:00:00,0,Application Support,Widespread,PI CL IT Infrastructure Services
+Sylvan,2019-01-07 07:00:00,2019-01-08 13:50:00,1850,Performance Systems,Large,PGI Investment Operations
+Sylvan,2019-02-13 08:00:00,2019-02-14 09:00:00,1500,Performance Systems,Widespread,PGI Investment Operations
+Sylvan,2019-06-04 07:00:00,2019-06-04 13:42:00,402,Performance Systems,Widespread,PGI Investment Operations
+Symantec Endpoint Protection,2019-08-14 13:40:35,2019-08-14 13:45:20,5,Desktop Security,Widespread,IS Workspace Endpoint
+SYSTEM1,2018-03-16 09:16:00,2018-03-16 10:10:00,54,Mainframe Subsystem,Widespread,IS MF zOS
+TAS - Batch (Mainframe),2019-05-30 11:30:00,2019-05-30 16:00:00,270,Treasury Operations,Widespread,CSS Finance IT
+TAS - Batch (Mainframe),2019-06-07 10:30:00,2019-06-07 14:37:00,247,Treasury Operations,Widespread,IT Incident Managers
+TAS - Batch (Mainframe),2019-06-27 10:30:00,2019-06-27 15:33:00,303,Generic,Widespread,IS Problem Management Team
+TAS - Batch (Mainframe),2019-09-23 07:30:00,2019-09-23 10:50:00,200,Treasury Operations,Large,CSS Finance IT
+TAS - Batch (Mainframe),2019-09-23 07:50:15,2019-09-23 13:08:01,318,Treasury Operations,Widespread,CSS Finance IT
+TAS Administration - Web,2019-04-01 11:19:24,2019-04-01 17:08:00,349,Treasury Operations,Widespread,IT Incident Managers
+TAS Cash Transactions - Services,2019-02-07 09:00:00,2019-02-07 14:00:00,300,Treasury Operations,Widespread,CSS Finance IT
+TAS Cash Transactions - Services,2019-05-31 09:00:00,2019-05-31 16:21:00,441,Treasury Operations,Large,CSS Finance IT
+TAS Check Print - Batch,2019-10-01 10:51:05,2019-10-01 22:00:00,669,Treasury Operations,Large,CSS Finance IT
+thinkFolio,2019-02-13 02:00:00,2019-02-13 16:00:00,840,Order and Execution Systems,Widespread,PGI Investment Operations
+thinkFolio,2019-04-22 08:17:00,2019-04-22 09:15:00,58,Order and Execution Systems,Large,PGI ITSM
+thinkFolio,2019-06-10 08:52:00,2019-06-10 10:00:00,68,Portfolio Management Systems,Widespread,IT Incident Managers
+thinkFolio,2019-07-22 03:35:00,2019-07-22 10:17:00,402,Order and Execution Systems,Widespread,PGI ITSM
+thinkFolio,2019-08-28 07:00:00,2019-08-28 09:17:00,137,Portfolio Management Systems,Widespread,PGI ITSM
+thinkFolio,2019-08-30 09:00:00,2019-08-30 09:45:00,45,Order and Execution Systems,Widespread,PGI IT Trading
+thinkFolio,2019-10-01 09:30:00,2019-10-01 15:09:00,339,Portfolio Management Systems,Large,PGI IT Trading
+thinkFolio,2019-10-01 17:00:00,2019-10-01 18:20:00,80,Order and Execution Systems,Widespread,PGI IT Trading
+thinkFolio,2019-10-16 09:51:00,2019-10-16 11:45:00,114,Portfolio Management Systems,Widespread,IT Incident Managers
+thinkFolio,2019-11-11 09:30:00,2019-11-11 10:16:00,46,Portfolio Management Systems,Widespread,IS IOC
+thinkFolio,2019-12-11 09:20:00,2019-12-11 10:03:00,43,Analytics and Risk Systems,Large,PGI ITSM
+Trade Platform,2019-08-07 05:05:00,2019-08-07 08:45:00,220,Application Support,Widespread,USIS Group Benefits
+Trade Platform,2019-10-03 03:28:00,2019-10-03 09:35:00,367,Application Support,Widespread,IT Incident Managers
+Trading Files Cobol Batch App,2019-09-27 06:00:00,2019-09-27 09:00:00,180,Financial Systems,Large,RIS Shared Services
+Trading Files Cobol Batch App,2019-10-02 02:00:00,2019-10-03 09:30:00,1890,Generic,Widespread,RIS Shared Services
+TSLGEN01,2018-12-07 11:51:00,2018-12-07 12:02:00,11,MQ,Widespread,IS MF App Hosting and Dist MQ
+UA1059,2018-06-13 17:21:00,2018-06-13 20:22:00,181,BPM,Widespread,IS Dist App Hosting Adv
+UA1059,2018-11-09 21:00:00,2018-11-10 05:00:00,480,Linux/Unix,Large,IS Server Midrange
+UA1321,2018-04-27 21:06:37,2018-04-27 21:53:00,46,Content Management,Widespread,IS Content Management
+UA1321,2018-06-25 08:12:00,2018-06-25 08:19:00,7,Content Management,Widespread,IS Content Management
+UA1321,2018-08-05 00:38:35,2018-08-05 00:38:50,0,Content Management,Widespread,IS Content Management
+UA1321,2018-11-09 22:52:00,2018-11-10 11:23:00,751,Content Management,Widespread,IS Content Management
+UA1769,2018-06-30 00:16:00,2018-06-30 09:01:00,525,BPM,Large,IS Dist App Hosting Adv
+UA1769,2019-01-05 01:16:00,2019-01-05 02:46:00,90,BPM,Large,IS Dist App Hosting Adv
+UA236,2018-11-09 22:52:00,2018-11-10 11:23:00,751,Linux/Unix,Widespread,IS Server Midrange
+UA2773,2018-02-22 11:53:00,2018-02-22 19:43:00,470,Tooling,Large,IS ADS Scheduling Infrastructure
+UA622,2018-02-14 13:30:00,2018-02-14 13:48:00,18,Content Management,Widespread,IS Content Management
+UA624,2018-03-03 14:43:00,2018-03-03 14:49:00,6,Content Management,Widespread,IS Content Management
+UA624,2018-05-21 00:10:00,2018-05-21 00:18:00,8,Content Management,Large,IS Content Management
+UA626,2018-07-17 22:36:00,2018-07-17 22:42:29,6,Content Management,Large,IS Content Management
+UA626,2018-08-12 05:01:31,2018-08-12 08:47:00,225,Content Management,Widespread,IS Content Management
+UA630,2018-06-22 21:27:34,2018-06-22 22:55:00,87,Content Management,Widespread,IS Content Management
+UA630,2018-08-18 00:08:00,2018-08-18 00:28:00,20,Content Management,Large,IS Content Management
+UA630,2019-03-27 00:05:00,2019-03-27 01:15:00,70,Content Management,Widespread,IS Content Management
+UL1418,2018-12-06 09:09:00,2018-12-06 10:08:00,59,Data Movement/Transformation (ETL),Widespread,IS Data Integration
+UL1918,2019-03-31 16:42:03,2019-04-02 08:44:00,2402,Data Movement/Transformation (ETL),Widespread,IS Data Integration
+UL1936,2018-10-08 23:54:00,2018-10-08 23:57:00,3,Linux/Unix,Large,IS Server Midrange
+UL2100,2018-06-20 04:05:00,2018-06-20 10:57:00,412,Code Build Test,Large,IS Server Intel
+UL2166,2018-12-22 03:13:00,2018-12-22 03:45:00,32,Shared WebSphere,Large,IS Dist App Hosting Standard
+UL2166,2019-02-16 05:48:00,2019-02-16 06:04:00,16,Shared WebSphere,Widespread,IS Dist App Hosting Standard
+UL2283,2018-04-24 12:34:00,2018-04-24 14:00:00,86,Shared WebSphere,Widespread,IS Dist App Hosting Adv
+UL2299,2018-10-08 09:50:00,2018-10-08 10:29:00,39,Shared WebSphere,Widespread,IS Dist App Hosting Standard
+UL2302,2019-02-09 20:26:00,2019-02-09 20:43:00,17,Java Application Server,Widespread,IS Dist App Hosting Standard
+UL2719,2019-08-31 03:03:00,2019-09-01 09:33:00,1830,Linux/Unix,Widespread,IS Server Midrange
+UL2748,2019-09-01 01:47:00,2019-09-01 13:30:00,703,Application Development and Support,Widespread,IS Network Data
+UL2806,2018-06-26 01:40:00,2018-06-26 05:35:00,235,Linux/Unix,Large,IS Server Midrange
+UL2808,2018-08-04 19:51:00,2018-08-04 20:20:00,29,Java Application Server,Widespread,IS Dist App Hosting Standard
+UL2808,2018-09-14 15:39:00,2018-09-14 16:20:00,41,Shared WebSphere,Large,IS Dist App Hosting Adv
+UL2808,2019-04-06 23:24:00,2019-04-07 00:17:00,53,Java Application Server,Widespread,IS Dist App Hosting Standard
+UL2818,2019-01-13 10:30:00,2019-01-13 13:00:00,150,Linux/Unix,Large,IS Server Midrange
+UL3000,2018-09-12 09:30:00,2018-09-12 10:20:00,50,Authentication & Authorization,Widespread,IS ISR Access Mgmt
+UL3051,2018-10-16 08:22:00,2018-10-16 08:28:15,6,Document Order Fulfillment,Widespread,CSS Ent Docs IT
+UL3051,2018-10-16 08:32:00,2018-10-16 08:37:55,6,Document Order Fulfillment,Widespread,CSS Ent Docs IT
+UL3068,2019-03-31 09:10:00,2019-04-01 21:36:00,2186,Shared WebSphere,Large,IS Dist App Hosting Standard
+UL3107,2018-12-10 09:00:00,2018-12-10 09:35:00,35,Conference Technologies,Widespread,IS Workspace Communication and Collaboration
+UL3300,2018-04-12 06:26:01,2018-04-12 09:30:00,184,API Management,Widespread,IS Dist App Hosting Standard
+UL3312,2019-01-13 12:19:00,2019-01-13 13:29:00,70,Shared WebSphere,Widespread,IS Dist App Hosting Standard
+UL3313,2018-03-13 07:18:36,2018-03-13 07:18:58,0,Dist App Hosting Standard,Widespread,IS Dist App Hosting Standard
+UL3319,2018-03-18 08:59:00,2018-03-18 09:30:00,31,Dist App Hosting Standard,Widespread,IS Dist App Hosting Adv
+UL3390,2018-09-30 04:13:00,2018-09-30 10:09:00,356,Linux/Unix,Large,IS Server Midrange
+UL3630,2019-09-23 09:28:00,2019-09-23 10:18:00,50,Liberty,Widespread,IS APS - Application Hosting
+UL3798,2018-08-02 07:30:00,2018-08-09 23:00:00,11010,Distributed Database,Large,IS Distributed Database
+UL3977,2018-08-03 15:46:00,2018-08-03 16:49:00,63,Enterprise Service Bus,Large,IS Dist App Hosting Adv
+UL4062,2018-02-23 11:12:00,2018-02-23 12:25:00,73,Tooling,Widespread,IS ADS Distributed Infrastructure
+UL4124,2018-06-10 02:00:00,2018-06-10 07:15:00,315,BPM,Widespread,IS Dist App Hosting Standard
+Unity,2018-09-21 17:30:00,2018-09-21 20:59:00,209,Distribution Systems,Widespread,PGI IT Support Services
+Unity,2019-07-30 07:32:00,2019-07-31 12:30:00,1738,Distribution Systems,Widespread,PGI ITSM
+Virtual Supply,2019-04-01 09:55:15,2019-04-01 17:09:00,434,Generic,Widespread,IT Incident Managers
+WAN Chile LAN/WAN,2019-05-06 09:03:00,2019-05-06 09:10:00,7,Data Connectivity,Widespread,IS Network Data
+WAN MPLS Service,2019-06-17 06:43:00,2019-06-17 08:51:00,128,Data Connectivity,Widespread,IS IOC
+WAN MPLS Service,2019-10-21 15:45:00,2019-10-21 17:45:00,120,Data Connectivity,Widespread,IS Network Data
+WAN Point-To-Point Service,2019-06-12 10:15:00,2019-06-12 10:50:00,35,Application Support,Widespread,IS Network Data
+WAN VPN Service,2019-08-31 03:30:00,2019-08-31 14:25:00,655,Data Connectivity,Widespread,IS Network Data
+WAN VPN Service,2019-11-03 21:00:00,2019-11-03 22:02:00,62,Infrastructure,Large,IS IOC
+Wings,2018-06-26 13:44:54,2018-06-26 13:58:00,13,Accounting Management,Widespread,CSS Finance IT
+Xchange DP Profile Batch Build,2019-09-10 10:00:00,2019-09-10 11:16:00,76,Application Support,Widespread,USIS MKTR SVCS IT Data
+Xchange Enterprise Solution,2018-07-25 12:30:00,2018-07-25 16:00:00,210,Application Support,Widespread,Availability Management Team
+Xchange Enterprise Solution,2018-09-26 08:00:00,2018-09-26 14:09:00,369,Application Support,Large,IT Incident Managers
+Xchange Enterprise Solution,2018-09-29 08:00:00,2018-09-30 23:59:00,2399,Application Support,Large,IT Incident Managers
+Xchange Enterprise Solution,2018-12-31 08:00:00,2018-12-31 12:51:00,291,Application Support,Widespread,IT Incident Managers
+Xchange Enterprise Solution,2019-04-29 13:58:52,2019-04-29 16:32:00,153,Application Support,Widespread,IT Incident Managers
+xMatters-Employee Notification System,2018-08-20 18:50:00,2018-08-20 18:56:00,6,Corporate Notification Systems,Widespread,IS Portfolio and Software Support
+xMatters-Employee Notification System,2018-12-17 14:45:00,2018-12-17 14:47:51,3,Corporate Notification Systems,Widespread,IS Portfolio and Software Support
+xMatters-Employee Notification System,2019-04-06 22:22:00,2019-04-09 16:00:00,3938,Corporate Notification Systems,Widespread,IS Portfolio and Software Support
+xMatters-Employee Notification System,2019-10-16 20:35:00,2019-10-16 23:24:00,169,Corporate Notification Systems,Widespread,IS Portfolio and Software Support
+xMatters-System Event Notification,2018-12-17 14:42:00,2018-12-17 14:47:01,5,Corporate Notification Systems,Large,IS Portfolio and Software Support
+xMatters-System Event Notification,2019-11-01 10:02:00,2019-11-01 10:03:29,1,Corporate Notification Systems,Large,IS Portfolio and Software Support
+xMatters-System Event Notification,2019-11-07 08:34:00,2019-11-07 08:37:16,3,Corporate Notification Systems,Large,IS Portfolio and Software Support
+xMatters-System Event Notification,2019-11-07 08:34:00,2019-11-07 09:13:00,39,Corporate Notification Systems,Large,IS Portfolio and Software Support
+xMatters-System Event Notification,2019-11-07 08:45:00,2019-11-07 08:48:16,3,Corporate Notification Systems,Large,IS Portfolio and Software Support
+xMatters-System Event Notification,2019-11-07 08:53:00,2019-11-07 08:55:16,2,Corporate Notification Systems,Large,IS Portfolio and Software Support
+XSP Corporate Actions,2018-09-05 23:00:00,2018-09-06 05:00:00,360,Corporate Actions Systems,Large,PGI IT Support Services
+XSP Corporate Actions,2019-03-15 12:34:00,2019-03-16 10:30:00,1316,Corporate Actions Systems,Large,PGI Investment Operations
+XSP Corporate Actions,2019-05-02 04:00:00,2019-05-02 06:51:00,171,Corporate Actions Systems,Widespread,PGI ITSM
+XSP Corporate Actions,2019-06-05 14:30:00,2019-06-05 15:15:00,45,Corporate Actions Systems,Large,PGI Investment Operations
+XSP Corporate Actions,2019-07-30 12:55:37,2019-07-31 06:30:00,1054,Corporate Actions Systems,Widespread,PGI ITSM
+XSP Corporate Actions,2019-10-01 09:00:00,2019-10-01 14:00:00,300,Corporate Actions Systems,Widespread,PGI IT Accounting and Recon
+XSP Corporate Actions,2019-10-03 08:40:00,2019-10-03 16:03:00,443,Corporate Actions Systems,Widespread,PGI ITSM
+XSP Corporate Actions,2019-11-20 11:38:00,2019-11-20 15:00:00,202,Corporate Actions Systems,Widespread,PGI IT Accounting and Recon
+Xtiva,2019-01-28 10:00:00,2019-01-28 13:10:00,190,Application Support,Widespread,IT Incident Managers
+Xtiva,2019-03-01 15:13:00,2019-03-01 19:20:00,247,Application Support,Large,IT Incident Managers
+Xtiva,2019-11-23 18:00:00,2019-11-27 13:17:00,5477,Application Support,Large,USIS MKTR SVCS IT Wholesaler
+Yardi Voyager,2019-01-30 09:35:00,2019-01-30 11:39:00,124,Equity Systems,Large,PGI ITSM
+Yield Book,2019-04-01 12:02:00,2019-04-01 17:06:00,304,Analytics and Risk Systems,Large,PGI ITSM
+Zix Secure Email,2019-05-10 11:50:56,2019-05-10 14:33:00,162,Filtering/Blocking,Widespread,IS Workspace Communication and Collaboration
