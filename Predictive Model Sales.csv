@@ -1,1253 +1,1516 @@
 ﻿Sale Zip,Name of city/org,Full name of state/territory,Number of Acres,Soil Rating,Property Outline,Elevation Grade,Final PPA
-32560,Gonzalez,Florida,1484,F,1,A,5662
-32572,Milton,Florida,100,B,3,D,6864
-35007,Alabaster,Alabama,412,C,2,A,8047
-35021,Bessemer,Alabama,329,D,2,C,4090
-35032,Bon Air,Alabama,1564,F,4,A,7780
-35042,Centreville,Alabama,206,D,1,F,3035
-35080,Helena,Alabama,1744,D,4,F,4186
-35111,McCalla,Alabama,1010,A,1,B,8179
-35111,McCalla,Alabama,1641,D,5,F,4951
-35119,New Castle,Alabama,66,B,2,B,7159
-35181,Watson,Alabama,1624,D,2,A,4365
-35259,Birmingham,Alabama,231,C,2,C,4693
-35282,Birmingham,Alabama,239,F,1,D,2977
-35296,Birmingham,Alabama,1507,B,2,A,7531
-35401,Tuscaloosa,Alabama,525,C,5,A,9721
-35466,Gordo,Alabama,238,F,1,A,5492
-35491,West Greene,Alabama,827,B,4,F,7946
-35555,Fayette,Alabama,1988,C,3,C,5248
-35563,Guin,Alabama,737,D,2,C,3862
-35564,Hackleburg,Alabama,1225,C,4,B,9390
-35632,Florence,Alabama,549,A,2,D,5950
-35748,Gurley,Alabama,1356,F,3,B,5317
-35749,Harvest,Alabama,372,A,4,A,13105
-35759,Meridianville,Alabama,1517,D,4,D,5497
-35762,Normal,Alabama,109,F,3,D,4594
-35774,Trenton,Alabama,1269,A,5,A,13124
-35804,Huntsville,Alabama,446,D,4,B,6687
-35808,Huntsville,Alabama,128,C,2,A,5734
-35815,Huntsville,Alabama,1369,C,1,F,4996
-35907,Gadsden,Alabama,532,D,5,C,5649
-35963,Dawson,Alabama,96,C,4,D,6937
-36003,Autaugaville,Alabama,1969,B,3,D,7059
-36005,Banks,Alabama,636,F,2,A,5280
-36009,Brantley,Alabama,392,B,2,C,6941
-36036,Grady,Alabama,1520,C,5,D,6522
-36040,Hayneville,Alabama,12,A,1,F,6339
-36046,Lapine,Alabama,346,C,2,A,5863
-36047,Letohatchee,Alabama,167,C,4,D,6514
-36052,Mathews,Alabama,573,C,2,F,4771
-36053,Midway,Alabama,1699,B,3,B,8780
-36089,Union Springs,Alabama,567,A,4,A,13580
-36119,Montgomery,Alabama,441,B,4,B,9375
-36121,Montgomery,Alabama,1833,A,2,F,7162
-36123,Montgomery,Alabama,114,F,4,A,7577
-36202,Anniston,Alabama,707,D,3,A,6663
-36250,Alexandria,Alabama,1380,B,1,B,8114
-36253,Bynum,Alabama,1891,F,2,F,3520
-36264,Heflin,Alabama,1312,D,2,D,3674
-36319,Columbia,Alabama,1802,B,4,D,7938
-36322,Daleville,Alabama,455,F,1,A,4673
-36343,Gordon,Alabama,1395,F,3,F,4238
-36353,Newville,Alabama,1351,A,1,F,5383
-36360,Ozark,Alabama,1778,C,5,B,10269
-36360,Ozark,Alabama,1234,C,4,D,7165
-36432,Castleberry,Alabama,1895,C,4,C,7133
-36435,Coy,Alabama,259,A,3,A,10783
-36458,Mexia,Alabama,882,D,4,C,6683
-36473,Range,Alabama,1146,A,3,A,7824
-36480,Uriah,Alabama,1981,B,2,B,8163
-36504,Atmore,Alabama,1292,F,5,A,5896
-36507,Bay Minette,Alabama,623,C,5,C,7076
-36572,Satsuma,Alabama,1673,F,2,C,3786
-36583,Tibbie,Alabama,937,B,4,B,11088
-36583,Tibbie,Alabama,113,C,2,D,4045
-36583,Tibbie,Alabama,64,D,2,B,4576
-36607,Mobile,Alabama,1131,C,3,A,7826
-36607,Mobile,Alabama,1992,C,2,F,4658
-36613,Eight Mile,Alabama,1169,C,2,F,4778
-36615,Mobile,Alabama,41,B,2,F,5626
-36619,Mobile,Alabama,725,F,2,C,4363
-36671,Mobile,Alabama,1978,D,2,A,5458
-36728,Catherine,Alabama,822,D,3,F,3409
-36749,Jones,Alabama,987,D,3,C,5180
-36752,Lowndesboro,Alabama,1370,B,2,B,6875
-36758,Plantersville,Alabama,513,F,1,B,5388
-36776,Sawyerville,Alabama,1898,F,5,F,6276
-36861,Jacksons Gap,Alabama,1329,D,1,D,3747
-36908,Gilbertown,Alabama,1119,F,5,A,7091
-37023,Big Rock,Tennessee,1383,F,3,C,3667
-37042,Clarksville,Tennessee,1108,C,5,B,10081
-37046,College Grove,Tennessee,835,F,2,B,4162
-37058,Dover,Tennessee,542,C,4,B,7911
-37091,Lewisburg,Tennessee,283,F,1,C,4447
-37098,Lyles,Tennessee,553,D,1,F,2965
-37118,Milton,Tennessee,1830,D,1,D,3968
-37136,Norene,Tennessee,695,A,5,B,10136
-37136,Norene,Tennessee,1376,C,3,B,6837
-37166,Smithville,Tennessee,1367,B,2,A,9030
-37188,White House,Tennessee,742,D,3,B,5529
-37327,Dunlap,Tennessee,336,C,5,D,5238
-37348,Kelso,Tennessee,1823,F,1,F,2976
-37352,Lynchburg,Tennessee,1956,D,3,B,4574
-37388,Tullahoma,Tennessee,1305,C,1,A,5803
-38018,Cordova,Tennessee,1126,C,5,F,7409
-38039,Grand Junction,Tennessee,1456,B,4,B,12646
-38049,Mason,Tennessee,1985,A,5,C,9778
-38066,Rossville,Tennessee,640,C,3,D,6539
-38069,Stanton,Tennessee,1109,A,5,F,6378
-38126,Memphis,Tennessee,1486,A,1,A,6871
-38181,Memphis,Tennessee,1483,C,1,C,5646
-38240,Obion,Tennessee,1755,B,5,F,8633
-38251,Puryear,Tennessee,431,F,1,B,4329
-38255,Sharon,Tennessee,802,C,5,C,7717
-38334,Finger,Tennessee,1446,F,5,A,6139
-38336,Fruitvale,Tennessee,1863,C,3,B,8243
-38345,Huron,Tennessee,833,F,3,F,2913
-38366,Pinson,Tennessee,970,C,2,C,6271
-38372,Savannah,Tennessee,1742,F,5,C,6334
-38390,Yuma,Tennessee,77,D,1,B,5179
-38452,Cypress Inn,Tennessee,1815,D,3,B,6686
-38488,Taft,Tennessee,1763,A,5,A,12551
-38544,Baxter,Tennessee,708,A,5,D,7385
-38564,Granville,Tennessee,649,A,2,A,7590
-38574,Monterey,Tennessee,600,B,1,F,5248
-38578,Pleasant Hill,Tennessee,566,F,4,D,6565
-38622,Crowder,Mississippi,1163,B,1,A,9660
-38634,Holly Springs,Mississippi,1090,B,4,F,8374
-38639,Jonestown,Mississippi,858,C,5,F,6960
-38654,Olive Branch,Mississippi,961,C,4,C,8151
-38674,Tiplersville,Mississippi,250,B,3,F,6151
-38686,Walls,Mississippi,1234,C,4,B,11680
-38745,Grace,Mississippi,1894,F,5,C,4862
-38764,Pace,Mississippi,1632,C,2,C,5134
-38776,Stoneville,Mississippi,1029,C,2,A,7239
-38802,Tupelo,Mississippi,1626,D,2,A,3925
-38825,Becker,Mississippi,388,A,4,F,8252
-38834,Corinth,Mississippi,1619,F,3,C,4140
-38848,Greenwood Springs,Mississippi,589,D,4,B,8617
-38856,Marietta,Mississippi,1312,A,4,F,7030
-38857,Mooreville,Mississippi,853,F,2,C,3304
-38864,Randolph,Mississippi,467,F,5,B,7556
-38917,Carrollton,Mississippi,701,D,2,C,3542
-38944,Minter City,Mississippi,1660,D,1,B,5805
-38965,Water Valley,Mississippi,14,D,1,F,3207
-39073,Florence,Mississippi,856,C,2,C,5784
-39087,Hillsboro,Mississippi,1048,F,4,F,5306
-39180,Vicksburg,Mississippi,851,F,5,C,5406
-39201,Jackson,Mississippi,1783,B,3,F,7820
-39201,Jackson,Mississippi,789,C,2,A,6492
-39269,Jackson,Mississippi,728,D,1,A,5727
-39323,Chunky,Mississippi,167,D,5,C,7037
-39335,Lauderdale,Mississippi,355,B,2,A,6994
-39336,Lawrence,Mississippi,1462,B,1,D,5123
-39345,Newton,Mississippi,147,A,5,D,8641
-39363,Stonewall,Mississippi,1902,C,5,B,9105
-39407,Hattiesburg,Mississippi,1916,B,1,D,6040
-39439,Heidelberg,Mississippi,1082,A,2,A,9203
-39463,Nicholson,Mississippi,1004,D,3,F,3584
-39522,Stennis Space Center,Mississippi,48,A,3,D,7823
-39563,Moss Point,Mississippi,1973,D,1,D,3179
-39571,Pass Christian,Mississippi,779,C,4,C,7799
-39576,Waveland,Mississippi,1655,D,1,D,2948
-39602,Brookhaven,Mississippi,1823,F,5,B,8844
-39630,Bude,Mississippi,896,C,4,A,9494
-39663,Silver Creek,Mississippi,325,C,1,F,4527
-39668,Union Church,Mississippi,1486,F,3,A,4947
-39740,Caledonia,Mississippi,432,B,4,A,11048
-39776,Woodland,Mississippi,1536,C,3,A,7923
-40143,Hardinsburg,Kentucky,450,C,2,C,5750
-40178,Westview,Kentucky,608,D,2,D,3677
-42024,Barlow,Kentucky,1624,B,5,B,9792
-42024,Barlow,Kentucky,1509,C,5,C,8688
-42024,Barlow,Kentucky,1114,F,2,D,3724
-42028,Burna,Kentucky,938,B,1,C,6841
-42032,Columbus,Kentucky,1130,D,4,C,5896
-42040,Farmington,Kentucky,1848,A,3,C,8899
-42054,Kirksey,Kentucky,1809,B,2,D,5110
-42058,Ledbetter,Kentucky,1083,C,2,C,6311
-42060,Lovelaceville,Kentucky,1951,F,5,A,7361
-42076,New Concord,Kentucky,682,B,5,C,10956
-42160,Park City,Kentucky,1289,C,1,B,6272
-42164,Scottsville,Kentucky,1841,F,2,C,3286
-42171,Smiths Grove,Kentucky,209,C,3,A,6492
-42171,Smiths Grove,Kentucky,776,F,5,D,5690
-42201,Aberdeen,Kentucky,1056,C,1,F,5126
-42202,Adairville,Kentucky,1304,A,5,B,10782
-42240,Hopkinsville,Kentucky,1057,A,5,D,7518
-42334,Curdsville,Kentucky,1066,A,5,C,8531
-42337,Drakesboro,Kentucky,487,C,5,C,8137
-42347,Hartford,Kentucky,1702,D,3,B,5171
-42354,McHenry,Kentucky,41,A,4,A,9014
-42406,Corydon,Kentucky,1309,B,1,C,7409
-42410,Earlington,Kentucky,1931,A,4,A,11527
-42437,Morganfield,Kentucky,1038,B,4,F,8666
-42441,Nebo,Kentucky,297,D,3,D,4959
-42753,Knifley,Kentucky,753,B,5,F,8777
-42782,Summersville,Kentucky,950,B,3,A,9952
-46327,Hammond,Indiana,588,F,2,A,5438
-46368,Portage,Indiana,1562,A,1,C,7769
-46377,Shelby,Indiana,302,D,1,D,3623
-46385,Valparaiso,Indiana,1071,F,2,F,3293
-47525,Derby,Indiana,977,C,1,C,5262
-47618,Inglefield,Indiana,220,A,3,D,6098
-47638,Wadesville,Indiana,941,C,5,A,10080
-47736,Evansville,Indiana,165,F,1,C,4752
-49927,Gaastra,Michigan,827,D,2,D,3551
-50038,Booneville,Iowa,674,C,2,B,6467
-50111,Grimes,Iowa,946,F,2,B,5019
-50136,Keswick,Iowa,1983,D,4,B,7562
-50152,Luther,Iowa,1131,D,1,A,5045
-50164,Menlo,Iowa,691,C,5,B,10033
-50168,Mingo,Iowa,1622,C,2,B,8800
-50174,Murray,Iowa,1082,D,3,B,5548
-50210,New Virginia,Iowa,1032,F,1,A,5222
-50233,Redfield,Iowa,1635,B,5,C,10433
-50234,Rhodes,Iowa,12,A,2,C,8067
-50247,State Center,Iowa,1226,C,4,F,8178
-50254,Thayer,Iowa,918,C,1,A,5562
-50258,Union,Iowa,1432,A,2,F,6154
-50259,Gifford,Iowa,1547,C,3,D,5182
-50261,Van Meter,Iowa,1285,B,4,A,10553
-50263,Waukee,Iowa,285,F,1,D,2802
-50268,What Cheer,Iowa,1565,D,1,B,4364
-50276,Woodward,Iowa,1009,A,4,C,9301
-50308,Des Moines,Iowa,432,F,1,A,4815
-50323,Urbandale,Iowa,617,C,4,B,8419
-50331,Des Moines,Iowa,1201,D,5,A,7658
-50380,Des Moines,Iowa,1277,F,5,A,6970
-50392,Des Moines,Iowa,503,F,5,C,5210
-50394,Des Moines,Iowa,1086,C,3,F,5628
-50394,Des Moines,Iowa,1684,F,2,D,3617
-50434,Fertile,Iowa,910,A,2,B,8023
-50450,Lake Mills,Iowa,1858,B,4,F,7386
-50457,Meservey,Iowa,1887,F,3,D,3425
-50464,Plymouth,Iowa,1343,D,2,B,5409
-50467,Rock Falls,Iowa,1303,B,5,A,12246
-50470,Rowan,Iowa,76,D,4,D,4736
-50473,Scarville,Iowa,1273,F,4,C,6468
-50517,Bancroft,Iowa,575,F,1,C,3449
-50518,Barnum,Iowa,1714,D,1,C,4966
-50529,Dakota City,Iowa,1211,D,3,C,3692
-50561,Lytton,Iowa,1411,F,2,C,3766
-50562,Mallard,Iowa,1361,C,1,B,6438
-50573,Plover,Iowa,811,B,4,F,8541
-50578,Ringsted,Iowa,561,D,2,F,3201
-50585,Sioux Rapids,Iowa,174,A,1,F,5669
-50597,West Bend,Iowa,1025,C,4,F,5254
-50608,Austinville,Iowa,1341,D,3,B,5242
-50620,Colwell,Iowa,1889,B,1,B,7880
-50623,Dewar,Iowa,454,A,5,C,8622
-50634,Gilbertville,Iowa,410,B,2,F,5017
-50661,North Washington,Iowa,887,F,3,F,4673
-50670,Shell Rock,Iowa,1584,D,3,D,4379
-50836,Blockton,Iowa,1037,C,3,C,5374
-50936,Des Moines,Iowa,852,F,1,A,4649
-50947,Des Moines,Iowa,1038,F,2,D,3632
-51026,Hornick,Iowa,889,B,1,D,6456
-51035,Marcus,Iowa,1152,F,2,B,5017
-51050,Remsen,Iowa,892,B,1,B,9035
-51111,Sioux City,Iowa,810,D,4,B,5694
-51235,Doon,Iowa,1644,D,2,A,4039
-51247,Rock Valley,Iowa,678,C,3,B,6067
-51341,Gillett Grove,Iowa,1937,B,4,A,12024
-51345,Harris,Iowa,1018,D,5,C,6599
-51433,Auburn,Iowa,1253,A,2,A,7437
-51459,Ralston,Iowa,1807,A,4,B,13178
-51534,Glenwood,Iowa,304,C,2,B,6309
-51545,Little Sioux,Iowa,1525,A,5,F,8670
-51554,Mineola,Iowa,1593,A,1,B,6993
-51566,Red Oak,Iowa,329,F,2,D,3145
-51570,Shelby,Iowa,314,A,3,B,8869
-51649,Randolph,Iowa,550,C,1,F,5230
-51656,Yorktown,Iowa,296,B,2,F,5735
-52002,Dubuque,Iowa,430,F,2,D,4418
-52004,Dubuque,Iowa,284,D,4,A,6298
-52065,New Vienna,Iowa,1680,B,1,F,5847
-52072,Saint Olaf,Iowa,1073,B,1,F,5183
-52079,Zwingle,Iowa,357,B,4,B,12633
-52142,Fayette,Iowa,1402,A,5,D,9446
-52149,Highlandville,Iowa,1218,C,3,F,5568
-52166,Saint Lucas,Iowa,425,C,2,D,5546
-52169,Wadena,Iowa,425,F,5,D,4130
-52170,Waterville,Iowa,146,A,1,A,8365
-52170,Waterville,Iowa,511,B,1,A,7968
-52221,Guernsey,Iowa,1536,C,3,C,7699
-52223,Delhi,Iowa,1869,A,1,A,8999
-52232,Hartwick,Iowa,1715,C,1,F,4207
-52245,Iowa City,Iowa,1332,F,1,F,3451
-52246,Iowa City,Iowa,1866,A,2,B,7972
-52247,Kalona,Iowa,1316,B,5,C,10515
-52251,Ladora,Iowa,1898,B,4,D,7855
-52252,Langworthy,Iowa,947,D,1,C,4029
-52314,Mount Vernon,Iowa,698,D,4,C,6084
-52316,North English,Iowa,1561,D,4,C,5336
-52332,Shellsburg,Iowa,1547,D,3,D,3878
-52403,Cedar Rapids,Iowa,534,A,3,B,9065
-52548,Chillicothe,Iowa,742,C,3,F,5448
-52557,Fairfield,Iowa,643,D,4,A,7218
-52561,Fremont,Iowa,1431,B,5,B,11164
-52572,Moulton,Iowa,1272,F,4,B,7646
-52577,Oskaloosa,Iowa,847,B,3,B,8722
-52585,Richland,Iowa,740,C,1,F,4784
-52626,Farmington,Iowa,261,C,1,C,5580
-52642,Rome,Iowa,1436,B,5,C,9481
-52647,Olds,Iowa,1832,D,4,F,6272
-52656,West Point,Iowa,1612,A,3,A,10381
-52758,McCausland,Iowa,1795,C,2,B,6915
-53002,Allenton,Wisconsin,1605,B,5,D,7896
-53015,Cleveland,Wisconsin,1234,F,5,D,5653
-53017,Colgate,Wisconsin,1272,B,3,A,9691
-53018,Delafield,Wisconsin,502,C,3,D,5571
-53033,Hubertus,Wisconsin,860,A,4,F,10189
-53034,Hustisford,Wisconsin,1471,F,1,F,3895
-53037,Jackson,Wisconsin,1343,D,2,D,3777
-53042,Kiel,Wisconsin,1247,A,2,B,8356
-53048,Lomira,Wisconsin,280,B,5,A,12242
-53050,Mayville,Wisconsin,1898,D,5,B,7016
-53082,Sheboygan,Wisconsin,1161,B,4,C,10755
-53094,Watertown,Wisconsin,29,A,5,C,12776
-53115,Delavan,Wisconsin,1188,C,5,B,12422
-53122,Elm Grove,Wisconsin,1490,F,2,B,5809
-53130,Hales Corners,Wisconsin,694,F,2,B,5537
-53143,Kenosha,Wisconsin,1976,F,3,D,4327
-53156,Palmyra,Wisconsin,497,D,5,C,4279
-53176,Springfield,Wisconsin,272,A,5,F,9232
-53186,Waukesha,Wisconsin,27,D,4,B,7139
-53212,Milwaukee,Wisconsin,105,D,5,B,8717
-53214,Milwaukee,Wisconsin,943,D,1,A,5387
-53216,Milwaukee,Wisconsin,14,B,4,B,11194
-53228,Milwaukee,Wisconsin,569,A,2,F,5614
-53228,Milwaukee,Wisconsin,104,F,3,F,4376
-53401,Racine,Wisconsin,13,A,2,F,6260
-53505,Avalon,Wisconsin,1118,C,4,A,9880
-53517,Blue Mounds,Wisconsin,399,B,3,B,11125
-53528,Cross Plains,Wisconsin,1920,C,3,F,4840
-53580,Rewey,Wisconsin,1687,B,3,A,8184
-53590,Sun Prairie,Wisconsin,1016,C,2,A,5926
-53596,Sun Prairie,Wisconsin,82,B,1,D,6453
-53711,Madison,Wisconsin,1162,D,3,B,7350
-53782,Madison,Wisconsin,1600,A,3,C,7128
-53792,Madison,Wisconsin,1097,A,3,C,7139
-53825,Stitzer,Wisconsin,918,B,1,A,8714
-53901,Portage,Wisconsin,1230,F,4,A,6219
-53932,Fall River,Wisconsin,81,F,4,A,6517
-53933,Fox Lake,Wisconsin,477,F,3,D,4083
-53934,Friendship,Wisconsin,202,D,2,D,3731
-53934,Friendship,Wisconsin,1367,F,5,A,9340
-53956,Randolph,Wisconsin,679,A,5,A,11878
-53961,Rock Springs,Wisconsin,329,D,4,A,6481
-53969,Wyocena,Wisconsin,744,C,5,A,8710
-54002,Baldwin,Wisconsin,918,C,1,F,5057
-54004,Clayton,Wisconsin,255,F,4,D,5148
-54007,Deer Park,Wisconsin,254,C,2,F,4161
-54023,Roberts,Wisconsin,1542,B,2,D,5424
-54153,Oconto,Wisconsin,893,D,3,A,5625
-54155,Oneida,Wisconsin,857,B,4,D,8750
-54156,Pembine,Wisconsin,716,B,2,C,7504
-54162,Pulaski,Wisconsin,1002,B,3,D,7301
-54165,Seymour,Wisconsin,96,D,4,A,7381
-54180,Wrightstown,Wisconsin,878,F,1,C,5161
-54232,Saint Nazianz,Wisconsin,1578,D,5,A,7819
-54302,Green Bay,Wisconsin,1521,A,2,D,6566
-54308,Green Bay,Wisconsin,511,F,1,C,3585
-54455,Mosinee,Wisconsin,1637,F,4,A,5343
-54460,Owen,Wisconsin,1193,B,5,D,8027
-54463,Pelican Lake,Wisconsin,1340,F,2,C,3731
-54470,Rib Lake,Wisconsin,1038,D,5,D,4409
-54487,Tomahawk,Wisconsin,1743,D,5,C,6005
-54526,Glen Flora,Wisconsin,300,A,3,D,7496
-54531,Hazelhurst,Wisconsin,289,C,5,F,5789
-54556,Prentice,Wisconsin,492,F,1,B,5015
-54557,Presque Isle,Wisconsin,421,B,2,F,6323
-54568,Woodruff,Wisconsin,1466,C,5,A,7935
-54603,La Crosse,Wisconsin,1887,A,5,F,8239
-54626,Eastman,Wisconsin,490,F,5,A,6329
-54658,Stoddard,Wisconsin,58,D,3,D,3502
-54661,Trempealeau,Wisconsin,829,F,5,C,4505
-54701,Eau Claire,Wisconsin,1394,D,3,A,4979
-54702,Eau Claire,Wisconsin,546,B,3,C,8418
-54732,Cornell,Wisconsin,332,F,2,D,2676
-54734,Downing,Wisconsin,722,B,1,C,7464
-54736,Durand,Wisconsin,170,F,4,F,5682
-54760,Pigeon Falls,Wisconsin,318,C,5,F,5601
-54773,Whitehall,Wisconsin,1397,F,2,C,5096
-54821,Cable,Wisconsin,1374,D,1,D,3932
-54824,Centuria,Wisconsin,1611,F,1,A,6546
-54828,Couderay,Wisconsin,936,D,4,B,6265
-54846,High Bridge,Wisconsin,1329,D,1,F,3293
-54848,Ladysmith,Wisconsin,119,D,5,D,5156
-54865,Port Wing,Wisconsin,660,F,5,D,3699
-54890,Wascott,Wisconsin,1669,F,3,A,5382
-54913,Appleton,Wisconsin,244,B,5,C,11571
-54923,Berlin,Wisconsin,790,B,1,B,8236
-54923,Berlin,Wisconsin,250,D,3,C,4872
-54931,Dale,Wisconsin,248,D,3,F,4612
-54943,Hancock,Wisconsin,531,D,4,F,4902
-54946,King,Wisconsin,626,B,4,B,10776
-54952,Menasha,Wisconsin,1139,A,2,C,5791
-55007,Brook Park,Minnesota,591,B,3,C,8015
-55008,Cambridge,Minnesota,1129,A,2,A,8715
-55020,Elko New Market,Minnesota,1679,F,5,D,5000
-55053,Nerstrand,Minnesota,1189,D,1,C,3163
-55057,Northfield,Minnesota,1478,C,5,C,7374
-55114,Saint Paul,Minnesota,626,C,2,F,4566
-55117,Saint Paul,Minnesota,587,A,2,D,6540
-55129,Saint Paul,Minnesota,1661,F,2,C,3359
-55146,Saint Paul,Minnesota,1634,A,2,F,6090
-55302,Annandale,Minnesota,1076,A,2,B,6682
-55315,Carver,Minnesota,1597,F,4,D,5288
-55331,Excelsior,Minnesota,834,F,5,F,4191
-55333,Franklin,Minnesota,1923,A,4,A,13645
-55375,Saint Bonifacius,Minnesota,1201,F,2,A,4552
-55386,Victoria,Minnesota,572,B,4,F,7113
-55387,Waconia,Minnesota,516,D,5,F,5190
-55403,Minneapolis,Minnesota,1155,B,2,A,7966
-55418,Minneapolis,Minnesota,1503,B,2,F,6029
-55424,Minneapolis,Minnesota,1025,A,1,A,7571
-55444,Minneapolis,Minnesota,1298,C,3,C,6725
-55446,Minneapolis,Minnesota,87,B,5,F,8459
-55596,Loretto,Minnesota,1167,F,3,D,3771
-55601,Beaver Bay,Minnesota,530,B,3,C,7708
-55612,Lutsen,Minnesota,1779,F,2,C,4741
-55717,Canyon,Minnesota,231,C,1,F,4294
-55719,Chisholm,Minnesota,1571,D,2,C,3816
-55720,Cloquet,Minnesota,1477,C,3,D,5676
-55722,Coleraine,Minnesota,1656,C,4,A,7880
-55722,Coleraine,Minnesota,289,F,5,B,6327
-55725,Crane Lake,Minnesota,1751,D,5,C,5194
-55764,Marble,Minnesota,1035,C,2,D,4737
-55768,Mountain Iron,Minnesota,1749,D,2,D,3216
-55920,Byron,Minnesota,1430,A,4,D,8243
-55922,Canton,Minnesota,1556,F,1,B,5894
-55931,Eitzen,Minnesota,281,A,2,B,8060
-55932,Elgin,Minnesota,1500,B,3,D,6476
-55936,Grand Meadow,Minnesota,759,C,1,A,7155
-55936,Grand Meadow,Minnesota,1317,D,2,F,3094
-55942,Homer,Minnesota,1973,A,3,C,7916
-55942,Homer,Minnesota,1144,C,2,A,7445
-55943,Houston,Minnesota,1962,A,5,F,7824
-55967,Racine,Minnesota,1871,B,2,A,7978
-55977,Taopi,Minnesota,644,A,1,D,5536
-55979,Utica,Minnesota,44,A,2,A,8525
-56017,Cleveland,Minnesota,416,F,2,D,3965
-56020,Conger,Minnesota,824,D,1,C,3939
-56039,Granada,Minnesota,68,A,2,C,5733
-56051,Kiester,Minnesota,1868,F,2,B,3899
-56058,Le Sueur,Minnesota,547,A,1,D,4810
-56065,Mapleton,Minnesota,1410,B,3,C,6686
-56075,Northrop,Minnesota,495,F,5,F,5252
-56117,Bigelow,Minnesota,1620,A,2,F,5986
-56157,Lynd,Minnesota,459,C,4,C,6781
-56168,Rushmore,Minnesota,630,B,1,C,5547
-56181,Welcome,Minnesota,1406,F,3,D,4232
-56228,Cosmos,Minnesota,904,F,3,D,4339
-56251,Kandiyohi,Minnesota,1903,D,4,D,5383
-56258,Marshall,Minnesota,319,C,5,D,8183
-56274,Norcross,Minnesota,206,A,1,F,5247
-56301,Saint Cloud,Minnesota,1246,B,1,B,9778
-56308,Alexandria,Minnesota,487,D,5,A,8405
-56333,Gilman,Minnesota,951,B,2,F,5941
-56334,Glenwood,Minnesota,1388,B,1,D,5261
-56353,Milaca,Minnesota,1111,F,1,F,3865
-56357,Oak Park,Minnesota,875,A,2,A,8445
-56372,Saint Cloud,Minnesota,1513,D,5,B,7065
-56386,Wahkon,Minnesota,570,C,3,C,6554
-56522,Campbell,Minnesota,1393,C,2,A,6403
-56524,Clitherall,Minnesota,529,D,3,F,3730
-56533,Elizabeth,Minnesota,930,D,1,D,3959
-56550,Hendrum,Minnesota,1647,C,1,C,5375
-56557,Mahnomen,Minnesota,1342,A,2,F,5679
-56565,Nashua,Minnesota,625,A,2,A,7232
-56623,Baudette,Minnesota,1765,C,2,B,6187
-56637,Talmoon,Minnesota,1905,D,5,C,5175
-56649,International Falls,Minnesota,274,B,1,C,6559
-56732,Karlstad,Minnesota,1813,B,5,D,7644
-56755,Saint Vincent,Minnesota,1125,C,4,A,9432
-57007,Brookings,South Dakota,508,C,2,D,5012
-57022,Dell Rapids,South Dakota,740,C,1,C,5138
-57071,Volga,South Dakota,1562,F,4,A,7789
-57105,Sioux Falls,South Dakota,1530,A,2,D,5324
-57224,Claire City,South Dakota,1534,A,1,A,10049
-57225,Clark,South Dakota,748,C,1,D,5558
-57226,Clear Lake,South Dakota,1651,B,1,B,7507
-57326,Chamberlain,South Dakota,448,A,4,F,7141
-57331,Dimock,South Dakota,567,A,2,F,5610
-57346,Stephan,South Dakota,532,C,1,B,6875
-57346,Stephan,South Dakota,28,C,2,F,4133
-57373,Saint Lawrence,South Dakota,879,D,3,F,3684
-57429,Brentford,South Dakota,643,B,5,A,11785
-57429,Brentford,South Dakota,1504,D,1,C,4649
-57466,Onaka,South Dakota,1595,B,5,B,13546
-57474,Stratford,South Dakota,1839,C,3,D,6033
-57523,Burke,South Dakota,1441,A,4,D,9864
-57533,Gregory,South Dakota,368,C,3,D,5498
-57540,Holabird,South Dakota,571,A,5,F,8974
-57544,Kennebec,South Dakota,180,C,1,B,7274
-58005,Argusville,North Dakota,1348,C,4,F,6506
-58029,Erie,North Dakota,379,A,1,D,5779
-58048,Hunter,North Dakota,1161,D,1,D,3519
-58078,West Fargo,North Dakota,52,F,4,C,4926
-58081,Wyndmere,North Dakota,1889,A,4,B,10454
-58126,Fargo,North Dakota,166,A,3,D,7330
-58207,Grand Forks,North Dakota,186,B,3,C,7576
-58219,Caledonia,North Dakota,573,C,5,A,7802
-58238,Hamilton,North Dakota,1281,B,3,A,10764
-58251,Larimore,North Dakota,482,D,2,B,5584
-58267,Northwood,North Dakota,1810,C,2,D,4791
-58317,Bisbee,North Dakota,410,A,5,D,7381
-58363,Perth,North Dakota,1226,D,4,C,5967
-58368,Rugby,North Dakota,600,A,5,C,10414
-58386,York,North Dakota,1985,A,2,D,5297
-58401,Jamestown,North Dakota,619,F,2,C,4352
-58436,Ellendale,North Dakota,316,A,5,D,8663
-58477,Regan,North Dakota,825,D,1,C,3038
-58521,Baldwin,North Dakota,1668,A,2,B,9256
-58531,Coleharbor,North Dakota,1624,D,5,D,5507
-58558,Menoken,North Dakota,1068,C,1,D,4769
-58565,Riverdale,North Dakota,546,B,4,B,13198
-58581,Zeeland,North Dakota,775,F,4,A,7145
-58704,Minot Air Force Base,North Dakota,1660,D,1,F,4220
-58723,Butte,North Dakota,1101,D,2,D,2947
-58746,Kenmare,North Dakota,290,F,4,F,5460
-58748,Kramer,North Dakota,1032,D,2,F,2988
-58762,Newburg,North Dakota,1901,C,2,A,7063
-58769,Palermo,North Dakota,1560,F,3,D,4749
-58772,Portal,North Dakota,1741,C,3,D,4970
-58803,Williston,North Dakota,1979,B,3,C,8307
-60004,Arlington Heights,Illinois,52,C,3,B,8954
-60008,Rolling Meadows,Illinois,1599,B,3,A,9028
-60012,Crystal Lake,Illinois,1223,A,4,A,9872
-60016,Des Plaines,Illinois,1149,B,5,B,14147
-60016,Des Plaines,Illinois,366,B,3,C,7515
-60034,Hebron,Illinois,1034,F,1,F,2957
-60048,Libertyville,Illinois,1235,F,4,B,6241
-60056,Mount Prospect,Illinois,1399,B,5,A,16139
-60060,Mundelein,Illinois,64,A,3,B,11437
-60060,Mundelein,Illinois,275,C,2,D,4781
-60062,Northbrook,Illinois,275,A,5,F,8090
-60081,Spring Grove,Illinois,1742,D,1,D,2981
-60084,Wauconda,Illinois,441,B,1,C,6933
-60094,Palatine,Illinois,1908,D,1,C,3575
-60099,Zion,Illinois,1764,F,1,B,5769
-60099,Zion,Illinois,1270,F,5,F,7762
-60104,Bellwood,Illinois,1882,A,2,C,5840
-60120,Elgin,Illinois,350,C,3,F,4621
-60128,Carol Stream,Illinois,1883,C,5,A,12580
-60131,Franklin Park,Illinois,1510,B,4,D,9307
-60141,Hines,Illinois,518,B,4,B,11000
-60145,Kingston,Illinois,676,F,2,A,4253
-60168,Schaumburg,Illinois,94,C,1,B,5931
-60169,Hoffman Estates,Illinois,145,A,1,C,6881
-60175,Saint Charles,Illinois,1681,B,4,A,11462
-60176,Schiller Park,Illinois,1202,F,4,A,8304
-60179,Hoffman Estates,Illinois,1442,A,2,D,5523
-60186,West Chicago,Illinois,644,D,1,F,2844
-60301,Oak Park,Illinois,1547,F,3,C,5007
-60399,Wood Dale,Illinois,549,C,5,F,6494
-60401,Beecher,Illinois,1569,C,1,F,4182
-60423,Frankfort,Illinois,1444,F,2,D,3042
-60428,Markham,Illinois,989,F,1,C,3716
-60435,Joliet,Illinois,1833,F,3,B,6801
-60435,Joliet,Illinois,58,F,3,D,4229
-60460,Odell,Illinois,764,F,2,A,5336
-60465,Palos Hills,Illinois,1927,A,2,F,6453
-60466,Park Forest,Illinois,1446,F,5,F,5954
-60472,Robbins,Illinois,1415,B,1,D,5590
-60491,Homer Glen,Illinois,1852,B,3,B,10450
-60505,Aurora,Illinois,930,F,4,D,4835
-60510,Batavia,Illinois,1074,F,5,D,4512
-60544,Plainfield,Illinois,892,B,3,C,7340
-60546,Riverside,Illinois,1951,A,3,C,8502
-60548,Sandwich,Illinois,363,F,2,B,3705
-60553,Steward,Illinois,1209,A,3,A,10381
-60557,Wedron,Illinois,1764,D,1,F,3747
-60563,Naperville,Illinois,964,D,2,B,5437
-60564,Naperville,Illinois,1847,C,5,F,6726
-60564,Naperville,Illinois,759,F,5,C,6075
-60618,Chicago,Illinois,1977,B,1,D,5835
-60621,Chicago,Illinois,724,A,2,F,5966
-60643,Chicago,Illinois,740,C,4,C,7015
-60654,Chicago,Illinois,890,A,3,C,7645
-60682,Chicago,Illinois,1246,A,3,C,7086
-60919,Cabery,Illinois,1934,D,3,A,5343
-60927,Clifton,Illinois,976,F,3,D,5270
-60936,Gibson City,Illinois,1249,B,4,C,7872
-60949,Ludlow,Illinois,60,D,5,A,7312
-60960,Rankin,Illinois,1968,A,1,F,6155
-60964,Saint Anne,Illinois,1812,B,4,B,9409
-61046,Lanark,Illinois,1941,F,2,A,4600
-61051,Milledgeville,Illinois,380,F,4,C,5687
-61052,Monroe Center,Illinois,818,B,2,F,5757
-61062,Pearl City,Illinois,1242,F,5,A,6495
-61232,Andalusia,Illinois,878,A,5,D,7836
-61241,Colona,Illinois,1003,B,1,A,9219
-61259,Illinois City,Illinois,1532,B,4,B,11509
-61276,Preemption,Illinois,973,F,1,D,4410
-61323,Dover,Illinois,875,C,1,A,7253
-61370,Tonica,Illinois,644,A,5,F,9337
-61422,Bushnell,Illinois,434,B,2,D,5706
-61422,Bushnell,Illinois,1357,D,3,D,4352
-61423,Cameron,Illinois,1301,D,4,A,7076
-61441,Ipava,Illinois,911,C,1,B,6705
-61459,Marietta,Illinois,1533,B,3,F,8095
-61465,New Windsor,Illinois,1651,B,2,A,7793
-61517,Brimfield,Illinois,1981,C,4,D,6118
-61542,Lewistown,Illinois,808,F,5,F,5169
-61546,Manito,Illinois,833,A,3,F,6748
-61570,Washburn,Illinois,1388,A,3,C,7193
-61601,Peoria,Illinois,1379,D,3,C,4579
-61603,Peoria,Illinois,608,A,3,B,9561
-61605,Peoria,Illinois,399,F,4,D,4795
-61614,Peoria,Illinois,732,B,4,C,10934
-61652,Peoria,Illinois,1656,A,3,F,6965
-61726,Chenoa,Illinois,584,B,5,F,8285
-61774,Stanford,Illinois,813,A,5,B,13360
-61810,Allerton,Illinois,650,B,3,D,6050
-61810,Allerton,Illinois,33,D,5,F,4357
-61812,Armstrong,Illinois,415,B,3,D,6200
-61826,Champaign,Illinois,353,C,3,B,8101
-61853,Mahomet,Illinois,1558,A,5,B,8535
-61862,Penfield,Illinois,1268,B,5,D,9537
-61872,Sadorus,Illinois,458,C,1,C,4720
-61874,Savoy,Illinois,1830,F,1,B,5832
-61884,White Heath,Illinois,351,D,3,C,5402
-61910,Arcola,Illinois,1159,D,1,A,5239
-61936,La Place,Illinois,1847,C,4,B,10527
-61938,Mattoon,Illinois,501,D,4,D,5696
-62013,Brussels,Illinois,1632,D,1,D,3560
-62030,Fidelity,Illinois,1335,D,4,C,5324
-62049,Hillsboro,Illinois,1716,C,2,F,4872
-62062,Maryville,Illinois,774,F,3,D,4184
-62075,Nokomis,Illinois,1464,D,3,F,3450
-62075,Nokomis,Illinois,978,F,2,B,5102
-62216,Aviston,Illinois,79,A,2,C,6312
-62218,Bartelso,Illinois,705,D,4,B,9482
-62262,Mulberry Grove,Illinois,1093,A,4,B,12164
-62264,New Athens,Illinois,98,D,5,B,6862
-62289,Summerfield,Illinois,1693,B,2,B,8771
-62306,Quincy,Illinois,14,A,3,D,6841
-62351,Mendon,Illinois,262,C,2,D,4573
-62351,Mendon,Illinois,883,D,1,A,5945
-62357,New Salem,Illinois,700,A,5,C,10318
-62362,Perry,Illinois,600,B,1,B,7532
-62376,Ursa,Illinois,274,C,4,B,10470
-62401,Effingham,Illinois,1182,B,2,D,5806
-62439,Lawrenceville,Illinois,1059,B,4,C,10988
-62446,Mount Erie,Illinois,243,C,5,C,8312
-62449,Oblong,Illinois,1668,D,5,C,6017
-62452,Parkersburg,Illinois,1040,D,3,F,4423
-62479,Wheeler,Illinois,607,D,1,A,5953
-62535,Forsyth,Illinois,174,B,5,C,9673
-62613,Athens,Illinois,897,C,4,F,7105
-62633,Easton,Illinois,22,A,5,D,8326
-62633,Easton,Illinois,1913,B,3,D,8035
-62649,Hettick,Illinois,801,B,5,D,8233
-62659,Lincolns New Salem,Illinois,1702,F,4,F,3576
-62670,New Berlin,Illinois,1234,D,4,D,5808
-62673,Oakford,Illinois,1960,B,4,F,8826
-62675,Petersburg,Illinois,301,D,1,B,5313
-62704,Springfield,Illinois,430,F,4,A,8788
-62715,Springfield,Illinois,610,B,2,B,7386
-62716,Springfield,Illinois,1709,A,1,F,5776
-62756,Springfield,Illinois,1341,C,2,C,6390
-62796,Springfield,Illinois,853,B,5,B,9613
-62796,Springfield,Illinois,194,F,3,D,3670
-62824,Clay City,Illinois,759,B,2,B,7258
-62831,Du Bois,Illinois,1533,D,2,D,3659
-62839,Flora,Illinois,1477,C,3,F,4672
-62854,Kinmundy,Illinois,206,B,4,A,11414
-62866,Nason,Illinois,550,A,4,F,7903
-62868,Noble,Illinois,1609,A,5,C,11161
-62878,Rinard,Illinois,740,A,4,D,9434
-62880,Saint Peter,Illinois,200,F,1,B,4186
-62886,Sims,Illinois,1503,A,3,B,10058
-62905,Alto Pass,Illinois,669,D,2,A,4871
-62934,Equality,Illinois,1776,A,1,C,6834
-62955,Karbers Ridge,Illinois,95,D,5,F,4608
-62965,Muddy,Illinois,1945,D,5,D,4671
-62969,Olive Branch,Illinois,1147,D,2,A,4572
-62979,Ridgway,Illinois,686,F,4,C,6633
-62990,Thebes,Illinois,1442,C,4,B,10679
-63016,Cedar Hill,Missouri,903,A,4,F,8445
-63040,Grover,Missouri,1550,F,4,D,3867
-63045,Earth City,Missouri,865,F,2,F,3846
-63061,Luebbering,Missouri,475,D,2,B,4974
-63102,Saint Louis,Missouri,85,F,2,A,5244
-63107,Saint Louis,Missouri,1976,B,4,A,10743
-63111,Saint Louis,Missouri,1500,D,5,F,4536
-63124,Saint Louis,Missouri,393,A,5,B,12478
-63136,Saint Louis,Missouri,1910,A,2,F,5650
-63136,Saint Louis,Missouri,381,F,1,A,5023
-63157,Saint Louis,Missouri,384,A,5,B,11381
-63179,Saint Louis,Missouri,781,B,4,C,11999
-63197,Saint Louis,Missouri,931,D,4,B,8909
-63339,Curryville,Missouri,304,C,1,D,4981
-63346,Flinthill,Missouri,653,F,4,C,5613
-63347,Foley,Missouri,988,D,2,A,4256
-63370,Olney,Missouri,1903,D,3,C,5263
-63381,Truxton,Missouri,1088,F,5,B,6397
-63432,Arbela,Missouri,124,F,2,B,5824
-63441,Frankford,Missouri,1171,D,1,D,3479
-63460,Novelty,Missouri,1140,F,1,F,3777
-63474,Wyaconda,Missouri,862,D,2,D,3066
-63530,Atlanta,Missouri,1276,B,1,D,5799
-63531,Baring,Missouri,1076,B,4,B,9777
-63533,Brashear,Missouri,682,F,5,C,5513
-63601,Park Hills,Missouri,464,C,3,A,8350
-63620,Annapolis,Missouri,305,A,5,B,10500
-63620,Annapolis,Missouri,1994,F,1,B,4487
-63651,Knob Lick,Missouri,714,F,2,B,4676
-63675,Vulcan,Missouri,906,A,3,A,9471
-63747,Friedheim,Missouri,802,A,3,B,9225
-63781,Sedgewickville,Missouri,843,F,2,D,2875
-63820,Anniston,Missouri,1789,A,2,F,5647
-63823,Bertrand,Missouri,194,F,1,B,4432
-63837,Clarkton,Missouri,344,A,5,D,6838
-63852,Holcomb,Missouri,1786,F,4,A,6376
-63867,Matthews,Missouri,1942,C,4,A,10902
-63882,Wyatt,Missouri,1566,A,2,A,8835
-63938,Fagus,Missouri,1639,B,5,D,8223
-63941,Fremont,Missouri,1384,B,3,D,6878
-63965,Van Buren,Missouri,1723,F,5,D,6413
-63967,Williamsville,Missouri,382,A,1,B,9260
-64030,Grandview,Missouri,876,B,2,F,5776
-64051,Independence,Missouri,1607,B,5,A,11856
-64056,Independence,Missouri,1730,C,3,C,5931
-64058,Independence,Missouri,1176,D,5,C,5391
-64082,Lees Summit,Missouri,1063,F,5,B,7298
-64096,Waverly,Missouri,1849,D,5,F,5121
-64120,Kansas City,Missouri,1551,F,5,D,5673
-64156,Kansas City,Missouri,553,F,5,C,4754
-64429,Cameron,Missouri,1235,C,2,B,6701
-64442,Eagleville,Missouri,1587,D,3,F,4292
-64451,Forest City,Missouri,595,F,5,B,6697
-64457,Guilford,Missouri,1160,C,5,D,8683
-64459,Helena,Missouri,377,C,3,B,8861
-64475,Parnell,Missouri,284,C,3,B,9404
-64635,Chula,Missouri,1407,D,3,C,4455
-64650,Kingston,Missouri,94,A,4,D,9234
-64659,Meadville,Missouri,497,A,2,F,6008
-64668,Norborne,Missouri,41,D,3,B,6326
-64674,Purdin,Missouri,1765,B,4,B,10222
-64688,Wheeling,Missouri,470,B,5,A,12289
-64722,Amoret,Missouri,421,F,2,A,4681
-64743,East Lynne,Missouri,1479,F,3,A,7013
-64744,El Dorado Springs,Missouri,1288,A,1,D,6881
-64756,Jerico Springs,Missouri,1173,B,3,F,6425
-64762,Liberal,Missouri,633,A,4,C,8746
-64765,Metz,Missouri,673,F,4,D,5135
-64784,Sheldon,Missouri,357,D,2,F,3370
-64842,Fairview,Missouri,835,A,5,C,9940
-64843,Goodman,Missouri,261,B,2,A,6969
-64870,Webb City,Missouri,897,B,1,D,5980
-65011,Barnett,Missouri,1338,B,3,B,9831
-65023,Centertown,Missouri,104,A,5,A,12155
-65059,Mokane,Missouri,352,B,3,D,6711
-65068,Prairie Home,Missouri,1739,D,2,B,4622
-65072,Rocky Mount,Missouri,1458,C,1,B,7255
-65232,Benton City,Missouri,633,F,4,D,6361
-65243,Clark,Missouri,1568,B,1,C,5770
-65257,Higbee,Missouri,1367,F,4,A,7824
-65299,Columbia,Missouri,989,C,5,A,9816
-65321,Blackburn,Missouri,1761,F,4,C,5048
-65330,Gilliam,Missouri,1530,B,4,F,7040
-65349,Slater,Missouri,1187,C,1,F,4588
-65354,Syracuse,Missouri,1979,B,4,F,6613
-65462,Edgar Springs,Missouri,766,F,2,C,3543
-65483,Houston,Missouri,1409,C,5,F,7117
-65484,Huggins,Missouri,658,A,4,F,9245
-65501,Jadwin,Missouri,1838,B,1,C,6853
-65546,Montier,Missouri,1540,F,4,C,7245
-65559,Saint James,Missouri,1799,A,5,D,7604
-65559,Saint James,Missouri,1938,D,1,B,6016
-65571,Summersville,Missouri,1040,C,4,D,8291
-65616,Branson,Missouri,1670,C,4,F,7607
-65624,Cape Fair,Missouri,1192,B,1,F,6092
-65644,Elkland,Missouri,1594,B,4,D,9237
-65650,Flemington,Missouri,1016,F,2,A,4620
-65675,Hurley,Missouri,1604,B,2,D,5523
-65681,Lampe,Missouri,799,A,3,C,7563
-65712,Mount Vernon,Missouri,741,F,2,D,4042
-65720,Oldfield,Missouri,824,A,4,C,8210
-65721,Ozark,Missouri,477,A,5,C,11120
-65722,Phillipsburg,Missouri,656,C,4,F,6987
-65724,Pittsburg,Missouri,985,D,1,C,4765
-65724,Pittsburg,Missouri,845,F,2,A,4339
-65725,Pleasant Hope,Missouri,193,C,2,B,6208
-65733,Protem,Missouri,1549,B,4,C,8156
-65746,Seymour,Missouri,1379,F,5,C,7414
-65757,Strafford,Missouri,797,F,2,B,4525
-65760,Tecumseh,Missouri,1271,C,3,F,5045
-65767,Urbana,Missouri,944,C,5,D,5800
-65779,Wheatland,Missouri,1221,C,3,C,5600
-65802,Springfield,Missouri,1797,B,3,C,7459
-65802,Springfield,Missouri,1701,C,4,F,5655
-65804,Springfield,Missouri,559,B,1,B,8553
-66032,Garnett,Kansas,946,A,1,C,6565
-66033,Greeley,Kansas,1268,C,2,D,5293
-66085,Stilwell,Kansas,1448,B,5,B,13226
-66213,Overland Park,Kansas,1870,F,2,C,4094
-66214,Overland Park,Kansas,777,C,2,A,7838
-66425,Fairview,Kansas,290,A,5,B,12858
-66436,Holton,Kansas,942,D,2,A,5589
-66505,Manhattan,Kansas,1640,F,5,C,5989
-66608,Topeka,Kansas,1236,F,3,B,5285
-66611,Topeka,Kansas,1559,D,2,D,3775
-66618,Topeka,Kansas,1834,A,2,D,5508
-66636,Topeka,Kansas,807,C,6,A,16299
-66675,Topeka,Kansas,284,B,4,B,12581
-66734,Farlington,Kansas,665,C,4,F,6915
-66742,Gas,Kansas,345,F,3,D,3682
-66782,West Mineral,Kansas,1600,D,1,A,5358
-66851,Florence,Kansas,351,F,2,D,4040
-66854,Hartford,Kansas,1451,C,4,C,9021
-66871,Waverly,Kansas,1560,B,4,C,8359
-66939,Courtland,Kansas,1668,C,5,F,5874
-66966,Scandia,Kansas,396,D,3,F,3955
-67017,Benton,Kansas,1692,B,4,D,7863
-67045,Eureka,Kansas,622,D,3,C,5431
-67066,Iuka,Kansas,1069,C,5,A,8793
-67074,Leon,Kansas,1494,D,5,F,5566
-67127,Protection,Kansas,1816,B,5,A,13094
-67133,Rose Hill,Kansas,409,D,2,D,3418
-67135,Sedgwick,Kansas,547,A,5,C,9023
-67203,Wichita,Kansas,1411,D,4,B,6908
-67223,Wichita,Kansas,1040,C,4,B,11415
-67334,Chautauqua,Kansas,1946,C,5,A,11595
-67342,Edna,Kansas,456,B,4,C,9714
-67402,Salina,Kansas,1507,D,3,F,3419
-67425,Brookville,Kansas,975,A,1,F,6520
-67425,Brookville,Kansas,1392,B,3,C,8291
-67473,Osborne,Kansas,1595,C,5,F,6320
-67481,Sylvan Grove,Kansas,80,D,1,D,3400
-67523,Burdett,Kansas,712,F,3,B,4648
-67550,Larned,Kansas,572,D,1,D,3709
-67583,Turon,Kansas,997,C,1,A,7634
-67642,Hill City,Kansas,1815,F,4,A,7714
-67645,Lenora,Kansas,1448,F,4,C,6468
-67661,Phillipsburg,Kansas,689,A,4,F,8740
-67672,Wakeeney,Kansas,27,B,3,A,10265
-67672,Wakeeney,Kansas,608,D,1,D,4165
-67701,Colby,Kansas,832,B,4,D,8721
-67743,Levant,Kansas,1343,C,2,A,7084
-67757,Selden,Kansas,413,F,2,B,4925
-67834,Bucklin,Kansas,479,B,4,D,8629
-67837,Copeland,Kansas,1937,C,3,F,5138
-67839,Dighton,Kansas,1198,D,2,B,3871
-67849,Hanston,Kansas,1791,C,4,D,6228
-67859,Kismet,Kansas,899,F,2,A,4571
-67867,Montezuma,Kansas,647,F,3,B,5440
-68004,Bancroft,Nebraska,682,A,4,C,11032
-68014,Bruno,Nebraska,884,F,2,F,3699
-68015,Cedar Bluffs,Nebraska,1025,F,4,C,6716
-68016,Cedar Creek,Nebraska,1124,C,2,F,4487
-68019,Craig,Nebraska,1396,D,2,C,4207
-68030,Homer,Nebraska,1817,F,1,F,3970
-68031,Hooper,Nebraska,555,F,2,D,4185
-68042,Memphis,Nebraska,1261,F,2,A,6542
-68061,Tekamah,Nebraska,658,B,3,D,5753
-68106,Omaha,Nebraska,1021,B,3,F,7348
-68107,Omaha,Nebraska,321,D,3,D,5091
-68110,Omaha,Nebraska,573,D,2,F,4212
-68124,Omaha,Nebraska,107,C,5,D,6506
-68131,Omaha,Nebraska,1071,F,3,C,4033
-68154,Omaha,Nebraska,767,F,2,A,5671
-68175,Omaha,Nebraska,1666,D,3,F,3291
-68180,Omaha,Nebraska,988,B,3,A,9274
-68350,Endicott,Nebraska,81,C,4,A,9663
-68357,Filley,Nebraska,408,F,3,D,3873
-68380,Lewiston,Nebraska,1626,C,3,A,7708
-68402,Malcolm,Nebraska,1049,C,2,B,5392
-68406,Milligan,Nebraska,1452,F,5,F,4819
-68429,Reynolds,Nebraska,710,A,1,D,5732
-68439,Staplehurst,Nebraska,1537,D,2,F,4371
-68454,Unadilla,Nebraska,1532,C,4,A,9184
-68456,Utica,Nebraska,1441,F,5,C,6399
-68462,Waverly,Nebraska,10,C,3,A,8565
-68505,Lincoln,Nebraska,898,B,1,F,6161
-68509,Lincoln,Nebraska,1025,B,4,A,9013
-68629,Clarkson,Nebraska,1680,C,3,A,7409
-68669,Ulysses,Nebraska,1488,C,1,C,5407
-68729,Creighton,Nebraska,1259,A,3,D,7221
-68730,Crofton,Nebraska,1878,C,3,F,4829
-68736,Fordyce,Nebraska,1903,C,4,D,6298
-68743,Jackson,Nebraska,1612,B,3,B,9944
-68745,Laurel,Nebraska,1393,C,3,D,6259
-68745,Laurel,Nebraska,1007,D,4,A,7798
-68751,Maskell,Nebraska,1595,C,1,A,7134
-68776,South Sioux City,Nebraska,1456,A,3,A,10622
-68777,Spencer,Nebraska,819,C,2,F,5115
-68791,Wisner,Nebraska,599,F,4,B,7840
-68803,Grand Island,Nebraska,271,A,1,C,6355
-68812,Amherst,Nebraska,834,C,2,B,5169
-68832,Doniphan,Nebraska,1313,B,2,A,7519
-68832,Doniphan,Nebraska,1886,F,3,B,6129
-68834,Eddyville,Nebraska,1459,C,1,A,6878
-68845,Kearney,Nebraska,1531,F,5,C,6590
-68872,Saint Libory,Nebraska,540,C,2,D,4707
-68927,Bertrand,Nebraska,1192,C,2,F,4698
-68940,Funk,Nebraska,559,D,4,B,7243
-68944,Harvard,Nebraska,1681,F,3,A,5860
-68946,Hendley,Nebraska,1004,F,1,B,5012
-69046,Wilsonville,Nebraska,1187,C,5,A,8624
-69103,North Platte,Nebraska,655,C,2,C,6364
-69132,Dickens,Nebraska,691,F,5,C,4255
-69220,Sparks,Nebraska,383,D,2,F,3319
-70032,Arabi,Louisiana,1342,A,4,B,14642
-70057,Hahnville,Louisiana,463,B,5,D,8735
-70076,Mount Airy,Louisiana,604,F,3,B,6731
-70118,New Orleans,Louisiana,377,F,4,D,4610
-70122,New Orleans,Louisiana,643,B,4,C,8538
-70128,New Orleans,Louisiana,143,C,5,C,8615
-70131,New Orleans,Louisiana,735,A,5,D,8143
-70141,New Orleans,Louisiana,822,B,3,C,7884
-70148,New Orleans,Louisiana,883,D,1,B,4511
-70153,New Orleans,Louisiana,28,F,1,D,4105
-70374,Lockport,Louisiana,1865,F,2,C,4096
-70422,Amite,Louisiana,1770,D,4,F,6091
-70442,Husser,Louisiana,1076,F,1,D,3320
-70455,Robert,Louisiana,843,D,4,F,5048
-70504,Lafayette,Louisiana,1230,A,1,B,8669
-70517,Breaux Bridge,Louisiana,116,B,5,D,7009
-70523,Charenton,Louisiana,876,D,2,A,3886
-70538,Franklin,Louisiana,233,C,2,F,5175
-70563,New Iberia,Louisiana,1523,B,1,B,9172
-70586,Ville Platte,Louisiana,1797,F,5,F,5823
-70611,Lake Charles,Louisiana,382,A,3,C,8815
-70611,Lake Charles,Louisiana,871,F,5,B,8545
-70612,Lake Charles,Louisiana,1415,D,4,B,8637
-70658,Reeves,Louisiana,1832,C,5,D,5259
-70659,Rosepine,Louisiana,380,A,1,A,8604
-70664,Sulphur,Louisiana,1162,F,1,B,4103
-70665,Sulphur,Louisiana,1625,A,3,A,10985
-70727,Denham Springs,Louisiana,975,C,1,C,6049
-70738,Burnside,Louisiana,932,C,4,D,7897
-70743,Hester,Louisiana,101,A,4,A,11787
-70785,Walker,Louisiana,1814,C,3,D,5247
-70810,Baton Rouge,Louisiana,874,F,5,C,5174
-70816,Baton Rouge,Louisiana,382,F,3,D,4793
-70821,Baton Rouge,Louisiana,313,C,5,B,10530
-70831,Baton Rouge,Louisiana,755,F,3,B,4980
-70891,Baton Rouge,Louisiana,952,F,2,D,2898
-71007,Bethany,Louisiana,1692,B,1,A,8275
-71037,Haughton,Louisiana,1529,D,3,D,3612
-71051,Elm Grove,Louisiana,116,A,3,D,6808
-71061,Oil City,Louisiana,1265,B,3,F,6996
-71068,Ringgold,Louisiana,925,F,3,B,5406
-71109,Shreveport,Louisiana,1078,B,1,B,9219
-71109,Shreveport,Louisiana,1361,D,2,A,5110
-71150,Shreveport,Louisiana,934,D,4,F,3969
-71156,Shreveport,Louisiana,1522,A,5,D,8065
-71209,Monroe,Louisiana,1280,C,4,D,6667
-71210,Monroe,Louisiana,793,C,2,A,6511
-71243,Fort Necessity,Louisiana,663,A,2,A,8475
-71247,Hodge,Louisiana,133,C,3,B,7905
-71306,Alexandria,Louisiana,1170,A,2,B,8448
-71365,Ruby,Louisiana,1047,D,3,A,4297
-71377,Wildsville,Louisiana,1046,F,5,C,7874
-71425,Enterprise,Louisiana,1923,F,2,C,3276
-71613,Pine Bluff,Arkansas,353,B,3,A,8928
-71647,Hermitage,Arkansas,467,A,2,B,8831
-71740,Emerson,Arkansas,1894,D,5,B,9022
-71749,Junction City,Arkansas,1231,B,2,D,5535
-71752,McNeil,Arkansas,1180,F,3,C,4646
-71764,Stephens,Arkansas,1453,B,4,F,8695
-71823,Ben Lomond,Arkansas,625,C,1,D,4165
-71823,Ben Lomond,Arkansas,241,F,2,B,5017
-71847,McCaskill,Arkansas,1548,B,4,D,7140
-71851,Mineral Springs,Arkansas,1716,F,4,F,4143
-71942,Friendship,Arkansas,766,D,5,F,3960
-71970,Story,Arkansas,617,F,3,A,4761
-72037,Coy,Arkansas,1565,B,3,D,7857
-72040,Des Arc,Arkansas,1259,A,5,D,6926
-72057,Grapevine,Arkansas,615,D,2,B,4993
-72060,Griffithville,Arkansas,1731,B,4,C,9265
-72070,Houston,Arkansas,1634,D,3,A,5913
-72079,Jefferson,Arkansas,1408,C,1,D,4695
-72102,McRae,Arkansas,1278,D,4,B,9966
-72137,Rose Bud,Arkansas,1393,A,3,B,10646
-72139,Russell,Arkansas,38,D,5,B,7709
-72149,Searcy,Arkansas,640,F,2,F,3631
-72169,Tupelo,Arkansas,1017,A,5,C,11481
-72181,Wooster,Arkansas,928,D,4,D,4823
-72204,Little Rock,Arkansas,1846,F,1,F,4040
-72260,Little Rock,Arkansas,1059,A,5,F,8849
-72312,Barton,Arkansas,1717,D,2,F,3038
-72325,Clarkedale,Arkansas,1083,B,2,F,5927
-72331,Earle,Arkansas,1534,D,2,A,5148
-72335,Forrest City,Arkansas,1405,C,2,D,5051
-72338,Frenchmans Bayou,Arkansas,867,A,3,B,9642
-72348,Hughes,Arkansas,1593,D,1,D,3144
-72402,Jonesboro,Arkansas,1943,B,3,C,6754
-72412,Beech Grove,Arkansas,563,C,1,A,6342
-72413,Biggers,Arkansas,999,D,1,A,4497
-72421,Cash,Arkansas,78,F,2,F,3777
-72434,Imboden,Arkansas,1235,F,2,F,4066
-72469,Strawberry,Arkansas,811,F,3,B,4959
-72503,Batesville,Arkansas,1451,A,3,F,7391
-72534,Floral,Arkansas,1832,F,3,C,5264
-72584,Violet Hill,Arkansas,1470,A,3,C,7303
-72650,Marshall,Arkansas,1615,A,5,F,8340
-72651,Midway,Arkansas,1841,B,4,D,7700
-72663,Onia,Arkansas,145,D,1,C,4506
-72719,Centerton,Arkansas,1979,A,4,F,10145
-72728,Elm Springs,Arkansas,1842,C,2,B,6815
-72733,Gateway,Arkansas,914,D,5,F,4972
-72812,Russellville,Arkansas,1345,B,3,C,8661
-72826,Blue Mountain,Arkansas,1081,A,5,A,12408
-72830,Clarksville,Arkansas,582,F,2,D,3264
-72852,Oark,Arkansas,1582,C,1,B,6692
-72857,Plainview,Arkansas,1109,A,4,C,9636
-72926,Boles,Arkansas,1949,A,2,F,5834
-72926,Boles,Arkansas,991,B,5,B,12562
-72945,Midland,Arkansas,1979,C,4,B,11239
-73023,Chickasha,Oklahoma,970,D,1,C,3733
-73049,Jones,Oklahoma,902,B,3,A,10646
-73062,Mountain View,Oklahoma,1102,F,4,F,6169
-73066,Nicoma Park,Oklahoma,1043,B,5,B,12288
-73082,Rush Springs,Oklahoma,1466,B,3,F,7521
-73095,Wayne,Oklahoma,511,F,2,B,4298
-73111,Oklahoma City,Oklahoma,1357,C,4,C,7159
-73128,Oklahoma City,Oklahoma,1450,D,5,A,5673
-73128,Oklahoma City,Oklahoma,1178,F,1,B,5429
-73134,Oklahoma City,Oklahoma,322,F,4,A,7454
-73144,Oklahoma City,Oklahoma,360,F,4,A,9809
-73148,Oklahoma City,Oklahoma,780,F,1,F,3819
-73167,Oklahoma City,Oklahoma,1566,C,1,D,5604
-73438,Healdton,Oklahoma,944,A,1,B,8171
-73440,Lebanon,Oklahoma,1030,D,4,D,4121
-73441,Leon,Oklahoma,252,D,3,D,3727
-73527,Cache,Oklahoma,1698,D,3,A,5812
-73531,Devol,Oklahoma,1569,A,5,B,9820
-73557,Medicine Park,Oklahoma,650,D,1,F,3995
-73669,Thomas,Oklahoma,559,B,1,F,5186
-73673,Willow,Oklahoma,45,A,1,F,6679
-73719,Amorita,Oklahoma,26,C,5,C,6889
-73727,Carrier,Oklahoma,1552,F,2,A,4485
-73744,Hitchcock,Oklahoma,806,D,5,C,6752
-73746,Hopeton,Oklahoma,222,A,2,F,6015
-73757,Lucien,Oklahoma,1096,A,3,B,10956
-73757,Lucien,Oklahoma,1637,C,2,C,5118
-73764,Omega,Oklahoma,790,D,1,D,4258
-73802,Woodward,Oklahoma,1004,B,1,A,8341
-73840,Fargo,Oklahoma,1794,F,2,B,5460
-73841,Fort Supply,Oklahoma,470,A,4,B,9683
-73939,Goodwell,Oklahoma,1420,F,5,D,5904
-74012,Broken Arrow,Oklahoma,128,C,4,D,7810
-74073,Sperry,Oklahoma,1440,F,3,C,5268
-74078,Stillwater,Oklahoma,1218,F,5,D,5231
-74083,Wann,Oklahoma,833,A,1,A,8339
-74106,Tulsa,Oklahoma,1445,C,2,D,4765
-74110,Tulsa,Oklahoma,1868,D,5,B,6928
-74117,Tulsa,Oklahoma,1211,C,5,C,6333
-74120,Tulsa,Oklahoma,818,F,2,C,4196
-74159,Tulsa,Oklahoma,1329,A,2,B,8932
-74172,Tulsa,Oklahoma,88,A,3,F,6349
-74342,Eucha,Oklahoma,1309,C,3,A,7807
-74363,Quapaw,Oklahoma,300,B,3,C,6834
-74430,Crowder,Oklahoma,594,A,3,B,8184
-74447,Okmulgee,Oklahoma,813,D,2,D,3332
-74451,Park Hill,Oklahoma,1273,A,5,D,8852
-74533,Caney,Oklahoma,1577,C,3,F,5146
-74633,Burbank,Oklahoma,162,F,5,C,6094
-74651,Red Rock,Oklahoma,1624,D,3,A,5573
-74734,Eagletown,Oklahoma,620,B,5,D,8179
-74764,Valliant,Oklahoma,596,A,3,C,8319
-74857,Newalla,Oklahoma,957,C,3,B,8096
-74859,Okemah,Oklahoma,413,D,5,A,10114
-74871,Stonewall,Oklahoma,118,C,3,D,5374
-74881,Wellston,Oklahoma,777,D,3,C,5179
-74931,Bunch,Oklahoma,800,C,3,A,9378
-74951,Panama,Oklahoma,1266,F,4,A,6300
-74955,Sallisaw,Oklahoma,748,A,3,D,6904
-74962,Vian,Oklahoma,1838,D,1,C,3671
-75048,Sachse,Texas,1637,A,4,C,9299
-75071,McKinney,Texas,843,A,1,C,6224
-75086,Plano,Texas,1963,A,2,D,5649
-75117,Edgewood,Texas,316,C,4,C,7989
-75125,Ferris,Texas,1221,D,4,A,7039
-75151,Corsicana,Texas,1976,A,3,C,6207
-75153,Powell,Texas,618,D,5,A,6422
-75157,Rosser,Texas,474,D,5,C,6758
-75207,Dallas,Texas,310,B,2,B,8935
-75208,Dallas,Texas,894,F,2,A,4183
-75214,Dallas,Texas,689,F,4,B,8203
-75229,Dallas,Texas,1558,C,2,B,7677
-75342,Dallas,Texas,378,B,3,A,10844
-75360,Dallas,Texas,555,F,1,B,4266
-75379,Dallas,Texas,971,C,2,D,5199
-75412,Bagwell,Texas,654,A,5,C,8873
-75442,Farmersville,Texas,1387,F,2,A,5876
-75476,Ravenna,Texas,1757,D,2,F,4063
-75494,Winnsboro,Texas,1152,B,4,B,9872
-75559,De Kalb,Texas,1416,C,2,A,7403
-75568,Naples,Texas,1754,F,5,F,4335
-75570,New Boston,Texas,220,D,3,A,6390
-75574,Simms,Texas,257,C,5,D,6300
-75604,Longview,Texas,1260,A,4,D,9027
-75605,Longview,Texas,1280,C,3,B,8472
-75605,Longview,Texas,626,F,5,A,6117
-75638,Daingerfield,Texas,1944,F,5,B,5683
-75639,De Berry,Texas,1101,D,4,B,7088
-75658,Joinerville,Texas,913,B,8,F,14673
-75710,Tyler,Texas,1294,D,1,A,4020
-75773,Mineola,Texas,256,A,4,B,13043
-75779,Neches,Texas,411,C,1,A,7228
-75801,Palestine,Texas,1104,B,3,C,9479
-75802,Palestine,Texas,1788,D,3,A,5516
-75833,Centerville,Texas,1157,D,1,B,4560
-75851,Lovelady,Texas,424,A,1,F,5119
-75946,Garrison,Texas,21,A,1,B,7945
-75948,Hemphill,Texas,1850,F,4,C,5544
-75951,Jasper,Texas,659,A,5,A,10667
-76007,Arlington,Texas,1952,C,1,B,6263
-76019,Arlington,Texas,1009,C,4,B,7702
-76019,Arlington,Texas,1007,F,3,C,5404
-76020,Azle,Texas,1948,F,2,A,5543
-76023,Boyd,Texas,1353,B,4,D,8244
-76033,Cleburne,Texas,1577,B,5,C,9071
-76049,Granbury,Texas,1392,C,4,C,6304
-76054,Hurst,Texas,923,B,2,D,5724
-76054,Hurst,Texas,1508,F,1,C,4027
-76061,Lillian,Texas,1508,B,3,A,10074
-76070,Nemo,Texas,1437,F,1,D,3508
-76098,Azle,Texas,1445,D,3,B,6578
-76104,Fort Worth,Texas,1152,D,2,A,4764
-76106,Fort Worth,Texas,583,F,4,F,4768
-76108,Fort Worth,Texas,727,D,3,A,7149
-76133,Fort Worth,Texas,248,D,1,A,5837
-76136,Fort Worth,Texas,865,A,5,F,7335
-76207,Denton,Texas,197,B,4,D,7527
-76234,Decatur,Texas,1081,A,3,F,7588
-76248,Keller,Texas,382,F,2,A,5095
-76379,Scotland,Texas,1381,A,4,C,8962
-76380,Seymour,Texas,808,F,1,B,6052
-76389,Windthorst,Texas,680,F,1,F,3582
-76462,Lipan,Texas,1382,D,1,A,5279
-76504,Temple,Texas,1946,A,1,D,6694
-76518,Buckholts,Texas,1683,D,2,D,2828
-76523,Davilla,Texas,1577,F,2,C,4329
-76531,Hamilton,Texas,1704,A,3,F,7141
-76543,Killeen,Texas,1028,F,4,F,5161
-76556,Milano,Texas,629,A,2,D,5648
-76567,Rockdale,Texas,420,B,4,D,8404
-76573,Schwertner,Texas,1354,D,1,A,4832
-76574,Taylor,Texas,802,C,2,B,7558
-76621,Abbott,Texas,1819,F,5,F,6244
-76629,Bremond,Texas,958,B,3,A,10752
-76638,Crawford,Texas,1260,C,1,B,6692
-76649,Iredell,Texas,616,B,5,F,7759
-76649,Iredell,Texas,897,F,4,C,5433
-76652,Kopperl,Texas,662,B,3,D,6795
-76670,Milford,Texas,909,A,3,B,8716
-76692,Whitney,Texas,1244,C,4,D,6178
-76703,Waco,Texas,517,A,4,F,6326
-76872,Rochelle,Texas,944,C,3,F,5284
-76875,Rowena,Texas,973,B,2,C,7201
-76902,San Angelo,Texas,314,D,3,A,6396
-76902,San Angelo,Texas,547,D,1,D,4045
-76953,Tennyson,Texas,52,B,5,B,9323
-76957,Wall,Texas,1018,D,4,F,4759
-77011,Houston,Texas,290,D,2,A,5446
-77016,Houston,Texas,1584,C,5,B,10106
-77030,Houston,Texas,376,A,5,D,7892
-77032,Houston,Texas,1907,C,2,A,7169
-77042,Houston,Texas,937,F,5,D,5553
-77080,Houston,Texas,1737,A,4,A,12172
-77091,Houston,Texas,1556,F,5,A,8043
-77095,Houston,Texas,1172,F,2,C,4625
-77203,Houston,Texas,1873,F,5,A,6261
-77235,Houston,Texas,1003,C,4,F,7788
-77256,Houston,Texas,643,D,4,F,5235
-77268,Houston,Texas,1294,D,4,A,4829
-77342,Huntsville,Texas,348,A,3,B,10941
-77347,Humble,Texas,1584,B,3,B,9731
-77353,Magnolia,Texas,1868,B,5,A,14456
-77354,Magnolia,Texas,1471,D,3,B,5796
-77387,Spring,Texas,1464,B,2,B,7993
-77396,Humble,Texas,500,D,1,B,5664
-77430,Damon,Texas,982,C,4,F,6925
-77435,East Bernard,Texas,1623,C,5,A,11770
-77443,Glen Flora,Texas,836,F,3,D,3323
-77447,Hockley,Texas,95,B,4,C,12864
-77470,Rock Island,Texas,705,B,3,A,6920
-77473,San Felipe,Texas,1206,A,2,A,6862
-77475,Sheridan,Texas,2717,A,4,A,18595
-77487,Sugar Land,Texas,1445,A,3,A,8887
-77536,Deer Park,Texas,920,F,3,D,3649
-77650,Port Bolivar,Texas,891,A,2,B,9292
-77834,Brenham,Texas,422,B,1,B,8164
-77845,College Station,Texas,1534,D,5,B,6934
-77852,Deanville,Texas,420,C,1,F,4509
-77878,Snook,Texas,43,B,3,A,8423
-77957,Edna,Texas,1335,D,1,C,3742
-77964,Hallettsville,Texas,1284,D,1,A,5628
-77977,Placedo,Texas,240,F,5,D,4512
-78005,Bigfoot,Texas,106,D,2,F,2650
-78008,Campbellton,Texas,1435,C,3,B,6842
-78012,Christine,Texas,1037,A,5,C,9049
-78022,George West,Texas,1444,B,2,B,8945
-78046,Laredo,Texas,1865,D,1,B,4750
-78058,Mountain Home,Texas,350,F,4,F,3889
-78060,Oakville,Texas,165,D,5,C,5434
-78069,Somerset,Texas,1480,B,1,B,6990
-78075,Whitsett,Texas,789,F,2,A,5276
-78116,Gillett,Texas,1847,A,2,B,7528
-78122,Leesville,Texas,1993,C,4,F,6045
-78140,Nixon,Texas,1694,F,4,D,3992
-78163,Bulverde,Texas,1021,D,2,A,5716
-78215,San Antonio,Texas,1603,C,4,D,7172
-78220,San Antonio,Texas,1874,B,1,F,6205
-78224,San Antonio,Texas,1702,F,1,B,4933
-78235,San Antonio,Texas,178,D,1,C,3102
-78259,San Antonio,Texas,453,A,4,D,7963
-78355,Falfurrias,Texas,1949,C,4,B,12775
-78358,Fulton,Texas,1451,A,3,A,10390
-78372,Orange Grove,Texas,1989,B,5,B,12901
-78375,Premont,Texas,818,F,2,F,2916
-78380,Robstown,Texas,1842,A,2,B,6853
-78387,Sinton,Texas,1285,D,4,A,8339
-78521,Brownsville,Texas,562,F,4,F,5566
-78526,Brownsville,Texas,23,C,1,A,7441
-78535,Combes,Texas,960,D,1,C,4154
-78557,Hidalgo,Texas,1432,B,3,A,10404
-78560,La Joya,Texas,1939,D,5,F,5498
-78567,Los Indios,Texas,151,B,5,A,12312
-78617,Del Valle,Texas,1495,B,1,C,7915
-78623,Fischer,Texas,1408,D,1,C,4000
-78626,Georgetown,Texas,621,A,5,A,9933
-78654,Marble Falls,Texas,617,C,3,D,6305
-78659,Paige,Texas,597,C,3,F,5550
-78681,Round Rock,Texas,1947,B,2,B,7226
-78691,Pflugerville,Texas,1686,F,1,B,4174
-78708,Austin,Texas,1681,A,3,C,7771
-78732,Austin,Texas,392,B,5,C,8609
-78783,Austin,Texas,1366,C,4,A,9934
-78832,Brackettville,Texas,1952,C,3,F,5769
-78837,Comstock,Texas,790,A,1,F,5002
-78843,Laughlin Air Force Base,Texas,1228,A,1,C,7740
-79013,Cactus,Texas,1942,C,1,C,6288
-79036,Fritch,Texas,1297,B,1,D,5600
-79045,Hereford,Texas,1284,F,1,B,4867
-79056,Lipscomb,Texas,109,C,4,D,6492
-79059,Miami,Texas,210,A,3,B,10629
-79066,Pampa,Texas,1869,F,1,C,4319
-79087,Texline,Texas,1994,C,2,A,6313
-79092,Vega,Texas,682,C,3,D,5175
-79108,Amarillo,Texas,1664,F,2,D,4081
-79110,Amarillo,Texas,365,D,4,F,4303
-79178,Amarillo,Texas,1435,A,4,D,9976
-79259,Tell,Texas,912,F,4,A,8469
-79358,Ropesville,Texas,692,F,2,A,4976
-79406,Lubbock,Texas,1340,C,4,B,7960
-79430,Lubbock,Texas,251,A,4,C,8440
-79501,Anson,Texas,1835,F,5,C,4728
-79529,Knox City,Texas,1283,B,1,F,5300
-79546,Rotan,Texas,1668,F,2,C,4183
-79710,Midland,Texas,1929,C,5,A,10928
-79712,Midland,Texas,1224,A,3,D,5357
-79720,Big Spring,Texas,928,D,3,A,6050
-79768,Odessa,Texas,668,B,2,D,6294
-79786,Toyahvale,Texas,320,C,2,A,6390
+32530,Bagdad,Florida,773,C,2,D,3905
+32559,Pensacola,Florida,611,F,3,C,4560
+32583,Milton,Florida,594,D,2,A,
+35016,Arab,Alabama,1584,B,4,F,
+35035,Brierfield,Alabama,1369,C,4,D,6698
+35043,Chelsea,Alabama,617,F,5,F,5024
+35045,Clanton,Alabama,820,D,4,F,4226
+35048,Clay,Alabama,525,F,5,B,5854
+35055,Cullman,Alabama,376,B,3,F,
+35057,Cullman,Alabama,1399,D,4,A,6827
+35064,Fairfield,Alabama,217,D,1,A,
+35070,Garden City,Alabama,285,D,1,F,
+35096,Lincoln,Alabama,860,C,2,A,
+35096,Lincoln,Alabama,1281,C,2,F,4112
+35117,Mount Olive,Alabama,118,B,2,C,6618
+35121,Oneonta,Alabama,1332,B,5,C,11007
+35126,Pinson,Alabama,1316,B,3,B,9892
+35130,Quinton,Alabama,850,D,1,C,3473
+35161,Talladega,Alabama,1864,B,3,D,6487
+35179,Vinemont,Alabama,345,B,1,F,4950
+35204,Birmingham,Alabama,507,B,4,F,8698
+35209,Birmingham,Alabama,754,D,3,A,4598
+35213,Birmingham,Alabama,382,D,4,D,5133
+35218,Birmingham,Alabama,955,D,3,D,3704
+35219,Birmingham,Alabama,808,A,4,B,13042
+35222,Birmingham,Alabama,1250,F,4,A,8593
+35228,Birmingham,Alabama,335,A,4,B,9858
+35236,Birmingham,Alabama,1285,F,1,C,4741
+35244,Birmingham,Alabama,290,B,5,F,9472
+35446,Buhl,Alabama,1529,D,2,A,6418
+35486,Tuscaloosa,Alabama,177,A,5,B,11429
+35542,Bankston,Alabama,292,D,5,C,5665
+35564,Hackleburg,Alabama,949,A,3,F,
+35574,Kennedy,Alabama,1493,C,2,A,
+35603,Decatur,Alabama,1892,B,1,B,8949
+35754,Laceys Spring,Alabama,1198,C,5,C,6805
+35754,Laceys Spring,Alabama,16,F,5,D,5314
+35756,Madison,Alabama,1005,C,3,F,4927
+35758,Madison,Alabama,170,B,3,F,6296
+35765,Pisgah,Alabama,1233,D,4,A,
+35774,Trenton,Alabama,1699,C,3,F,
+35805,Huntsville,Alabama,733,C,3,A,9463
+35894,Huntsville,Alabama,692,D,1,D,3388
+35905,Gadsden,Alabama,1405,C,2,B,5680
+35906,Rainbow City,Alabama,933,B,5,B,14729
+35974,Geraldine,Alabama,1426,B,5,C,9072
+35980,Horton,Alabama,1842,B,5,A,
+35984,Mentone,Alabama,1770,A,5,B,13092
+36005,Banks,Alabama,236,D,1,F,3523
+36015,Chapman,Alabama,99,C,5,B,8551
+36025,Elmore,Alabama,980,C,2,C,4386
+36028,Dozier,Alabama,784,A,1,A,7082
+36049,Luverne,Alabama,821,B,3,C,6684
+36054,Millbrook,Alabama,775,D,2,B,5580
+36061,Perote,Alabama,1346,A,2,C,6293
+36061,Perote,Alabama,1399,F,4,D,4714
+36079,Troy,Alabama,232,F,3,F,3914
+36083,Tuskegee,Alabama,1349,B,5,B,10944
+36105,Montgomery,Alabama,875,C,4,A,
+36111,Montgomery,Alabama,656,C,3,C,6559
+36111,Montgomery,Alabama,1816,F,2,C,4513
+36112,Montgomery,Alabama,1219,F,5,B,8957
+36116,Montgomery,Alabama,1947,B,2,B,9243
+36207,Anniston,Alabama,1214,D,1,F,
+36255,Cragford,Alabama,1091,F,4,F,
+36260,Eastaboga,Alabama,882,B,4,D,6203
+36275,Spring Garden,Alabama,1093,B,4,A,12990
+36312,Ashford,Alabama,1021,A,2,C,7236
+36316,Chancellor,Alabama,1405,F,3,C,4909
+36353,Newville,Alabama,167,D,2,B,4244
+36373,Shorterville,Alabama,515,C,2,F,5017
+36374,Skipperville,Alabama,1631,D,2,D,4141
+36401,Evergreen,Alabama,1254,F,5,D,
+36432,Castleberry,Alabama,1353,A,4,B,11606
+36456,McKenzie,Alabama,1044,B,5,A,12256
+36461,Monroeville,Alabama,379,A,2,D,6427
+36476,River Falls,Alabama,975,A,4,D,8135
+36541,Grand Bay,Alabama,109,D,5,D,5822
+36550,Little River,Alabama,1000,F,4,B,8953
+36560,Mount Vernon,Alabama,650,F,1,C,4428
+36609,Mobile,Alabama,1695,D,3,C,3514
+36610,Mobile,Alabama,1142,F,5,B,6294
+36628,Mobile,Alabama,150,F,5,B,
+36670,Mobile,Alabama,1007,B,1,B,7721
+36670,Mobile,Alabama,810,C,1,F,
+36675,Mobile,Alabama,901,C,5,C,9114
+36768,Pine Apple,Alabama,1181,B,1,B,6691
+36773,Safford,Alabama,329,A,5,D,9244
+36775,Sardis,Alabama,1526,B,2,A,7941
+37015,Ashland City,Tennessee,1412,F,4,A,7576
+37020,Bell Buckle,Tennessee,506,C,2,A,7662
+37047,Cornersville,Tennessee,314,A,2,A,9706
+37048,Cottontown,Tennessee,180,D,4,C,7018
+37050,Cumberland City,Tennessee,1077,B,3,C,7862
+37052,Cunningham,Tennessee,1193,F,4,D,6127
+37057,Dixon Springs,Tennessee,181,C,2,C,5500
+37101,McEwen,Tennessee,949,D,1,C,
+37118,Milton,Tennessee,1803,D,5,C,6023
+37143,Pegram,Tennessee,1117,D,3,B,5504
+37144,Petersburg,Tennessee,1972,B,1,B,7664
+37181,Vanleer,Tennessee,689,F,3,B,
+37206,Nashville,Tennessee,457,B,5,C,10687
+37213,Nashville,Tennessee,91,D,3,D,4901
+37214,Nashville,Tennessee,812,F,2,C,
+37217,Nashville,Tennessee,1550,A,5,C,10105
+37222,Nashville,Tennessee,1154,C,3,D,5069
+37227,Nashville,Tennessee,685,D,3,A,
+37250,Nashville,Tennessee,160,B,5,A,12983
+37301,Altamont,Tennessee,1210,C,1,A,6271
+37328,Elora,Tennessee,830,C,1,B,6371
+37352,Lynchburg,Tennessee,1998,F,5,B,6856
+37356,Monteagle,Tennessee,732,F,5,F,4939
+37360,Normandy,Tennessee,717,B,3,D,7631
+37367,Pikeville,Tennessee,432,C,3,B,7994
+37374,Sequatchie,Tennessee,1911,C,2,B,7363
+37376,Sherwood,Tennessee,1655,F,1,B,
+38011,Brighton,Tennessee,1416,A,3,C,8270
+38039,Grand Junction,Tennessee,442,A,5,C,9529
+38069,Stanton,Tennessee,996,D,5,F,5542
+38079,Tiptonville,Tennessee,1968,B,5,F,
+38101,Memphis,Tennessee,597,C,2,C,5802
+38122,Memphis,Tennessee,648,A,4,F,6991
+38126,Memphis,Tennessee,1630,B,2,A,7417
+38135,Memphis,Tennessee,1483,B,1,F,6093
+38135,Memphis,Tennessee,1952,F,2,A,
+38186,Memphis,Tennessee,1771,A,5,B,13548
+38226,Dukedom,Tennessee,1514,A,2,F,6121
+38233,Kenton,Tennessee,496,B,5,C,
+38317,Bruceton,Tennessee,1028,C,5,B,
+38317,Bruceton,Tennessee,1994,F,4,F,5139
+38326,Counce,Tennessee,479,B,2,A,8040
+38344,Huntingdon,Tennessee,686,A,3,C,7582
+38355,Medina,Tennessee,891,A,4,A,15219
+38425,Clifton,Tennessee,600,B,1,B,7386
+38483,Summertown,Tennessee,1122,B,5,B,
+38501,Cookeville,Tennessee,721,C,2,C,5845
+38502,Cookeville,Tennessee,317,C,4,A,12379
+38552,Chestnut Mound,Tennessee,1763,B,1,D,5947
+38553,Clarkrange,Tennessee,916,A,2,D,5310
+38553,Clarkrange,Tennessee,286,C,4,B,10413
+38555,Crossville,Tennessee,1278,C,3,D,
+38559,Doyle,Tennessee,1571,A,2,B,
+38567,Hickman,Tennessee,363,A,5,D,8285
+38575,Moss,Tennessee,149,C,2,D,4383
+38609,Marks,Mississippi,354,A,1,F,
+38609,Marks,Mississippi,1074,F,3,C,
+38638,Independence,Mississippi,603,B,1,B,6831
+38644,Lula,Mississippi,592,D,2,B,3774
+38646,Marks,Mississippi,141,C,4,D,6383
+38646,Marks,Mississippi,179,D,5,A,6517
+38649,Mount Pleasant,Mississippi,770,B,3,F,
+38649,Mount Pleasant,Mississippi,286,C,2,C,5304
+38650,Myrtle,Mississippi,764,D,1,A,5003
+38654,Olive Branch,Mississippi,571,F,4,B,7501
+38675,Oxford,Mississippi,1161,A,3,D,6522
+38702,Greenville,Mississippi,564,D,4,A,
+38722,Arcola,Mississippi,1561,B,5,C,8793
+38739,Dublin,Mississippi,1152,F,5,F,5952
+38826,Belden,Mississippi,898,B,5,D,
+38841,Ecru,Mississippi,990,B,1,B,8087
+38864,Randolph,Mississippi,406,C,3,A,7266
+38873,Tishomingo,Mississippi,1913,F,3,C,4950
+38901,Grenada,Mississippi,987,B,1,B,8292
+38926,Elliott,Mississippi,1160,C,1,F,
+39069,Fayette,Mississippi,78,C,2,F,4992
+39080,Harperville,Mississippi,688,F,5,D,4817
+39095,Lexington,Mississippi,782,D,2,B,
+39109,Madden,Mississippi,72,D,4,C,5442
+39122,Natchez,Mississippi,1200,D,4,B,6693
+39174,Tougaloo,Mississippi,1183,D,3,A,
+39174,Tougaloo,Mississippi,713,F,1,F,
+39183,Vicksburg,Mississippi,36,A,5,D,7320
+39183,Vicksburg,Mississippi,201,F,4,A,
+39209,Jackson,Mississippi,408,A,1,F,5107
+39211,Jackson,Mississippi,82,A,2,B,7885
+39296,Jackson,Mississippi,371,B,2,A,8211
+39305,Meridian,Mississippi,75,B,2,F,
+39327,Decatur,Mississippi,394,F,5,F,5302
+39330,Enterprise,Mississippi,552,C,3,D,5723
+39348,Paulding,Mississippi,323,A,3,D,6602
+39359,Sebastopol,Mississippi,68,A,2,B,10398
+39429,Columbia,Mississippi,642,B,3,C,9193
+39466,Picayune,Mississippi,1402,C,5,C,7725
+39476,Richton,Mississippi,1148,F,2,B,4030
+39477,Sandersville,Mississippi,1059,F,5,F,
+39478,Sandy Hook,Mississippi,425,B,2,F,
+39480,Soso,Mississippi,819,C,5,C,9264
+39481,Stringer,Mississippi,119,C,2,C,4531
+39555,Hurley,Mississippi,1456,D,1,A,4594
+39571,Pass Christian,Mississippi,1376,F,3,D,4532
+39601,Brookhaven,Mississippi,1742,A,1,D,5941
+39705,Columbus,Mississippi,677,D,3,C,
+39752,Mathiston,Mississippi,487,A,4,F,8084
+39752,Mathiston,Mississippi,1518,D,4,B,5765
+39759,Starkville,Mississippi,1283,A,4,D,
+40144,Harned,Kentucky,973,D,3,B,
+42002,Paducah,Kentucky,1876,F,1,A,4490
+42028,Burna,Kentucky,315,C,2,D,4382
+42032,Columbus,Kentucky,462,D,2,B,6125
+42033,Crayne,Kentucky,302,B,5,D,
+42058,Ledbetter,Kentucky,1319,C,4,F,8039
+42070,Milburn,Kentucky,1267,F,4,A,7290
+42082,Symsonia,Kentucky,1049,D,2,C,3781
+42083,Tiline,Kentucky,211,C,5,F,7439
+42085,Water Valley,Kentucky,1885,D,5,C,5098
+42129,Edmonton,Kentucky,1562,F,2,C,4826
+42134,Franklin,Kentucky,1053,A,5,C,9635
+42151,Hestand,Kentucky,1425,C,4,D,
+42166,Summer Shade,Kentucky,1798,C,1,C,4859
+42211,Cadiz,Kentucky,1684,B,5,D,7605
+42211,Cadiz,Kentucky,1798,D,2,A,5361
+42262,Oak Grove,Kentucky,1413,F,1,C,
+42338,Dundee,Kentucky,1696,B,4,D,
+42348,Hawesville,Kentucky,1956,D,3,F,
+42377,West Louisville,Kentucky,1346,C,2,D,
+42378,Whitesville,Kentucky,955,C,1,A,
+42444,Poole,Kentucky,1620,D,4,B,
+42444,Poole,Kentucky,322,F,2,D,
+42450,Providence,Kentucky,1216,B,5,A,11410
+42451,Reed,Kentucky,1468,C,1,B,7081
+42455,Sebree,Kentucky,956,B,5,B,10178
+42642,Russell Springs,Kentucky,1550,C,5,F,7330
+42753,Knifley,Kentucky,1960,D,1,D,2949
+46310,Demotte,Indiana,742,D,1,F,
+46327,Hammond,Indiana,529,B,2,D,5891
+46348,La Crosse,Indiana,740,C,5,D,7133
+46368,Portage,Indiana,926,B,5,C,9238
+46374,San Pierre,Indiana,270,F,2,A,4713
+46380,Tefft,Indiana,420,A,1,B,8156
+46381,Thayer,Indiana,1541,F,4,A,9286
+46409,Gary,Indiana,1275,C,5,F,6521
+47556,Mariah Hill,Indiana,1863,A,1,C,6740
+47620,Mount Vernon,Indiana,1851,B,5,D,8502
+47630,Newburgh,Indiana,384,A,4,A,11361
+47683,Somerville,Indiana,1617,B,5,F,
+47712,Evansville,Indiana,1348,C,1,F,4764
+47715,Evansville,Indiana,1402,A,4,F,8927
+47722,Evansville,Indiana,1975,C,4,D,9054
+47750,Evansville,Indiana,1796,A,3,B,9768
+47948,Goodland,Indiana,13,C,5,D,6943
+47951,Kentland,Indiana,754,F,3,D,3823
+49802,Kingsford,Michigan,1067,A,1,B,
+49876,Quinnesec,Michigan,1759,B,2,B,
+49920,Crystal Falls,Michigan,318,C,1,D,3825
+49969,Watersmeet,Michigan,1020,A,5,F,9131
+50001,Ackworth,Iowa,699,C,5,F,7385
+50002,Adair,Iowa,576,A,2,B,9410
+50023,Ankeny,Iowa,772,C,3,A,6979
+50050,Churdan,Iowa,105,D,5,D,5529
+50051,Clemons,Iowa,1848,B,3,B,8218
+50068,Derby,Iowa,394,F,4,B,7515
+50076,Exira,Iowa,1759,B,2,F,5563
+50076,Exira,Iowa,1774,C,2,C,
+50103,Garden Grove,Iowa,41,C,5,D,8634
+50139,Lacona,Iowa,919,C,3,B,
+50143,Leighton,Iowa,1034,D,3,D,
+50158,Marshalltown,Iowa,815,D,4,B,8717
+50169,Mitchellville,Iowa,120,A,4,A,13035
+50174,Murray,Iowa,678,A,4,C,8519
+50264,Weldon,Iowa,1362,D,5,F,5169
+50334,Des Moines,Iowa,1434,F,1,D,3565
+50381,Des Moines,Iowa,1263,C,1,A,5450
+50391,Des Moines,Iowa,97,B,2,B,9767
+50401,Mason City,Iowa,1423,C,1,A,
+50430,Corwith,Iowa,1735,C,3,F,5578
+50447,Kanawha,Iowa,952,F,2,C,4732
+50459,Northwood,Iowa,1614,A,4,A,11139
+50459,Northwood,Iowa,1707,B,2,F,
+50461,Osage,Iowa,1509,A,2,B,7950
+50465,Rake,Iowa,1970,D,3,F,3565
+50470,Rowan,Iowa,863,A,2,B,8700
+50510,Albert City,Iowa,608,F,3,A,5138
+50519,Bode,Iowa,1743,A,1,B,8582
+50524,Clare,Iowa,1848,B,5,C,8967
+50532,Duncombe,Iowa,1974,D,5,A,8269
+50540,Fonda,Iowa,1146,C,3,B,6714
+50548,Humboldt,Iowa,698,D,3,B,
+50561,Lytton,Iowa,759,B,1,F,
+50575,Pomeroy,Iowa,1666,C,5,F,7770
+50591,Thor,Iowa,638,C,3,C,
+50594,Vincent,Iowa,1394,F,4,C,
+50623,Dewar,Iowa,386,A,5,C,
+50623,Dewar,Iowa,201,A,2,F,5529
+50626,Dunkerton,Iowa,371,F,2,D,3075
+50650,Lamont,Iowa,277,F,1,A,5597
+50658,Nashua,Iowa,190,A,1,A,7792
+50666,Plainfield,Iowa,467,B,2,F,6540
+50845,Diagonal,Iowa,1163,C,3,F,5875
+50853,Massena,Iowa,447,A,5,C,9302
+50983,Des Moines,Iowa,1953,B,1,D,5469
+51001,Akron,Iowa,1329,A,2,F,6285
+51003,Alton,Iowa,1831,A,2,B,7732
+51006,Battle Creek,Iowa,1178,A,5,F,
+51011,Chatsworth,Iowa,481,A,5,D,7939
+51014,Cleghorn,Iowa,412,B,3,A,
+51036,Maurice,Iowa,127,F,3,A,5688
+51060,Ute,Iowa,1877,D,2,A,
+51105,Sioux City,Iowa,166,D,4,B,5677
+51111,Sioux City,Iowa,1735,D,1,A,5694
+51231,Archer,Iowa,1075,D,1,A,5046
+51241,Larchwood,Iowa,11,F,1,C,4645
+51345,Harris,Iowa,973,C,2,B,6090
+51346,Hartley,Iowa,1991,F,3,F,
+51447,Kirkman,Iowa,1363,A,2,F,
+51447,Kirkman,Iowa,1398,B,4,B,
+51447,Kirkman,Iowa,240,F,3,C,
+51452,Lidderdale,Iowa,1814,D,5,D,5907
+51556,Modale,Iowa,1860,F,4,A,8069
+51560,Oakland,Iowa,1808,F,2,B,5402
+51656,Yorktown,Iowa,1869,D,3,B,6723
+52001,Dubuque,Iowa,990,B,5,C,10073
+52038,Dundee,Iowa,249,C,4,C,8142
+52042,Edgewood,Iowa,56,D,5,F,5427
+52044,Elkport,Iowa,1420,D,3,F,
+52065,New Vienna,Iowa,1453,B,4,F,8233
+52072,Saint Olaf,Iowa,163,C,4,B,8359
+52072,Saint Olaf,Iowa,107,F,5,C,
+52232,Hartwick,Iowa,623,A,2,C,6662
+52236,Homestead,Iowa,406,C,1,B,6424
+52243,Iowa City,Iowa,1424,A,1,F,6724
+52257,Luzerne,Iowa,1263,D,1,D,4095
+52306,Mechanicsville,Iowa,1992,A,4,C,8502
+52314,Mount Vernon,Iowa,1674,D,5,F,6119
+52317,North Liberty,Iowa,1245,D,4,A,8767
+52320,Olin,Iowa,1879,B,1,D,
+52323,Oxford Junction,Iowa,866,A,1,F,
+52323,Oxford Junction,Iowa,814,B,5,F,8762
+52324,Palo,Iowa,186,F,4,A,6361
+52338,Swisher,Iowa,1267,B,2,B,9016
+52341,Toddville,Iowa,513,B,4,C,10268
+52344,Troy Mills,Iowa,40,C,2,D,
+52358,West Branch,Iowa,1274,F,2,A,6430
+52410,Cedar Rapids,Iowa,1099,C,4,D,6047
+52554,Eldon,Iowa,652,A,5,D,7524
+52556,Fairfield,Iowa,42,B,5,B,11871
+52572,Moulton,Iowa,1341,D,3,B,5412
+52573,Mount Sterling,Iowa,1343,F,2,A,5354
+52590,Seymour,Iowa,1170,C,4,B,11396
+52625,Donnellson,Iowa,1226,B,1,C,6570
+52630,Hillsboro,Iowa,667,F,2,C,4644
+52648,Pilot Grove,Iowa,1702,B,1,A,8562
+52745,Dixon,Iowa,1080,A,2,D,5120
+52745,Dixon,Iowa,1090,B,3,B,10092
+52748,Eldridge,Iowa,1558,A,1,B,9237
+52755,Lone Tree,Iowa,1753,F,1,F,4227
+52761,Muscatine,Iowa,1973,A,5,B,11821
+53022,Germantown,Wisconsin,1595,D,1,D,3762
+53032,Horicon,Wisconsin,1863,D,5,B,6358
+53032,Horicon,Wisconsin,121,D,5,D,4729
+53034,Hustisford,Wisconsin,262,C,2,D,5460
+53036,Ixonia,Wisconsin,424,A,5,C,8676
+53048,Lomira,Wisconsin,826,D,2,D,3467
+53069,Okauchee,Wisconsin,750,A,2,B,7954
+53095,West Bend,Wisconsin,1957,C,1,D,4317
+53099,Woodland,Wisconsin,708,C,1,B,7535
+53127,Genesee Depot,Wisconsin,637,B,4,A,11542
+53129,Greendale,Wisconsin,1971,B,3,D,7208
+53138,Honey Creek,Wisconsin,1686,B,3,F,7951
+53138,Honey Creek,Wisconsin,1411,C,4,F,6045
+53184,Walworth,Wisconsin,842,C,5,B,8553
+53192,Wilmot,Wisconsin,727,A,1,D,5141
+53203,Milwaukee,Wisconsin,326,A,4,F,7879
+53206,Milwaukee,Wisconsin,1902,B,3,C,6839
+53206,Milwaukee,Wisconsin,1545,D,2,C,
+53209,Milwaukee,Wisconsin,1782,F,4,A,8713
+53218,Milwaukee,Wisconsin,728,B,5,B,10926
+53220,Milwaukee,Wisconsin,99,A,2,C,7772
+53224,Milwaukee,Wisconsin,1627,F,5,F,4513
+53225,Milwaukee,Wisconsin,569,D,1,C,3673
+53227,Milwaukee,Wisconsin,1239,B,1,F,5657
+53278,Milwaukee,Wisconsin,1021,D,2,B,4324
+53540,Gotham,Wisconsin,1610,F,3,A,4647
+53549,Jefferson,Wisconsin,1175,C,1,C,5151
+53574,New Glarus,Wisconsin,1761,F,5,A,6077
+53586,Shullsburg,Wisconsin,1239,D,1,F,
+53588,Spring Green,Wisconsin,839,C,1,F,5149
+53703,Madison,Wisconsin,1436,B,2,D,6164
+53713,Madison,Wisconsin,1206,F,2,D,4215
+53785,Madison,Wisconsin,792,F,5,B,
+53786,Madison,Wisconsin,1886,C,1,F,4959
+53793,Madison,Wisconsin,766,F,5,F,4704
+53802,Beetown,Wisconsin,967,D,2,B,
+53816,Mount Hope,Wisconsin,501,C,1,C,6441
+53916,Beaver Dam,Wisconsin,1906,A,3,D,7304
+53916,Beaver Dam,Wisconsin,335,D,4,B,
+53928,Doylestown,Wisconsin,779,F,2,C,3501
+53934,Friendship,Wisconsin,890,F,2,B,5223
+53942,Lime Ridge,Wisconsin,1922,D,1,D,3761
+53959,Reedsburg,Wisconsin,998,C,3,F,6088
+53962,Union Center,Wisconsin,765,D,4,A,
+54004,Clayton,Wisconsin,1230,B,4,F,9550
+54006,Cushing,Wisconsin,715,A,4,F,8487
+54015,Hammond,Wisconsin,1982,D,3,A,
+54119,Dunbar,Wisconsin,1252,B,1,A,8600
+54125,Goodman,Wisconsin,1977,C,2,D,5716
+54128,Gresham,Wisconsin,482,A,3,B,9269
+54149,Mountain,Wisconsin,1092,D,1,C,
+54155,Oneida,Wisconsin,1306,B,2,A,7665
+54170,Shiocton,Wisconsin,763,B,1,A,9081
+54226,Maplewood,Wisconsin,1474,C,4,D,6639
+54226,Maplewood,Wisconsin,1531,C,2,F,4130
+54403,Wausau,Wisconsin,1314,B,5,A,10620
+54411,Athens,Wisconsin,1739,A,1,A,7177
+54413,Babcock,Wisconsin,1571,F,1,D,3599
+54429,Elderon,Wisconsin,967,D,2,F,4102
+54434,Jump River,Wisconsin,1965,D,3,B,7189
+54454,Milladore,Wisconsin,1468,D,2,C,3917
+54466,Pittsville,Wisconsin,983,A,1,A,8678
+54467,Plover,Wisconsin,1823,C,5,C,
+54470,Rib Lake,Wisconsin,661,A,4,C,10416
+54514,Butternut,Wisconsin,341,A,3,B,10197
+54515,Catawba,Wisconsin,1592,D,3,D,4685
+54519,Conover,Wisconsin,787,C,4,F,6879
+54529,Harshaw,Wisconsin,437,B,1,B,8826
+54529,Harshaw,Wisconsin,924,C,4,D,7619
+54555,Phillips,Wisconsin,44,D,5,F,4284
+54561,Star Lake,Wisconsin,1760,B,1,F,
+54566,Wabeno,Wisconsin,518,F,2,F,3595
+54624,De Soto,Wisconsin,555,F,4,F,4697
+54650,Onalaska,Wisconsin,76,D,5,D,5444
+54660,Tomah,Wisconsin,1084,C,3,B,8817
+54661,Trempealeau,Wisconsin,293,C,3,D,
+54662,Tunnel City,Wisconsin,431,F,5,B,6805
+54722,Augusta,Wisconsin,1388,F,2,D,3723
+54726,Boyd,Wisconsin,66,B,1,B,
+54739,Elk Mound,Wisconsin,26,C,5,B,
+54755,Mondovi,Wisconsin,329,F,2,B,
+54762,Prairie Farm,Wisconsin,1978,C,1,C,
+54767,Spring Valley,Wisconsin,1418,D,1,A,5536
+54828,Couderay,Wisconsin,1816,F,5,D,
+54835,Exeland,Wisconsin,1762,B,3,B,11026
+54844,Herbster,Wisconsin,1742,A,1,C,5777
+54844,Herbster,Wisconsin,1746,D,5,B,7302
+54870,Sarona,Wisconsin,1262,B,2,C,6962
+54871,Shell Lake,Wisconsin,1511,F,4,A,7257
+54876,Stone Lake,Wisconsin,1173,B,4,C,9054
+54935,Fond du Lac,Wisconsin,1170,B,4,C,
+54971,Ripon,Wisconsin,1140,F,3,A,
+54978,Tilleda,Wisconsin,1116,D,5,F,4949
+55007,Brook Park,Minnesota,1134,A,5,C,10256
+55012,Center City,Minnesota,1329,B,5,F,
+55032,Harris,Minnesota,491,C,2,F,
+55049,Medford,Minnesota,81,A,4,C,
+55060,Owatonna,Minnesota,1357,C,1,A,9049
+55066,Red Wing,Minnesota,297,B,2,B,9537
+55120,Saint Paul,Minnesota,206,D,5,A,
+55126,Saint Paul,Minnesota,713,C,5,B,
+55188,Saint Paul,Minnesota,950,F,2,D,3709
+55306,Burnsville,Minnesota,1940,F,5,B,5892
+55311,Maple Grove,Minnesota,1570,C,3,C,7326
+55342,Hector,Minnesota,339,D,5,A,
+55350,Hutchinson,Minnesota,352,D,5,A,8286
+55366,New Auburn,Minnesota,1115,A,1,F,5574
+55375,Saint Bonifacius,Minnesota,1278,B,5,B,10781
+55387,Waconia,Minnesota,1346,F,3,D,4582
+55392,Navarre,Minnesota,1824,F,3,A,6050
+55397,Young America,Minnesota,77,D,1,F,
+55411,Minneapolis,Minnesota,1076,A,1,B,
+55440,Minneapolis,Minnesota,1119,C,2,D,4662
+55459,Minneapolis,Minnesota,404,B,4,D,7379
+55480,Minneapolis,Minnesota,1384,B,4,B,13153
+55571,Maple Plain,Minnesota,617,A,3,C,7467
+55574,Maple Plain,Minnesota,737,C,2,A,6069
+55578,Maple Plain,Minnesota,1083,C,3,A,8450
+55578,Maple Plain,Minnesota,709,F,4,A,8434
+55597,Loretto,Minnesota,911,F,3,F,
+55615,Tofte,Minnesota,1819,D,5,B,
+55702,Alborn,Minnesota,1873,B,3,A,9637
+55707,Barnum,Minnesota,876,B,3,F,
+55717,Canyon,Minnesota,1644,C,1,A,
+55721,Cohasset,Minnesota,1423,D,3,C,4297
+55722,Coleraine,Minnesota,342,A,1,B,7247
+55736,Floodwood,Minnesota,274,A,1,F,
+55763,Makinen,Minnesota,1790,D,5,C,6105
+55768,Mountain Iron,Minnesota,254,C,3,C,7258
+55779,Saginaw,Minnesota,1979,F,5,C,5198
+55783,Sturgeon Lake,Minnesota,189,F,3,C,
+55805,Duluth,Minnesota,1091,A,3,A,
+55805,Duluth,Minnesota,1220,B,4,C,
+55810,Duluth,Minnesota,471,F,5,A,8290
+55815,Duluth,Minnesota,1840,A,2,D,
+55902,Rochester,Minnesota,1456,A,3,A,8666
+55920,Byron,Minnesota,1078,C,5,F,6770
+55927,Dodge Center,Minnesota,1669,C,5,D,6173
+55960,Oronoco,Minnesota,1397,F,3,A,5628
+55960,Oronoco,Minnesota,1312,F,1,C,
+55987,Winona,Minnesota,1858,C,2,C,4852
+55988,Stockton,Minnesota,511,D,4,D,5283
+55990,Wykoff,Minnesota,764,D,4,A,
+56010,Amboy,Minnesota,169,F,3,B,4307
+56030,Essig,Minnesota,38,B,1,D,5112
+56032,Freeborn,Minnesota,1542,B,1,F,5717
+56034,Garden City,Minnesota,1730,C,3,C,6437
+56060,Lewisville,Minnesota,1205,D,5,C,5600
+56083,Sanborn,Minnesota,1665,B,5,A,9056
+56090,Vernon Center,Minnesota,960,D,1,C,4606
+56127,Dunnell,Minnesota,590,D,5,B,7615
+56131,Fulda,Minnesota,280,C,5,B,8065
+56136,Hendricks,Minnesota,1836,C,4,C,7080
+56141,Iona,Minnesota,944,D,3,B,5451
+56144,Jasper,Minnesota,1802,F,3,F,4174
+56161,Okabena,Minnesota,1241,C,2,F,4764
+56187,Worthington,Minnesota,727,F,1,D,3679
+56243,Grove City,Minnesota,107,C,3,A,8436
+56251,Kandiyohi,Minnesota,1951,F,5,B,7805
+56252,Kerkhoven,Minnesota,361,A,2,D,6321
+56295,Watson,Minnesota,1846,A,4,F,
+56303,Saint Cloud,Minnesota,196,B,5,B,11098
+56303,Saint Cloud,Minnesota,1446,C,4,A,11047
+56308,Alexandria,Minnesota,1224,B,5,A,13170
+56312,Belgrade,Minnesota,626,B,1,F,
+56330,Foreston,Minnesota,789,B,1,A,7582
+56343,Kensington,Minnesota,163,D,5,A,5474
+56373,Royalton,Minnesota,1415,F,1,D,3074
+56375,Saint Stephen,Minnesota,1422,F,2,C,3017
+56376,Saint Martin,Minnesota,1168,C,5,D,6519
+56397,Saint Cloud,Minnesota,409,C,3,C,7700
+56398,Saint Cloud,Minnesota,1711,B,3,B,9662
+56430,Ah Gwah Ching,Minnesota,59,F,2,B,4322
+56440,Clarissa,Minnesota,1723,C,1,B,
+56459,Lake Hubert,Minnesota,1563,F,4,B,9036
+56501,Detroit Lakes,Minnesota,1901,F,2,C,4545
+56520,Breckenridge,Minnesota,68,F,4,F,4882
+56561,Moorhead,Minnesota,1726,C,2,D,4656
+56569,Ogema,Minnesota,1001,C,4,A,9362
+56575,Ponsford,Minnesota,730,C,4,A,9122
+56577,Richwood,Minnesota,849,B,3,C,8480
+56589,Waubun,Minnesota,599,B,2,F,5609
+56591,White Earth,Minnesota,650,D,5,F,4550
+56626,Bena,Minnesota,1783,C,1,C,4872
+56666,Ponemah,Minnesota,20,B,5,B,13734
+56676,Shevlin,Minnesota,385,D,4,B,6134
+56731,Humboldt,Minnesota,192,D,1,F,2834
+56734,Lake Bronson,Minnesota,877,B,3,B,9178
+56762,Warren,Minnesota,1532,D,2,F,3502
+57004,Beresford,South Dakota,1745,D,2,A,
+57007,Brookings,South Dakota,1993,A,4,F,7302
+57043,Marion,South Dakota,1026,B,4,D,7017
+57077,Worthing,South Dakota,1389,F,2,D,3574
+57104,Sioux Falls,South Dakota,260,A,2,C,6554
+57107,Sioux Falls,South Dakota,239,B,5,C,7749
+57117,Sioux Falls,South Dakota,1093,A,3,B,8717
+57197,Sioux Falls,South Dakota,1358,D,5,D,7807
+57217,Bradley,South Dakota,918,A,5,D,
+57221,Bryant,South Dakota,432,A,2,A,7742
+57227,Corona,South Dakota,577,A,2,B,8781
+57243,Henry,South Dakota,238,D,5,B,6845
+57251,Marvin,South Dakota,692,A,1,C,
+57263,South Shore,South Dakota,1157,A,4,C,11434
+57272,Wallace,South Dakota,1942,B,1,C,5579
+57340,Fulton,South Dakota,914,D,1,D,
+57348,Hitchcock,South Dakota,1890,F,1,F,3937
+57382,Wessington Springs,South Dakota,172,A,1,D,5451
+57383,White Lake,South Dakota,904,B,4,D,9534
+57399,Huron,South Dakota,986,A,4,F,8801
+57421,Amherst,South Dakota,1344,C,5,A,9635
+57435,Cresbard,South Dakota,289,F,3,C,
+57436,Doland,South Dakota,1700,F,1,C,3916
+57438,Faulkton,South Dakota,1231,D,1,A,3775
+57469,Redfield,South Dakota,1063,F,5,D,4767
+57470,Rockham,South Dakota,1496,C,5,D,6228
+57501,Pierre,South Dakota,1000,F,3,D,3514
+57532,Fort Pierre,South Dakota,575,D,4,B,6456
+57569,Reliance,South Dakota,777,F,4,B,6142
+57571,Saint Charles,South Dakota,23,C,4,C,8745
+58002,Absaraka,North Dakota,1467,A,1,C,6307
+58006,Arthur,North Dakota,1128,F,5,C,6267
+58012,Casselton,North Dakota,1509,B,1,F,6093
+58018,Colfax,North Dakota,804,C,2,D,5176
+58021,Davenport,North Dakota,1539,F,5,D,5006
+58051,Kindred,North Dakota,1168,A,5,F,8432
+58052,Leonard,North Dakota,1598,F,3,A,6082
+58054,Lisbon,North Dakota,1939,C,4,D,6914
+58075,Wahpeton,North Dakota,978,B,2,A,7106
+58228,Emerado,North Dakota,1679,D,1,B,
+58238,Hamilton,North Dakota,1196,F,3,A,
+58239,Hannah,North Dakota,1456,B,3,A,9582
+58260,Milton,North Dakota,277,C,5,A,12276
+58275,Reynolds,North Dakota,684,B,5,C,
+58278,Thompson,North Dakota,1478,B,1,B,7393
+58301,Devils Lake,North Dakota,1267,D,1,F,
+58310,Agate,North Dakota,926,A,2,B,6461
+58316,Belcourt,North Dakota,733,C,3,D,5894
+58318,Bottineau,North Dakota,847,C,5,D,5835
+58335,Fort Totten,North Dakota,1969,A,5,B,11952
+58352,Munich,North Dakota,1233,B,4,D,7011
+58356,New Rockford,North Dakota,1808,D,2,A,5060
+58362,Penn,North Dakota,1832,F,1,A,5692
+58374,Sheyenne,North Dakota,158,A,4,C,9140
+58422,Cathay,North Dakota,1610,A,5,B,
+58460,Lehr,North Dakota,995,D,5,F,3743
+58484,Sutton,North Dakota,1777,F,4,F,5404
+58503,Bismarck,North Dakota,664,B,3,A,8988
+58505,Bismarck,North Dakota,988,B,4,C,11234
+58542,Hague,North Dakota,1618,A,2,A,10572
+58707,Minot,North Dakota,1201,B,2,C,7383
+58733,Des Lacs,North Dakota,641,A,4,A,11347
+58760,Maxbass,North Dakota,346,D,1,C,
+58782,Sherwood,North Dakota,1627,F,4,F,5022
+58790,Velva,North Dakota,1588,F,4,F,4436
+58801,Williston,North Dakota,920,A,1,B,8389
+58833,Ambrose,North Dakota,750,A,5,F,10905
+60017,Des Plaines,Illinois,528,A,5,D,8067
+60026,Glenview,Illinois,1560,B,2,A,8239
+60029,Golf,Illinois,1283,B,3,C,8771
+60035,Highland Park,Illinois,932,B,3,B,9543
+60040,Highwood,Illinois,1599,B,3,D,6961
+60047,Lake Zurich,Illinois,1099,A,5,B,16004
+60050,McHenry,Illinois,682,B,1,A,7020
+60073,Round Lake,Illinois,1596,F,4,D,5546
+60090,Wheeling,Illinois,468,C,3,A,8209
+60105,Bensenville,Illinois,1981,A,4,D,10445
+60108,Bloomingdale,Illinois,1347,A,5,A,10680
+60110,Carpentersville,Illinois,1319,F,5,D,
+60121,Elgin,Illinois,1336,B,3,C,
+60124,Elgin,Illinois,728,C,4,D,6579
+60162,Hillside,Illinois,1837,F,4,B,8962
+60168,Schaumburg,Illinois,810,D,3,F,3655
+60169,Hoffman Estates,Illinois,640,C,2,D,5693
+60171,River Grove,Illinois,829,D,2,C,4328
+60175,Saint Charles,Illinois,1241,F,3,A,5675
+60179,Hoffman Estates,Illinois,276,B,5,B,14100
+60301,Oak Park,Illinois,1143,A,3,D,7678
+60399,Wood Dale,Illinois,214,F,5,B,6021
+60406,Blue Island,Illinois,1103,D,2,C,4940
+60412,Chicago Heights,Illinois,543,A,4,B,10610
+60419,Dolton,Illinois,841,B,4,F,10060
+60420,Dwight,Illinois,623,C,3,D,5750
+60423,Frankfort,Illinois,1520,B,5,C,
+60423,Frankfort,Illinois,1831,C,2,F,4390
+60443,Matteson,Illinois,408,F,3,C,5101
+60455,Bridgeview,Illinois,870,A,2,F,
+60459,Burbank,Illinois,1661,F,5,B,7332
+60462,Orland Park,Illinois,1654,B,5,A,9926
+60462,Orland Park,Illinois,169,D,5,C,6734
+60468,Peotone,Illinois,396,B,4,D,6649
+60473,South Holland,Illinois,1634,D,3,D,3688
+60474,South Wilmington,Illinois,1518,A,2,F,6228
+60490,Bolingbrook,Illinois,1208,F,3,C,5450
+60507,Aurora,Illinois,542,D,4,A,7342
+60515,Downers Grove,Illinois,1940,A,3,A,8992
+60539,Mooseheart,Illinois,155,D,1,B,3866
+60545,Plano,Illinois,490,A,1,A,6392
+60556,Waterman,Illinois,1964,B,1,B,
+60602,Chicago,Illinois,677,F,3,B,
+60615,Chicago,Illinois,1185,D,2,D,2959
+60625,Chicago,Illinois,751,F,3,C,4866
+60630,Chicago,Illinois,1194,D,3,C,5604
+60638,Chicago,Illinois,310,C,1,D,5812
+60639,Chicago,Illinois,1293,A,5,F,8022
+60649,Chicago,Illinois,970,C,2,C,
+60653,Chicago,Illinois,256,F,2,D,3410
+60664,Chicago,Illinois,1544,B,4,A,11276
+60669,Chicago,Illinois,1264,B,3,F,
+60695,Chicago,Illinois,31,C,5,F,7062
+60915,Bradley,Illinois,1696,D,2,A,5173
+60928,Crescent City,Illinois,529,A,3,D,6096
+60945,Iroquois,Illinois,1319,D,4,B,7650
+60948,Loda,Illinois,897,F,1,B,5602
+60951,Martinton,Illinois,1305,F,4,C,5382
+60959,Piper City,Illinois,1201,A,1,F,5707
+61015,Chana,Illinois,1913,D,2,B,6084
+61030,Forreston,Illinois,1484,B,5,F,7857
+61032,Freeport,Illinois,1195,B,1,C,
+61042,Harmon,Illinois,607,F,5,B,6591
+61049,Lindenwood,Illinois,1097,D,4,D,4928
+61068,Rochelle,Illinois,209,D,4,B,6585
+61087,Warren,Illinois,1551,F,2,B,4878
+61101,Rockford,Illinois,212,D,5,B,
+61102,Rockford,Illinois,1949,F,3,C,5257
+61104,Rockford,Illinois,1522,B,5,C,9628
+61107,Rockford,Illinois,307,B,5,D,8727
+61239,Carbon Cliff,Illinois,23,A,2,C,6568
+61243,Deer Grove,Illinois,1512,B,4,A,11451
+61250,Erie,Illinois,184,C,4,D,
+61256,Hampton,Illinois,1102,A,5,D,8056
+61259,Illinois City,Illinois,984,B,5,B,10580
+61263,Matherville,Illinois,1997,A,3,A,9663
+61263,Matherville,Illinois,656,A,4,C,9774
+61275,Port Byron,Illinois,838,F,5,C,
+61310,Amboy,Illinois,982,D,3,A,6697
+61320,Dalzell,Illinois,1706,F,1,C,4197
+61323,Dover,Illinois,1872,D,1,F,3981
+61331,Lee Center,Illinois,774,C,1,A,
+61341,Marseilles,Illinois,1689,F,1,A,4719
+61350,Ottawa,Illinois,1260,F,2,D,
+61359,Seatonville,Illinois,956,A,3,C,6108
+61360,Seneca,Illinois,658,F,1,D,3168
+61362,Spring Valley,Illinois,136,C,1,D,4231
+61364,Streator,Illinois,654,C,4,F,7041
+61368,Tiskilwa,Illinois,1345,F,4,D,5033
+61401,Galesburg,Illinois,1664,B,1,F,4927
+61411,Adair,Illinois,615,B,5,A,
+61421,Bradford,Illinois,1983,D,1,B,
+61423,Cameron,Illinois,1873,F,1,D,
+61433,Fiatt,Illinois,527,A,3,D,6211
+61439,Henderson,Illinois,171,A,5,D,8512
+61453,Little York,Illinois,859,C,4,F,5974
+61454,Lomax,Illinois,489,A,5,F,
+61475,Sciota,Illinois,434,A,5,A,
+61486,Viola,Illinois,1255,B,5,C,8058
+61532,Forest City,Illinois,127,C,3,A,7072
+61540,Lacon,Illinois,1369,B,3,B,10594
+61545,Lowpoint,Illinois,757,D,1,C,3694
+61552,Mossville,Illinois,614,F,5,F,4583
+61561,Roanoke,Illinois,617,C,4,F,6483
+61613,Peoria,Illinois,744,B,3,A,10085
+61613,Peoria,Illinois,1565,F,1,A,4203
+61735,Dewitt,Illinois,409,A,4,B,11290
+61742,Goodfield,Illinois,904,C,4,D,
+61743,Graymont,Illinois,672,B,3,A,
+61749,Kenney,Illinois,46,F,5,F,4606
+61769,Saunemin,Illinois,1599,D,3,B,4670
+61776,Towanda,Illinois,1661,B,3,F,6447
+61801,Urbana,Illinois,614,A,3,A,10914
+61810,Allerton,Illinois,83,C,1,D,
+61825,Champaign,Illinois,1738,D,1,B,4794
+61831,Collison,Illinois,1611,D,4,D,5405
+61840,Dewey,Illinois,836,C,4,B,9123
+61840,Dewey,Illinois,249,C,3,D,5957
+61850,Indianola,Illinois,816,D,5,A,8415
+61882,Weldon,Illinois,1116,A,2,D,5866
+61933,Kansas,Illinois,1750,D,3,C,4045
+61951,Sullivan,Illinois,386,F,5,C,5536
+62032,Fillmore,Illinois,1942,B,2,B,9294
+62033,Gillespie,Illinois,1261,F,1,B,4376
+62035,Godfrey,Illinois,1703,D,3,F,4342
+62036,Golden Eagle,Illinois,1435,C,2,C,5850
+62048,Hartford,Illinois,1095,D,5,F,5909
+62058,Livingston,Illinois,1577,D,3,D,3335
+62061,Marine,Illinois,1493,C,1,A,
+62071,National Stock Yards,Illinois,1493,B,5,A,14383
+62076,Ohlman,Illinois,1315,B,4,A,9451
+62095,Wood River,Illinois,589,D,1,F,
+62203,East Saint Louis,Illinois,1470,A,1,D,
+62214,Addieville,Illinois,1751,A,3,B,
+62223,Belleville,Illinois,187,B,2,C,
+62248,Hecker,Illinois,115,C,5,D,
+62257,Marissa,Illinois,884,D,4,F,4847
+62264,New Athens,Illinois,1445,F,5,B,7401
+62274,Pinckneyville,Illinois,1809,F,3,F,
+62278,Red Bud,Illinois,42,A,3,D,6841
+62279,Renault,Illinois,1352,A,4,D,
+62346,La Prairie,Illinois,832,B,2,C,7223
+62361,Pearl,Illinois,145,F,1,A,5391
+62366,Pleasant Hill,Illinois,1040,F,2,B,5654
+62374,Tennessee,Illinois,1609,A,4,A,
+62417,Bridgeport,Illinois,190,F,3,C,4096
+62441,Marshall,Illinois,264,B,3,C,
+62447,Neoga,Illinois,976,C,4,F,7348
+62461,Shumway,Illinois,1838,A,5,B,11236
+62462,Sigel,Illinois,469,F,4,D,
+62465,Strasburg,Illinois,618,D,4,C,6242
+62475,West Liberty,Illinois,1427,B,5,C,10601
+62480,Willow Hill,Illinois,1032,C,5,A,
+62515,Buffalo,Illinois,851,F,4,D,5474
+62517,Bulpitt,Illinois,1670,B,3,C,
+62521,Decatur,Illinois,651,A,4,B,11275
+62533,Farmersville,Illinois,1219,D,3,A,5076
+62535,Forsyth,Illinois,939,B,2,C,
+62547,Mount Auburn,Illinois,1810,B,4,B,11925
+62573,Warrensburg,Illinois,1006,F,2,D,2958
+62610,Alsey,Illinois,593,B,4,B,
+62633,Easton,Illinois,964,A,3,D,
+62660,Literberry,Illinois,1697,B,2,A,8179
+62665,Meredosia,Illinois,249,B,2,C,6295
+62796,Springfield,Illinois,92,B,1,F,5489
+62824,Clay City,Illinois,1309,D,5,F,6047
+62842,Geff,Illinois,1064,B,5,C,9584
+62844,Grayville,Illinois,1536,C,3,D,5613
+62844,Grayville,Illinois,1435,D,1,C,4728
+62848,Irvington,Illinois,514,A,1,A,8225
+62848,Irvington,Illinois,248,A,3,D,6587
+62856,Logan,Illinois,1728,A,3,F,7174
+62882,Sandoval,Illinois,767,A,2,B,8695
+62888,Tamaroa,Illinois,1058,A,4,A,12754
+62898,Woodlawn,Illinois,1724,B,2,A,8510
+62910,Brookport,Illinois,1805,C,2,D,5001
+62917,Carrier Mills,Illinois,318,B,4,F,8667
+62930,Eldorado,Illinois,1917,D,4,D,5767
+62935,Galatia,Illinois,454,C,5,B,7675
+62950,Jacob,Illinois,955,A,1,B,
+62954,Junction,Illinois,960,F,2,D,
+62959,Marion,Illinois,995,C,3,D,6287
+62967,New Burnside,Illinois,873,C,3,C,6735
+62967,New Burnside,Illinois,764,D,4,F,5541
+62997,Willisville,Illinois,1456,C,3,A,7494
+63005,Chesterfield,Missouri,498,C,4,B,9204
+63013,Beaufort,Missouri,185,F,5,D,6164
+63016,Cedar Hill,Missouri,1432,B,3,F,7746
+63040,Grover,Missouri,801,C,4,F,5921
+63069,Pacific,Missouri,1113,F,2,C,4662
+63084,Union,Missouri,1072,D,3,A,7665
+63099,Fenton,Missouri,345,C,5,B,8462
+63115,Saint Louis,Missouri,1852,C,4,D,
+63136,Saint Louis,Missouri,1755,D,3,B,6731
+63156,Saint Louis,Missouri,319,A,2,C,5596
+63333,Bellflower,Missouri,1128,F,5,F,6477
+63336,Clarksville,Missouri,1252,A,1,C,7098
+63339,Curryville,Missouri,796,F,1,A,4207
+63349,Hawk Point,Missouri,700,A,4,A,13645
+63376,Saint Peters,Missouri,814,B,5,F,
+63389,Winfield,Missouri,287,F,3,B,6101
+63439,Emden,Missouri,676,D,2,C,3984
+63441,Frankford,Missouri,1842,B,4,F,7926
+63460,Novelty,Missouri,1361,F,4,F,5265
+63462,Perry,Missouri,1644,A,4,A,10451
+63467,Saverton,Missouri,130,A,5,A,12629
+63473,Williamstown,Missouri,1368,D,3,B,
+63532,Bevier,Missouri,1777,B,1,B,9938
+63535,Coatsville,Missouri,1663,F,3,C,4496
+63549,La Plata,Missouri,1924,D,2,C,4118
+63559,Novinger,Missouri,1108,A,1,B,
+63561,Queen City,Missouri,847,C,3,C,
+63651,Knob Lick,Missouri,103,B,2,B,8205
+63673,Saint Mary,Missouri,1954,A,1,C,5553
+63673,Saint Mary,Missouri,248,D,3,F,3733
+63738,Brownwood,Missouri,1957,F,1,F,
+63751,Glenallen,Missouri,799,A,5,D,
+63785,Whitewater,Missouri,454,D,1,F,3539
+63839,Cooter,Missouri,1621,A,1,D,
+63901,Poplar Bluff,Missouri,1821,C,2,D,4673
+63937,Ellsinore,Missouri,246,C,4,D,7861
+63964,Silva,Missouri,1579,C,3,B,9241
+63967,Williamsville,Missouri,1780,D,4,A,6566
+64013,Blue Springs,Missouri,467,B,2,A,8171
+64050,Independence,Missouri,256,C,1,B,7308
+64063,Lees Summit,Missouri,726,C,3,C,7252
+64074,Napoleon,Missouri,1787,C,2,B,7516
+64109,Kansas City,Missouri,1219,B,1,A,7947
+64118,Kansas City,Missouri,1676,D,2,F,
+64121,Kansas City,Missouri,201,C,1,B,7065
+64124,Kansas City,Missouri,198,B,3,B,8925
+64124,Kansas City,Missouri,1090,F,1,B,
+64130,Kansas City,Missouri,415,B,4,B,9927
+64137,Kansas City,Missouri,271,D,4,B,7113
+64146,Kansas City,Missouri,680,A,3,A,10423
+64155,Kansas City,Missouri,202,F,3,F,4627
+64162,Kansas City,Missouri,1679,B,2,D,4742
+64195,Kansas City,Missouri,577,C,4,B,10497
+64198,Kansas City,Missouri,444,C,4,D,7348
+64428,Burlington Junction,Missouri,1592,C,4,D,
+64434,Conception Junction,Missouri,1231,B,4,B,
+64448,Faucett,Missouri,643,B,5,F,8528
+64463,King City,Missouri,506,B,3,B,12029
+64469,Maysville,Missouri,1206,A,4,C,8459
+64469,Maysville,Missouri,1923,D,1,F,
+64490,Stewartsville,Missouri,236,F,3,F,3719
+64497,Weatherby,Missouri,392,A,3,B,8779
+64506,Saint Joseph,Missouri,422,C,3,D,
+64647,Jameson,Missouri,1511,A,3,F,
+64651,Laclede,Missouri,1339,D,2,F,3782
+64658,Marceline,Missouri,105,C,5,C,8385
+64667,Newtown,Missouri,31,D,4,F,
+64683,Trenton,Missouri,673,C,5,A,9101
+64744,El Dorado Springs,Missouri,1473,C,4,A,11181
+64748,Golden City,Missouri,1565,C,2,B,8415
+64752,Hume,Missouri,533,D,5,A,7424
+64756,Jerico Springs,Missouri,1334,F,1,A,4892
+64765,Metz,Missouri,1408,C,3,A,9665
+64790,Walker,Missouri,1054,D,1,F,3431
+64803,Joplin,Missouri,1875,A,1,D,6826
+64831,Anderson,Missouri,1590,B,5,D,5876
+64841,Duenweg,Missouri,1062,A,5,F,8736
+64862,Sarcoxie,Missouri,322,F,3,A,4658
+64867,Stella,Missouri,114,F,3,B,4664
+64868,Tiff City,Missouri,1355,C,2,B,
+64999,Kansas City,Missouri,889,B,5,F,7183
+65032,Eugene,Missouri,1690,A,2,F,6045
+65047,Kaiser,Missouri,1318,D,1,C,
+65050,Latham,Missouri,37,D,3,C,4306
+65050,Latham,Missouri,1390,F,1,D,3908
+65074,Russellville,Missouri,156,A,1,C,5874
+65075,Saint Elizabeth,Missouri,467,A,1,D,5890
+65080,Tebbetts,Missouri,499,F,2,D,3294
+65103,Jefferson City,Missouri,100,B,3,F,7769
+65259,Huntsville,Missouri,832,C,3,D,5979
+65329,Florence,Missouri,18,C,1,A,
+65336,Knob Noster,Missouri,1079,C,5,A,8924
+65344,Miami,Missouri,1507,B,3,C,6637
+65350,Smithton,Missouri,78,A,2,B,7930
+65401,Rolla,Missouri,558,F,1,A,
+65402,Rolla,Missouri,65,C,1,A,
+65441,Bourbon,Missouri,818,F,5,C,5360
+65462,Edgar Springs,Missouri,1396,A,1,B,6767
+65536,Lebanon,Missouri,348,D,2,B,5961
+65565,Steelville,Missouri,1518,A,4,A,9332
+65582,Vienna,Missouri,1794,C,3,F,5406
+65583,Waynesville,Missouri,1647,C,4,B,
+65588,Winona,Missouri,311,D,5,C,5710
+65609,Bakersfield,Missouri,1657,F,4,C,
+65631,Clever,Missouri,105,F,4,F,5885
+65636,Diggins,Missouri,514,D,4,B,7794
+65644,Elkland,Missouri,591,F,5,D,5642
+65649,Fair Play,Missouri,449,B,1,C,7028
+65656,Galena,Missouri,1933,C,4,D,6544
+65676,Isabella,Missouri,947,D,2,C,4297
+65706,Marshfield,Missouri,932,C,4,B,12931
+65715,Noble,Missouri,92,C,1,B,7177
+65721,Ozark,Missouri,1070,D,3,C,3967
+65733,Protem,Missouri,1023,A,5,F,7636
+65742,Rogersville,Missouri,1132,D,4,B,7577
+65742,Rogersville,Missouri,1438,D,5,F,4931
+65762,Thornfield,Missouri,1151,C,2,D,5233
+65774,Weaubleau,Missouri,1921,A,4,F,8667
+65786,Macks Creek,Missouri,180,A,1,B,8240
+65786,Macks Creek,Missouri,389,A,2,C,
+65789,Pomona,Missouri,1228,B,2,B,
+65790,Pottersville,Missouri,1962,F,3,C,4534
+65814,Springfield,Missouri,1081,A,5,B,12493
+66017,Denton,Kansas,326,F,5,D,5202
+66051,Olathe,Kansas,1973,F,3,C,3746
+66052,Linwood,Kansas,1147,A,4,C,10238
+66079,Rantoul,Kansas,1949,D,3,C,4459
+66093,Westphalia,Kansas,1351,C,2,D,4722
+66105,Kansas City,Kansas,219,C,3,D,5716
+66109,Kansas City,Kansas,886,F,2,C,4368
+66118,Kansas City,Kansas,1479,F,2,A,4432
+66203,Shawnee,Kansas,717,B,5,B,12411
+66203,Shawnee,Kansas,1229,D,5,C,7524
+66216,Shawnee,Kansas,52,F,4,A,
+66226,Shawnee,Kansas,1623,A,5,D,7898
+66285,Lenexa,Kansas,283,D,3,C,
+66404,Baileyville,Kansas,795,F,2,F,3154
+66407,Belvue,Kansas,943,C,5,A,
+66423,Eskridge,Kansas,1243,D,4,C,6090
+66426,Fostoria,Kansas,815,C,4,C,7368
+66439,Horton,Kansas,345,D,2,B,4262
+66507,Maple Hill,Kansas,1132,A,2,C,
+66531,Riley,Kansas,724,F,1,F,4368
+66539,Silver Lake,Kansas,364,D,5,D,5075
+66540,Soldier,Kansas,304,B,3,B,
+66606,Topeka,Kansas,519,F,3,B,5466
+66629,Topeka,Kansas,352,D,2,F,3401
+66724,Cherokee,Kansas,226,A,4,F,9359
+66733,Erie,Kansas,594,D,5,C,4790
+66736,Fredonia,Kansas,1265,A,5,A,14836
+66753,McCune,Kansas,967,B,5,B,10165
+66756,Mulberry,Kansas,719,C,3,C,
+66772,Savonburg,Kansas,1975,B,3,D,8142
+66775,Stark,Kansas,313,C,3,F,5939
+66830,Admire,Kansas,1047,D,3,F,
+66859,Lost Springs,Kansas,1330,B,5,B,9293
+66870,Virgil,Kansas,1665,F,2,F,3302
+66933,Barnes,Kansas,440,D,4,C,6735
+66941,Esbon,Kansas,743,B,1,D,6095
+67021,Byers,Kansas,228,D,5,F,5714
+67030,Colwich,Kansas,696,F,5,C,4695
+67041,Elbing,Kansas,1894,F,5,C,6392
+67053,Goessel,Kansas,223,D,5,A,7760
+67056,Halstead,Kansas,501,B,3,F,7283
+67061,Hazelton,Kansas,1337,B,5,F,7839
+67068,Kingman,Kansas,965,C,3,F,5076
+67209,Wichita,Kansas,390,A,2,D,5055
+67217,Wichita,Kansas,1891,F,4,D,5723
+67221,McConnell Air Force Base,Kansas,474,A,4,D,7918
+67232,Wichita,Kansas,724,A,2,A,6559
+67277,Wichita,Kansas,1439,D,5,D,
+67354,Mound Valley,Kansas,385,B,2,C,6173
+67355,Niotaze,Kansas,261,D,4,D,
+67418,Barnard,Kansas,1419,D,4,F,
+67455,Lincoln,Kansas,501,F,2,F,3285
+67459,Lorraine,Kansas,835,D,3,C,
+67459,Lorraine,Kansas,612,F,3,F,
+67476,Roxbury,Kansas,745,C,1,F,5259
+67483,Tampa,Kansas,1495,F,4,C,6326
+67514,Arlington,Kansas,127,C,2,A,6792
+67523,Burdett,Kansas,1171,B,5,C,8753
+67567,Pawnee Rock,Kansas,194,D,5,B,8177
+67572,Ransom,Kansas,1907,B,2,F,6527
+67573,Raymond,Kansas,1085,A,5,C,7970
+67653,Norcatur,Kansas,1277,F,3,C,4178
+67657,Palco,Kansas,265,C,5,C,8021
+67659,Penokee,Kansas,1316,A,5,B,13542
+67701,Colby,Kansas,541,F,3,A,5054
+67736,Gove,Kansas,1930,D,2,B,4401
+67751,Park,Kansas,451,D,1,C,3772
+67753,Rexford,Kansas,1477,B,4,D,
+67764,Winona,Kansas,953,A,2,D,5330
+67854,Jetmore,Kansas,871,F,2,D,
+67864,Meade,Kansas,150,B,5,D,8630
+67882,Wright,Kansas,1028,B,1,C,
+67953,Richfield,Kansas,66,C,1,C,
+67954,Rolla,Kansas,560,F,1,D,3348
+68036,Linwood,Nebraska,864,D,2,F,3344
+68063,Uehling,Nebraska,235,C,2,D,3708
+68071,Winnebago,Nebraska,697,A,3,B,
+68073,Yutan,Nebraska,259,C,2,F,4634
+68104,Omaha,Nebraska,1598,F,3,D,4390
+68117,Omaha,Nebraska,303,D,3,D,5104
+68118,Omaha,Nebraska,1186,C,4,C,8187
+68122,Omaha,Nebraska,177,B,2,B,7779
+68123,Bellevue,Nebraska,1430,F,5,D,4811
+68152,Omaha,Nebraska,1325,A,2,B,
+68154,Omaha,Nebraska,494,C,3,C,5740
+68172,Omaha,Nebraska,210,A,2,B,8370
+68176,Omaha,Nebraska,557,C,1,C,5219
+68178,Omaha,Nebraska,543,A,1,A,6607
+68180,Omaha,Nebraska,1857,B,5,C,8128
+68301,Adams,Nebraska,939,C,5,B,
+68307,Avoca,Nebraska,381,A,3,C,6892
+68324,Burr,Nebraska,1399,B,2,B,
+68327,Chester,Nebraska,346,F,4,A,8902
+68331,Cortland,Nebraska,223,D,5,F,6145
+68333,Crete,Nebraska,56,C,5,A,
+68336,Davey,Nebraska,650,A,2,D,
+68340,Deshler,Nebraska,1867,B,4,D,8536
+68344,Douglas,Nebraska,1866,B,1,D,5662
+68361,Geneva,Nebraska,440,A,4,C,
+68452,Ong,Nebraska,1747,F,1,B,5830
+68504,Lincoln,Nebraska,144,B,1,C,6251
+68505,Lincoln,Nebraska,476,B,2,C,7124
+68517,Lincoln,Nebraska,568,F,4,A,6417
+68532,Lincoln,Nebraska,1405,A,2,B,7422
+68620,Albion,Nebraska,560,A,4,F,9025
+68621,Ames,Nebraska,74,C,1,C,5610
+68633,Dodge,Nebraska,1932,C,5,C,8222
+68641,Howells,Nebraska,1386,D,4,A,6675
+68651,Osceola,Nebraska,1818,D,2,D,3575
+68733,Emerson,Nebraska,246,B,5,B,9211
+68733,Emerson,Nebraska,112,C,2,C,4928
+68748,Madison,Nebraska,830,A,5,D,7740
+68758,Newman Grove,Nebraska,883,C,2,B,6113
+68758,Newman Grove,Nebraska,1315,F,2,F,3914
+68766,Page,Nebraska,1872,B,2,D,5832
+68812,Amherst,Nebraska,220,C,4,B,7615
+68812,Amherst,Nebraska,42,C,1,F,4159
+68813,Anselmo,Nebraska,1224,B,1,C,7149
+68813,Anselmo,Nebraska,509,C,4,D,6269
+68816,Archer,Nebraska,1480,D,4,C,5768
+68816,Archer,Nebraska,306,D,2,F,
+68820,Boelus,Nebraska,1228,C,5,B,9925
+68835,Elba,Nebraska,1233,C,2,B,8516
+68854,Marquette,Nebraska,1876,A,3,C,8306
+68932,Campbell,Nebraska,1804,B,2,D,
+68979,Sutton,Nebraska,850,F,3,A,4930
+69001,McCook,Nebraska,618,A,2,B,8349
+69028,Eustis,Nebraska,1078,A,3,F,6619
+69142,Halsey,Nebraska,394,A,5,B,11288
+69142,Halsey,Nebraska,303,F,3,D,3815
+69171,Willow Island,Nebraska,660,A,1,F,5635
+70037,Belle Chasse,Louisiana,636,A,5,A,12685
+70064,Kenner,Louisiana,181,B,3,F,
+70075,Meraux,Louisiana,1204,D,1,D,2966
+70085,Saint Bernard,Louisiana,1202,F,2,C,4034
+70118,New Orleans,Louisiana,1629,D,3,C,5812
+70127,New Orleans,Louisiana,1651,D,2,B,5524
+70128,New Orleans,Louisiana,262,B,3,C,
+70158,New Orleans,Louisiana,1535,B,3,F,6586
+70170,New Orleans,Louisiana,1214,C,3,C,6307
+70184,New Orleans,Louisiana,432,A,4,C,8338
+70356,Gibson,Louisiana,815,A,4,F,7521
+70375,Mathews,Louisiana,791,F,2,F,3743
+70427,Bogalusa,Louisiana,1205,D,2,C,4618
+70431,Bush,Louisiana,1110,C,2,A,6005
+70436,Fluker,Louisiana,1678,C,1,F,
+70441,Greensburg,Louisiana,1936,D,2,D,
+70441,Greensburg,Louisiana,1627,F,3,B,6001
+70443,Independence,Louisiana,502,B,2,B,8539
+70455,Robert,Louisiana,828,F,2,F,3501
+70458,Slidell,Louisiana,109,A,3,F,6356
+70502,Lafayette,Louisiana,1364,B,5,D,7977
+70512,Arnaudville,Louisiana,1291,F,5,F,5876
+70516,Branch,Louisiana,1057,D,4,B,8741
+70525,Church Point,Louisiana,1035,A,1,A,7976
+70551,Leonville,Louisiana,780,F,2,B,4869
+70601,Lake Charles,Louisiana,215,D,2,D,3726
+70633,Dequincy,Louisiana,834,A,2,F,5592
+70643,Grand Chenier,Louisiana,1840,B,2,D,5889
+70653,Merryville,Louisiana,1370,B,2,C,6255
+70656,Pitkin,Louisiana,975,C,2,D,5514
+70707,Gonzales,Louisiana,131,A,3,A,8073
+70711,Albany,Louisiana,254,B,2,F,6560
+70718,Brittany,Louisiana,1989,C,5,B,8440
+70718,Brittany,Louisiana,515,C,3,D,5311
+70730,Ethel,Louisiana,1264,C,1,B,8055
+70761,Norwood,Louisiana,1737,A,4,B,10693
+70767,Port Allen,Louisiana,489,B,1,D,5432
+70770,Pride,Louisiana,721,B,1,A,8480
+70782,Tunica,Louisiana,1298,F,2,C,4706
+70788,White Castle,Louisiana,1398,F,1,B,5222
+70804,Baton Rouge,Louisiana,1263,B,5,A,13628
+70825,Baton Rouge,Louisiana,697,D,3,D,3934
+70892,Baton Rouge,Louisiana,430,B,2,F,
+70894,Baton Rouge,Louisiana,1722,D,4,B,6992
+71003,Athens,Louisiana,1663,C,3,C,5494
+71006,Benton,Louisiana,1568,C,1,C,
+71018,Cotton Valley,Louisiana,1381,F,5,A,8237
+71058,Minden,Louisiana,1459,C,3,C,
+71058,Minden,Louisiana,592,F,1,B,4018
+71069,Rodessa,Louisiana,1775,C,4,F,6454
+71071,Sarepta,Louisiana,214,C,5,B,9399
+71073,Sibley,Louisiana,263,C,2,F,5080
+71079,Summerfield,Louisiana,1829,F,5,B,6519
+71102,Shreveport,Louisiana,741,D,4,A,7760
+71115,Shreveport,Louisiana,537,A,5,F,8459
+71118,Shreveport,Louisiana,1390,A,4,B,12019
+71134,Shreveport,Louisiana,618,C,4,F,
+71153,Shreveport,Louisiana,854,D,4,F,4322
+71156,Shreveport,Louisiana,559,D,3,F,4648
+71164,Shreveport,Louisiana,962,C,2,D,4609
+71212,Monroe,Louisiana,98,D,5,F,5250
+71213,Monroe,Louisiana,495,C,4,D,7304
+71225,Calhoun,Louisiana,310,A,4,B,9036
+71238,Eros,Louisiana,820,C,4,B,
+71243,Fort Necessity,Louisiana,1851,A,4,F,9153
+71249,Jigger,Louisiana,1770,D,5,C,5523
+71261,Mer Rouge,Louisiana,284,F,2,A,5729
+71279,Start,Louisiana,406,C,4,F,7827
+71282,Tallulah,Louisiana,2586,A,8,B,
+71309,Alexandria,Louisiana,911,D,3,A,5467
+71331,Effie,Louisiana,440,A,3,C,6357
+71350,Mansura,Louisiana,861,A,2,A,8015
+71355,Moreauville,Louisiana,1191,A,4,C,9358
+71357,Newellton,Louisiana,93,A,2,F,6343
+71406,Belmont,Louisiana,92,C,4,A,9522
+71419,Converse,Louisiana,928,A,5,B,9722
+71427,Flatwoods,Louisiana,1469,D,4,B,
+71429,Florien,Louisiana,1733,A,2,B,
+71435,Grayson,Louisiana,412,D,2,D,2934
+71439,Hornbeck,Louisiana,422,A,4,B,15787
+71439,Hornbeck,Louisiana,946,D,4,C,6221
+71446,Leesville,Louisiana,1394,B,2,A,9978
+71447,Lena,Louisiana,1400,A,1,C,6222
+71447,Lena,Louisiana,148,C,3,D,
+71452,Melrose,Louisiana,1367,C,2,A,6617
+71454,Montgomery,Louisiana,1438,C,2,D,4777
+71463,Oakdale,Louisiana,1289,C,4,F,6878
+71475,Slagle,Louisiana,1552,F,3,B,
+71479,Tullos,Louisiana,1457,D,1,D,3602
+71612,White Hall,Arkansas,850,D,2,C,3872
+71654,McGehee,Arkansas,1112,A,2,B,9235
+71655,Monticello,Arkansas,1836,F,3,F,3864
+71677,Winchester,Arkansas,1203,C,3,C,6297
+71725,Carthage,Arkansas,113,A,5,D,
+71744,Hampton,Arkansas,286,F,5,F,4965
+71747,Huttig,Arkansas,1806,A,4,F,7317
+71750,Lawson,Arkansas,591,A,2,C,5611
+71754,Magnolia,Arkansas,697,A,4,F,8641
+71754,Magnolia,Arkansas,560,F,5,B,6458
+71763,Sparkman,Arkansas,886,A,3,D,6671
+71763,Sparkman,Arkansas,1795,F,5,A,5505
+71764,Stephens,Arkansas,885,C,5,B,10342
+71858,Rosston,Arkansas,262,C,5,C,
+71859,Saratoga,Arkansas,1404,F,4,B,6624
+71860,Stamps,Arkansas,709,A,5,A,12158
+71861,Taylor,Arkansas,636,A,5,B,10694
+71862,Washington,Arkansas,501,C,1,F,5213
+71909,Hot Springs Village,Arkansas,1423,F,1,C,3950
+72006,Augusta,Arkansas,1773,F,4,A,8189
+72017,Biscoe,Arkansas,1388,A,3,B,9261
+72030,Cleveland,Arkansas,335,F,2,B,4396
+72033,Conway,Arkansas,1947,A,5,F,7812
+72051,Fox,Arkansas,1286,D,2,B,5744
+72057,Grapevine,Arkansas,1302,F,2,A,4700
+72069,Holly Grove,Arkansas,963,D,3,C,3920
+72074,Hunter,Arkansas,1430,D,5,F,5271
+72111,Mount Vernon,Arkansas,1041,C,1,F,4455
+72125,Perry,Arkansas,1636,A,4,D,
+72135,Roland,Arkansas,1751,D,3,C,5199
+72178,West Point,Arkansas,1130,A,3,D,6762
+72179,Wilburn,Arkansas,936,B,4,C,7591
+72190,North Little Rock,Arkansas,1491,A,1,A,8941
+72231,Little Rock,Arkansas,663,C,2,B,
+72310,Armorel,Arkansas,328,F,5,A,6838
+72319,Gosnell,Arkansas,1067,B,3,B,9421
+72319,Gosnell,Arkansas,636,B,1,C,6511
+72322,Caldwell,Arkansas,1551,A,5,B,11182
+72331,Earle,Arkansas,554,C,3,D,5033
+72360,Marianna,Arkansas,735,A,2,A,
+72366,Marvell,Arkansas,1812,F,1,A,5100
+72421,Cash,Arkansas,1500,F,1,B,4226
+72441,McDougal,Arkansas,23,B,2,B,7553
+72442,Manila,Arkansas,1496,A,4,B,13183
+72443,Marmaduke,Arkansas,1445,C,2,A,6458
+72458,Powhatan,Arkansas,844,A,3,D,6500
+72536,Franklin,Arkansas,1368,A,4,B,8922
+72564,Oil Trough,Arkansas,56,B,3,C,8392
+72576,Salem,Arkansas,1100,F,2,F,3879
+72577,Sidney,Arkansas,1206,D,1,D,
+72624,Compton,Arkansas,1921,C,5,C,6765
+72626,Cotter,Arkansas,1974,B,1,D,6000
+72663,Onia,Arkansas,1941,D,2,D,4357
+72722,Decatur,Arkansas,966,B,3,D,6173
+72728,Elm Springs,Arkansas,1677,A,3,D,5606
+72733,Gateway,Arkansas,1926,F,1,F,
+72740,Huntsville,Arkansas,1849,C,2,F,4526
+72752,Pettigrew,Arkansas,428,B,4,C,11361
+72769,Summers,Arkansas,1021,D,3,D,3781
+72801,Russellville,Arkansas,1469,C,3,F,5313
+72802,Russellville,Arkansas,1740,F,5,D,5586
+72820,Alix,Arkansas,250,D,1,A,4230
+72821,Altus,Arkansas,1337,D,1,A,5425
+72827,Bluffton,Arkansas,419,D,4,D,5007
+72833,Danville,Arkansas,1515,F,5,D,5296
+72839,Hagarville,Arkansas,1711,B,3,C,6254
+72839,Hagarville,Arkansas,1153,D,2,F,3086
+72842,Havana,Arkansas,782,B,2,B,
+72843,Hector,Arkansas,1104,C,1,A,7734
+72851,New Blaine,Arkansas,333,A,2,F,5626
+72903,Fort Smith,Arkansas,818,B,2,F,5302
+72943,Magazine,Arkansas,1100,D,1,B,5593
+73007,Arcadia,Oklahoma,1094,A,5,D,6946
+73017,Cement,Oklahoma,822,F,5,D,
+73020,Choctaw,Oklahoma,63,C,2,C,6673
+73024,Corn,Oklahoma,1419,B,3,F,5588
+73034,Edmond,Oklahoma,694,F,4,A,
+73043,Greenfield,Oklahoma,1034,F,5,A,8530
+73055,Marlow,Oklahoma,246,D,2,F,3405
+73062,Mountain View,Oklahoma,1989,A,4,B,
+73062,Mountain View,Oklahoma,280,F,3,B,6068
+73086,Sulphur,Oklahoma,1978,D,4,B,
+73109,Oklahoma City,Oklahoma,1248,B,4,F,8029
+73111,Oklahoma City,Oklahoma,684,B,1,D,4965
+73115,Oklahoma City,Oklahoma,1322,F,2,A,5134
+73143,Oklahoma City,Oklahoma,1192,C,4,B,10591
+73149,Oklahoma City,Oklahoma,1226,F,4,B,6224
+73162,Oklahoma City,Oklahoma,1512,C,1,B,
+73196,Oklahoma City,Oklahoma,1230,F,1,D,
+73430,Burneyville,Oklahoma,1463,A,1,A,7646
+73433,Elmore City,Oklahoma,477,F,1,B,5778
+73443,Lone Grove,Oklahoma,1219,B,1,F,
+73443,Lone Grove,Oklahoma,143,C,4,C,
+73448,Marietta,Oklahoma,1894,F,2,B,5696
+73450,Milburn,Oklahoma,1515,F,1,F,3812
+73488,Tussy,Oklahoma,1533,F,4,B,8938
+73532,Duke,Oklahoma,1044,A,1,A,7801
+73532,Duke,Oklahoma,1396,D,5,D,
+73551,Hollister,Oklahoma,1295,C,2,D,
+73555,Manitou,Oklahoma,826,C,5,B,8330
+73558,Meers,Oklahoma,503,A,4,D,8954
+73571,Vinson,Oklahoma,440,B,3,D,5814
+73573,Waurika,Oklahoma,1561,C,2,A,6724
+73639,Custer City,Oklahoma,1046,C,4,F,
+73645,Erick,Oklahoma,1292,D,5,D,6398
+73673,Willow,Oklahoma,494,A,3,D,6175
+73702,Enid,Oklahoma,282,A,2,A,10263
+73720,Bison,Oklahoma,1739,F,4,D,5724
+73770,Southard,Oklahoma,72,C,3,A,7748
+73855,Rosston,Oklahoma,1553,A,5,A,
+73855,Rosston,Oklahoma,825,A,2,F,5487
+73946,Kenton,Oklahoma,1598,C,3,B,9089
+74014,Broken Arrow,Oklahoma,370,A,2,A,8034
+74027,Delaware,Oklahoma,1041,F,3,C,
+74033,Glenpool,Oklahoma,1331,C,4,A,12831
+74047,Mounds,Oklahoma,805,B,5,F,8670
+74054,Osage,Oklahoma,722,B,1,A,7480
+74056,Pawhuska,Oklahoma,1628,F,3,D,4121
+74068,Shamrock,Oklahoma,1861,F,2,B,5053
+74110,Tulsa,Oklahoma,244,F,4,A,
+74129,Tulsa,Oklahoma,298,A,3,B,9744
+74150,Tulsa,Oklahoma,235,D,5,C,
+74170,Tulsa,Oklahoma,1384,A,5,B,10743
+74182,Tulsa,Oklahoma,880,A,3,B,
+74192,Tulsa,Oklahoma,1880,B,3,C,
+74330,Adair,Oklahoma,514,B,2,A,9458
+74352,Locust Grove,Oklahoma,1873,D,1,F,2855
+74365,Salina,Oklahoma,1841,F,1,C,3503
+74365,Salina,Oklahoma,1106,F,5,D,5619
+74442,Indianola,Oklahoma,1326,C,3,F,6310
+74451,Park Hill,Oklahoma,1672,D,4,A,7130
+74464,Tahlequah,Oklahoma,47,F,4,B,8901
+74472,Whitefield,Oklahoma,616,C,4,A,13167
+74529,Blocker,Oklahoma,202,D,2,C,4461
+74553,Kiowa,Oklahoma,303,C,3,D,6240
+74557,Moyers,Oklahoma,1498,B,1,F,5561
+74640,Hunter,Oklahoma,354,D,2,D,3698
+74650,Ralston,Oklahoma,1796,C,3,B,8726
+74702,Durant,Oklahoma,1157,A,5,B,
+74723,Bennington,Oklahoma,648,D,2,D,3508
+74728,Broken Bow,Oklahoma,1542,D,1,C,
+74760,Spencerville,Oklahoma,549,A,4,C,9015
+74825,Allen,Oklahoma,976,F,5,B,7193
+74836,Connerville,Oklahoma,648,B,5,D,9640
+74845,Hanna,Oklahoma,1097,A,1,F,5789
+74851,McLoud,Oklahoma,769,D,4,A,7465
+74860,Paden,Oklahoma,1643,B,2,D,5029
+74869,Sparks,Oklahoma,797,C,1,B,
+74878,Wanette,Oklahoma,161,B,3,B,
+74947,Monroe,Oklahoma,1337,C,2,B,7776
+74956,Shady Point,Oklahoma,1765,B,3,B,10144
+74957,Smithville,Oklahoma,201,A,1,F,6225
+75007,Carrollton,Texas,590,A,4,A,9781
+75045,Garland,Texas,1903,D,3,D,4030
+75081,Richardson,Texas,185,B,2,D,5634
+75083,Richardson,Texas,125,B,2,A,8734
+75083,Richardson,Texas,1022,B,5,B,10157
+75141,Hutchins,Texas,1371,D,1,F,4242
+75166,Lavon,Texas,1597,D,2,F,3456
+75203,Dallas,Texas,14,F,1,B,6017
+75208,Dallas,Texas,1479,B,5,B,
+75219,Dallas,Texas,451,A,1,F,4714
+75220,Dallas,Texas,697,C,4,A,10870
+75221,Dallas,Texas,74,A,3,C,7887
+75223,Dallas,Texas,1423,A,4,C,10462
+75228,Dallas,Texas,740,B,1,F,4890
+75235,Dallas,Texas,162,D,3,D,3544
+75238,Dallas,Texas,1282,D,5,C,8108
+75260,Dallas,Texas,901,F,3,F,3798
+75284,Dallas,Texas,974,C,5,D,
+75287,Dallas,Texas,784,C,3,C,5484
+75301,Dallas,Texas,1577,B,2,A,7476
+75370,Dallas,Texas,1822,B,1,C,6841
+75402,Greenville,Texas,1794,F,1,D,3105
+75421,Brookston,Texas,94,D,2,B,
+75434,Cunningham,Texas,581,C,1,A,
+75449,Ladonia,Texas,1632,F,1,C,4407
+75473,Powderly,Texas,1134,F,4,D,6385
+75608,Longview,Texas,1497,A,5,C,10184
+75654,Henderson,Texas,279,F,3,D,3627
+75658,Joinerville,Texas,1954,D,3,A,4537
+75660,Judson,Texas,1225,F,2,B,4741
+75668,Lone Star,Texas,1831,F,5,F,4620
+75680,Minden,Texas,1746,F,4,C,7584
+75681,Mount Enterprise,Texas,1823,C,4,A,11227
+75760,Cushing,Texas,467,D,2,A,4634
+75766,Jacksonville,Texas,594,F,5,F,4308
+75784,Reklaw,Texas,228,D,5,F,4444
+75788,Sacul,Texas,487,D,1,D,
+75802,Palestine,Texas,463,B,1,B,7557
+75844,Grapeland,Texas,990,F,1,A,4424
+75880,Tennessee Colony,Texas,954,A,5,F,8223
+75903,Lufkin,Texas,1897,D,4,D,4588
+75925,Alto,Texas,113,D,5,F,4927
+75937,Chireno,Texas,901,B,4,A,11205
+75941,Diboll,Texas,410,A,3,B,12232
+75956,Kirbyville,Texas,1290,D,1,C,4463
+75963,Nacogdoches,Texas,1737,F,1,C,3725
+75965,Nacogdoches,Texas,1632,A,1,F,
+76010,Arlington,Texas,933,C,4,F,6104
+76094,Arlington,Texas,1426,A,5,C,10769
+76105,Fort Worth,Texas,1799,A,5,C,
+76108,Fort Worth,Texas,856,F,2,B,4911
+76121,Fort Worth,Texas,141,A,1,A,7325
+76121,Fort Worth,Texas,1756,F,4,F,4693
+76195,Fort Worth,Texas,1686,B,3,A,7922
+76206,Denton,Texas,493,D,3,C,3832
+76208,Denton,Texas,100,C,2,C,
+76209,Denton,Texas,431,D,4,D,
+76249,Krum,Texas,163,F,2,C,3444
+76309,Wichita Falls,Texas,1673,F,1,B,4930
+76354,Burkburnett,Texas,501,B,1,A,8158
+76370,Megargel,Texas,608,A,1,B,9284
+76379,Scotland,Texas,48,C,5,F,6607
+76385,Vernon,Texas,1932,D,5,B,7377
+76430,Albany,Texas,530,A,3,C,
+76445,Desdemona,Texas,413,A,4,A,12755
+76458,Jacksboro,Texas,1520,C,4,D,5811
+76490,Whitt,Texas,1991,A,5,B,
+76502,Temple,Texas,1878,A,2,A,
+76511,Bartlett,Texas,1917,C,2,B,6749
+76523,Davilla,Texas,1854,D,5,C,6202
+76526,Flat,Texas,1510,D,4,C,
+76530,Granger,Texas,710,F,1,B,6020
+76559,Nolanville,Texas,671,C,3,F,5733
+76665,Meridian,Texas,1241,D,1,D,
+76690,Walnut Springs,Texas,1234,D,2,F,3424
+76702,Waco,Texas,1087,B,3,D,5262
+76708,Waco,Texas,207,B,3,D,
+76710,Waco,Texas,289,C,1,A,6961
+76715,Waco,Texas,1435,A,1,A,
+76798,Waco,Texas,712,C,1,C,5544
+76824,Bend,Texas,1168,A,5,C,11110
+76841,Fort Mc Kavett,Texas,751,A,1,B,6805
+76874,Roosevelt,Texas,1980,D,1,D,3555
+76932,Big Lake,Texas,1171,F,5,A,5618
+76957,Wall,Texas,401,A,5,D,8243
+77011,Houston,Texas,473,C,4,F,7111
+77024,Houston,Texas,777,D,3,A,5877
+77033,Houston,Texas,877,A,2,B,
+77036,Houston,Texas,947,F,3,D,4499
+77037,Houston,Texas,1288,B,2,D,6302
+77038,Houston,Texas,1173,A,1,F,5192
+77038,Houston,Texas,1471,F,2,A,
+77062,Houston,Texas,679,D,5,B,6874
+77081,Houston,Texas,1569,B,5,F,
+77088,Houston,Texas,1601,A,3,D,
+77088,Houston,Texas,784,F,3,D,4952
+77094,Houston,Texas,757,D,3,D,4607
+77099,Houston,Texas,182,F,4,F,4625
+77218,Houston,Texas,804,F,3,F,4562
+77227,Houston,Texas,90,F,3,B,6626
+77230,Houston,Texas,172,B,4,A,9814
+77235,Houston,Texas,72,F,5,F,
+77249,Houston,Texas,1291,A,4,D,8375
+77253,Houston,Texas,1103,C,4,F,
+77254,Houston,Texas,621,A,3,B,
+77270,Houston,Texas,788,A,2,B,9195
+77272,Houston,Texas,1102,B,4,A,
+77274,Houston,Texas,1970,B,2,F,4544
+77287,Houston,Texas,1878,B,3,A,11257
+77289,Houston,Texas,1212,C,5,A,8201
+77290,Houston,Texas,260,B,2,F,6429
+77293,Houston,Texas,1645,C,5,D,
+77332,Dallardsville,Texas,263,D,5,B,6696
+77353,Magnolia,Texas,98,F,2,F,3348
+77360,Onalaska,Texas,543,B,4,B,13239
+77382,Spring,Texas,596,A,1,A,
+77387,Spring,Texas,1418,C,5,F,6219
+77426,Chappell Hill,Texas,1405,A,2,B,
+77431,Danciger,Texas,1439,D,2,D,
+77448,Hungerford,Texas,1018,F,3,C,4751
+77494,Katy,Texas,691,A,5,D,8820
+77518,Bacliff,Texas,1510,C,2,D,4732
+77519,Batson,Texas,497,D,2,C,4783
+77538,Devers,Texas,1455,C,2,B,7059
+77538,Devers,Texas,1011,C,3,F,6216
+77539,Dickinson,Texas,800,C,2,B,6317
+77573,League City,Texas,193,D,4,C,6952
+77580,Mont Belvieu,Texas,911,C,4,D,6902
+77582,Raywood,Texas,587,F,2,D,
+77587,South Houston,Texas,981,D,2,F,3589
+77597,Wallisville,Texas,64,A,5,A,13146
+77630,Orange,Texas,1188,A,4,A,12973
+77630,Orange,Texas,336,D,3,A,5004
+77655,Sabine Pass,Texas,283,C,5,C,8343
+77713,Beaumont,Texas,396,F,1,B,4568
+77802,Bryan,Texas,1142,B,5,A,
+77831,Bedias,Texas,777,A,1,A,6423
+77974,Meyersville,Texas,772,A,4,B,14861
+77977,Placedo,Texas,1438,D,3,D,
+77982,Port o Connor,Texas,612,F,5,D,5287
+78014,Cotulla,Texas,1538,C,3,D,5362
+78021,Fowlerton,Texas,725,F,4,F,4459
+78058,Mountain Home,Texas,1585,A,3,B,
+78063,Pipe Creek,Texas,1975,A,3,A,9177
+78067,San Ygnacio,Texas,1880,B,5,B,11944
+78104,Beeville,Texas,239,B,3,B,8737
+78132,New Braunfels,Texas,999,F,3,B,4798
+78147,Poth,Texas,21,F,4,B,5287
+78162,Tuleta,Texas,1886,D,2,A,4688
+78201,San Antonio,Texas,520,A,1,B,10694
+78201,San Antonio,Texas,1033,D,1,A,
+78202,San Antonio,Texas,1605,D,1,F,3837
+78212,San Antonio,Texas,225,D,4,F,
+78219,San Antonio,Texas,794,F,3,F,4641
+78223,San Antonio,Texas,1909,B,4,A,
+78228,San Antonio,Texas,1942,A,3,C,7361
+78230,San Antonio,Texas,1702,B,3,D,6874
+78244,San Antonio,Texas,1243,A,3,F,6801
+78247,San Antonio,Texas,43,C,1,C,5872
+78247,San Antonio,Texas,945,D,5,C,6846
+78249,San Antonio,Texas,1379,D,3,A,5290
+78285,San Antonio,Texas,1188,A,5,B,12514
+78288,San Antonio,Texas,867,D,5,F,5074
+78338,Armstrong,Texas,114,F,3,D,3712
+78363,Kingsville,Texas,967,C,1,B,6779
+78379,Riviera,Texas,765,C,5,F,6479
+78380,Robstown,Texas,333,B,1,A,6912
+78382,Rockport,Texas,1363,F,2,C,4026
+78389,Skidmore,Texas,1157,F,5,F,5446
+78505,McAllen,Texas,891,F,2,D,3766
+78516,Alamo,Texas,985,B,2,A,7683
+78535,Combes,Texas,861,B,4,A,10062
+78536,Delmita,Texas,1734,A,1,B,
+78539,Edinburg,Texas,748,D,1,B,5299
+78550,Harlingen,Texas,748,A,3,D,7236
+78576,Penitas,Texas,1535,B,2,A,9589
+78591,Santa Elena,Texas,414,C,2,C,5205
+78593,Santa Rosa,Texas,669,F,5,C,7097
+78602,Bastrop,Texas,1440,D,2,F,3958
+78605,Bertram,Texas,555,A,4,C,8016
+78609,Buchanan Dam,Texas,425,B,5,F,9035
+78655,Martindale,Texas,192,A,5,A,
+78656,Maxwell,Texas,1473,B,2,B,
+78658,Ottine,Texas,1897,C,4,D,8382
+78666,San Marcos,Texas,1778,C,3,C,
+78669,Spicewood,Texas,1046,C,4,D,8026
+78719,Austin,Texas,1192,F,5,B,8661
+78722,Austin,Texas,1806,B,5,B,13023
+78733,Austin,Texas,825,F,1,F,
+78749,Austin,Texas,767,C,2,A,6014
+78764,Austin,Texas,1255,B,5,A,13389
+78769,Austin,Texas,599,B,4,D,8619
+78779,Austin,Texas,767,D,3,F,
+78802,Uvalde,Texas,712,D,2,A,
+78832,Brackettville,Texas,296,C,1,B,6505
+78842,Del Rio,Texas,1090,B,5,A,
+78871,Langtry,Texas,681,A,2,F,
+78945,La Grange,Texas,1433,A,3,C,
+78947,Lexington,Texas,532,B,1,C,6864
+78947,Lexington,Texas,1234,C,4,D,6434
+78947,Lexington,Texas,1536,D,3,B,6263
+78954,Round Top,Texas,1492,C,2,F,5597
+79029,Dumas,Texas,552,D,2,A,4790
+79036,Fritch,Texas,1421,C,1,F,4044
+79073,Plainview,Texas,1594,B,4,F,8975
+79084,Stratford,Texas,526,A,2,F,
+79084,Stratford,Texas,1369,C,3,D,5566
+79094,Wayside,Texas,1830,C,1,F,4724
+79096,Wheeler,Texas,734,C,2,B,8245
+79105,Amarillo,Texas,130,A,3,D,6840
+79105,Amarillo,Texas,220,B,1,A,7787
+79189,Amarillo,Texas,548,C,5,A,9108
+79243,McAdoo,Texas,1413,B,5,C,9666
+79245,Memphis,Texas,1723,D,4,D,5567
+79311,Abernathy,Texas,964,F,5,B,6578
+79330,Justiceburg,Texas,537,A,2,C,7456
+79345,Meadow,Texas,344,B,1,D,5652
+79347,Muleshoe,Texas,1548,D,2,A,6122
+79366,Ransom Canyon,Texas,760,A,2,F,6093
+79380,Whitharral,Texas,1579,D,2,C,3379
+79411,Lubbock,Texas,1037,D,2,A,4691
+79505,Benjamin,Texas,1194,D,4,C,5192
+79517,Fluvanna,Texas,75,C,3,D,5788
+79535,Maryneal,Texas,870,D,4,A,7566
+79545,Roscoe,Texas,1626,B,2,D,5874
+79566,Wingate,Texas,1376,C,3,F,4633
+79706,Midland,Texas,1032,B,1,C,6322
+79713,Ackerly,Texas,1626,F,1,A,
+79730,Coyanosa,Texas,1693,C,3,C,5956
+79745,Kermit,Texas,1225,F,2,B,5198
+79749,Lenorah,Texas,1464,D,4,B,
+79762,Odessa,Texas,1274,C,3,A,7555
+79770,Orla,Texas,1490,F,5,A,7361
